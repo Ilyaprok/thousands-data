@@ -5,9 +5,9 @@ description: "Скальный выход, курумы\r\n"
 height: 1069
 images:
 - comment: Вершина
-  image: ed5a774c527e7cd0f92415649c3e1fba8b412177.jpeg
+  filename: ed5a774c527e7cd0f92415649c3e1fba8b412177.jpeg
 - comment: На вершине
-  image: ab8c6ae9bd7764f7caa0b844df28f7a23c5f2153.jpeg
+  filename: ab8c6ae9bd7764f7caa0b844df28f7a23c5f2153.jpeg
 interpretation: null
 name: null
 name_alt: null

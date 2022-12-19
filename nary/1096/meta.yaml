@@ -5,9 +5,9 @@ description: ''
 height: 1096
 images:
 - comment: Вершина
-  image: f3e63c1a18b054b9e95850bfee95c5aec857430f.jpeg
+  filename: f3e63c1a18b054b9e95850bfee95c5aec857430f.jpeg
 - comment: Вершинный тур
-  image: 46761dab6222c8e29954c0f31a87b28724d03aca.jpeg
+  filename: 46761dab6222c8e29954c0f31a87b28724d03aca.jpeg
 interpretation: null
 name: null
 name_alt: null

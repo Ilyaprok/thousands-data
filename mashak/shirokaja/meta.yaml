@@ -5,15 +5,15 @@ description: Широкое тундровое плато, обрывающее�
 height: 1332
 images:
 - comment: Вершина
-  image: fd63ec035f8ed73573d8e6bfaec21e34dc197f6c.jpeg
+  filename: fd63ec035f8ed73573d8e6bfaec21e34dc197f6c.jpeg
 - comment: На вершине 1
-  image: caf93f28ead167e70ea8127cc1ac2c9f22efbfb5.jpeg
+  filename: caf93f28ead167e70ea8127cc1ac2c9f22efbfb5.jpeg
 - comment: На вершине 2
-  image: 9e4387be7697152b36ead8dcb9a40b117e2e903f.jpeg
+  filename: 9e4387be7697152b36ead8dcb9a40b117e2e903f.jpeg
 - comment: Вид с вершины 1
-  image: ada330edce64aa6e27ba90994494a319ac3c532e.jpeg
+  filename: ada330edce64aa6e27ba90994494a319ac3c532e.jpeg
 - comment: Вид с вершины 2
-  image: ce82960979dc9750c0d04971453e48b69c11d359.jpeg
+  filename: ce82960979dc9750c0d04971453e48b69c11d359.jpeg
 interpretation: На южном Урале часто горы с большими столообразными вершинами называли
   &laquo;широкими&raquo;.
 name: Широкая

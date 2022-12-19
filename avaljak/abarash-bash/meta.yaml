@@ -6,13 +6,13 @@ description: Скальный выход на большой курумном к
 height: 1291
 images:
 - comment: С Малого Аваляка.
-  image: 7fbe36adc92c8f55712526023778cc31663cfa86.jpeg
+  filename: 7fbe36adc92c8f55712526023778cc31663cfa86.jpeg
 - comment: Вершина с 1233 (Иремель)
-  image: 721764a93d9f5cb4fe30c2c46cbcebbbacfd6d73.jpeg
+  filename: 721764a93d9f5cb4fe30c2c46cbcebbbacfd6d73.jpeg
 - comment: Вершина
-  image: 4ae53ec763cf7bf4a0b897ed413023d43548078f.jpeg
+  filename: 4ae53ec763cf7bf4a0b897ed413023d43548078f.jpeg
 - comment: геодезический репер
-  image: c5e4e9147c3a4b0a9acf26f0677ed00e13c8b7d4.jpeg
+  filename: c5e4e9147c3a4b0a9acf26f0677ed00e13c8b7d4.jpeg
 interpretation: '<strong>Баш</strong> (тюрк.) &mdash; голова '
 name: Абараш-Баш
 name_alt: null

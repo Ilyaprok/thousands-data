@@ -5,9 +5,9 @@ description: Разрушенные скалы
 height: 1393
 images:
 - comment: Вершина (вид с севера)
-  image: e2307846bb793e1b737b349bea4d981e3fae36df.jpeg
+  filename: e2307846bb793e1b737b349bea4d981e3fae36df.jpeg
 - comment: Вершина (вид с юга)
-  image: 020000aad304abfc6da5c2af329baf58663e2785.jpeg
+  filename: 020000aad304abfc6da5c2af329baf58663e2785.jpeg
 interpretation: ''
 name: null
 name_alt: null

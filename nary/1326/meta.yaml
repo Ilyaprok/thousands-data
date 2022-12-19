@@ -5,11 +5,11 @@ description: "Скала\r\n"
 height: 1326
 images:
 - comment: Вершина
-  image: 8ea8144a89522c3c3c404296129006946f4730a1.jpeg
+  filename: 8ea8144a89522c3c3c404296129006946f4730a1.jpeg
 - comment: Вершина 2
-  image: 7b7dbfa8fd79a2b045d3b41d712373adcc53f5b4.jpeg
+  filename: 7b7dbfa8fd79a2b045d3b41d712373adcc53f5b4.jpeg
 - comment: Вид с вершины
-  image: eb5cc1f51ebb8a0528c3a1b1b20641814b6fde2a.jpeg
+  filename: eb5cc1f51ebb8a0528c3a1b1b20641814b6fde2a.jpeg
 interpretation: null
 name: null
 name_alt: null

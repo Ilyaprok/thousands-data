@@ -5,9 +5,9 @@ description: Скальный обрыв на восточную сторону
 height: 1013
 images:
 - comment: Вершина
-  image: 5bb415b2ae1edd8bec2713e73efc9b5da01cbc7b.jpeg
+  filename: 5bb415b2ae1edd8bec2713e73efc9b5da01cbc7b.jpeg
 - comment: Восточная стена
-  image: 69dc1f6f8c6e02068a5d23309d23b80b0f038c16.jpeg
+  filename: 69dc1f6f8c6e02068a5d23309d23b80b0f038c16.jpeg
 interpretation: ''
 name: null
 name_alt: null

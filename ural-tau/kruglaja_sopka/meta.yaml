@@ -5,9 +5,9 @@ description: "Курумный купол, скальный выход.\r\n"
 height: 1016
 images:
 - comment: Вид с вершины 1
-  image: e8b148585d00a6fd5c963449c2b0e84f7a745ee3.jpeg
+  filename: e8b148585d00a6fd5c963449c2b0e84f7a745ee3.jpeg
 - comment: Вид с вершины 2
-  image: 319a8d7b91c780f961cf9999fb3123739d3d73cc.jpeg
+  filename: 319a8d7b91c780f961cf9999fb3123739d3d73cc.jpeg
 interpretation: "<ol>\r\n<li><b>Круглая</b> &mdash; по форме. <b>Сопка</b> &mdash;\
   \ гора с округлой вершиной. Крулгая гора.</li>\r\n<li><b>Таш</b> (баш.) &mdash;\
   \ камень. Уйский камень &mdash; на восточном склоне берет начало река Уй.</li>\r\

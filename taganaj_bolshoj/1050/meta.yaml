@@ -5,14 +5,14 @@ description: "Невысокие скалы в лесу\r\n"
 height: 1050
 images:
 - comment: Вершина
-  image: 649ad0b2ebeb42e8e2949c8d9316b63bccf031e8.jpeg
+  filename: 649ad0b2ebeb42e8e2949c8d9316b63bccf031e8.jpeg
 - comment: Вид с вершины в сторону Златоуста. Слева - Монблан, справа - Откликной
     Гребень
-  image: 9d11f75c1f30b10b66f3b404d235cf68ea9767f9.jpeg
+  filename: 9d11f75c1f30b10b66f3b404d235cf68ea9767f9.jpeg
 - comment: Вид с вершины в сторону Круглицы (справа - Ицыл)
-  image: 3e66eb1079d96bdde5a2f5091ff6e8d52366bcf6.jpeg
+  filename: 3e66eb1079d96bdde5a2f5091ff6e8d52366bcf6.jpeg
 - comment: Вершина
-  image: bbbe8ccb1f7034a431b4aee4f98bb6c0adcb7dd8.jpeg
+  filename: bbbe8ccb1f7034a431b4aee4f98bb6c0adcb7dd8.jpeg
 interpretation: null
 name: null
 name_alt: null

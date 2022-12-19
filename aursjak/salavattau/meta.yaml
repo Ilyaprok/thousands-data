@@ -5,11 +5,11 @@ description: Цепь скал-останцев &mdash; столбов.
 height: 1088
 images:
 - comment: Вершина
-  image: 7ca88709e9feac9633b5a267bd7ef2328833a7d0.jpeg
+  filename: 7ca88709e9feac9633b5a267bd7ef2328833a7d0.jpeg
 - comment: Вершинный тур
-  image: 44dcb4a05866824c438a6990933c63ac3f408dce.jpeg
+  filename: 44dcb4a05866824c438a6990933c63ac3f408dce.jpeg
 - comment: Вид с вершины
-  image: 095fa9452ee22496316e6b081d3f2f9487533361.jpeg
+  filename: 095fa9452ee22496316e6b081d3f2f9487533361.jpeg
 interpretation: null
 name: Салаваттау
 name_alt: null

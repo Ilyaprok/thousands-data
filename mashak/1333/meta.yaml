@@ -6,11 +6,11 @@ description: "На вершине холма, представляющего с�
 height: 1333
 images:
 - comment: Вершина
-  image: 249e6960b807b7e28a843a046d81dcae2d1a7faa.jpeg
+  filename: 249e6960b807b7e28a843a046d81dcae2d1a7faa.jpeg
 - comment: Вид с вершины 1
-  image: 121b37de5178a38016ba348ca610e953422a91a1.jpeg
+  filename: 121b37de5178a38016ba348ca610e953422a91a1.jpeg
 - comment: Вид с вершины 2
-  image: 90dd705c2bfb39fa8a64d3d76c066d3cb8eaf773.jpeg
+  filename: 90dd705c2bfb39fa8a64d3d76c066d3cb8eaf773.jpeg
 interpretation: null
 name: null
 name_alt: null

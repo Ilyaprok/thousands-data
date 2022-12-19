@@ -5,9 +5,9 @@ description: "Курумы на склоне, скалы в лесу на вер
 height: 1123
 images:
 - comment: Вершина с 1233 (Иремель)
-  image: 50557dc19ca25db46bd5841e23f8dcaa733ead25.jpeg
+  filename: 50557dc19ca25db46bd5841e23f8dcaa733ead25.jpeg
 - comment: Вершина
-  image: 73ffcc9efc617571a5555859ae8482090457dc14.jpeg
+  filename: 73ffcc9efc617571a5555859ae8482090457dc14.jpeg
 interpretation: "<ol>\r\n<li>Синяя гора</lo>\r\n<li>В XIX веке ручей Синяк, давший\
   \ название горе, назывался &laquo;Исейят&raquo;. <b>Синяк</b> &mdash; искажённое\
   \ Исейят."

@@ -5,9 +5,9 @@ description: "Редколесье, плато\r\n"
 height: 1015
 images:
 - comment: Вершина
-  image: de04a62d7d581c66c15c5724a0af23e42969faa2.jpeg
+  filename: de04a62d7d581c66c15c5724a0af23e42969faa2.jpeg
 - comment: Вид с вершины
-  image: 1b6905214d8abd23b2b41df9f41ccd378b737b84.jpeg
+  filename: 1b6905214d8abd23b2b41df9f41ccd378b737b84.jpeg
 interpretation: null
 name: null
 name_alt: null

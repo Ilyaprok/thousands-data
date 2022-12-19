@@ -5,11 +5,11 @@ description: "Невысокие скалы посреди горнотундр�
 height: 1068
 images:
 - comment: Вершина
-  image: 35db6cc4191efc6f9e8cedd9def6f70dc39d6ba5.jpeg
+  filename: 35db6cc4191efc6f9e8cedd9def6f70dc39d6ba5.jpeg
 - comment: Вершина (слева)
-  image: e919a0c0c5a66634af0eb23d1b7e89ed601a2017.jpeg
+  filename: e919a0c0c5a66634af0eb23d1b7e89ed601a2017.jpeg
 - comment: Вершина
-  image: a2104b0db4e1d8180899a2121d443c40047e6db6.jpeg
+  filename: a2104b0db4e1d8180899a2121d443c40047e6db6.jpeg
 interpretation: <b>Иссиль</b> (баш.) &mdash; вечный ветер. <b>Иссеу</b>(баш.) &mdash;
   дуть. <b>Ел</b> (баш.) &mdash; ветер. Гора ветров
 name: Ицыл

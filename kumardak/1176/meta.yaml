@@ -5,9 +5,9 @@ description: "Скала\r\n"
 height: 1176
 images:
 - comment: Вершина
-  image: 9f1a4234c80659ae0e293c8a36b499b1ab65bda2.jpeg
+  filename: 9f1a4234c80659ae0e293c8a36b499b1ab65bda2.jpeg
 - comment: Вид с г. Большой Кумардак
-  image: 5a92dc4c592c8ce5ef9229406610d71dd33f833e.jpeg
+  filename: 5a92dc4c592c8ce5ef9229406610d71dd33f833e.jpeg
 interpretation: null
 name: null
 name_alt: null

@@ -8,9 +8,9 @@ description: 'Выходы слюды
 height: 1000
 images:
 - comment: Вид с вершины на юг
-  image: 860be7c239718a204aa1a03a4d439f25c1ce0ce9.jpeg
+  filename: 860be7c239718a204aa1a03a4d439f25c1ce0ce9.jpeg
 - comment: На вершине
-  image: 9a262752f3a0a410c0b6b4a374934e14f2735f2c.jpeg
+  filename: 9a262752f3a0a410c0b6b4a374934e14f2735f2c.jpeg
 interpretation: null
 name: null
 name_alt: Слюдяная Горка

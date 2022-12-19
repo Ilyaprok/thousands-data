@@ -5,9 +5,9 @@ description: Лесостепь, камни, скальный выход вул�
 height: 1060
 images:
 - comment: Вершина
-  image: a7495bcc89bc6e85611232326e4d2ff026aa24de.jpeg
+  filename: a7495bcc89bc6e85611232326e4d2ff026aa24de.jpeg
 - comment: Вид с вершины
-  image: 03a06f3ab64b009d15c6d37172fec4863c4e2fb6.jpeg
+  filename: 03a06f3ab64b009d15c6d37172fec4863c4e2fb6.jpeg
 interpretation: "В честь народного героя Салавата Юлаева, либо просто от башкирского\
   \ имению\r\n"
 name: null

@@ -5,15 +5,15 @@ description: Скальный бастион
 height: 1066
 images:
 - comment: С Юго-запада
-  image: 71da60ebe638e1aa1f4abea590d89d12f3d71e5a.jpeg
+  filename: 71da60ebe638e1aa1f4abea590d89d12f3d71e5a.jpeg
 - comment: С вершины Ялангаса
-  image: e8a5c79941c482346e95385c4a3634f99ca4d418.jpeg
+  filename: e8a5c79941c482346e95385c4a3634f99ca4d418.jpeg
 - comment: Вершина
-  image: 36311437f23158959be41514d6cee93e947b9c64.jpeg
+  filename: 36311437f23158959be41514d6cee93e947b9c64.jpeg
 - comment: Вид с вершины 1
-  image: 11d321177ef632daba0702f57fd18dac440afc13.jpeg
+  filename: 11d321177ef632daba0702f57fd18dac440afc13.jpeg
 - comment: Вид с вершины 2
-  image: 8a8ca7ea78aefd00fa5938a30b931c6f8c852fd0.jpeg
+  filename: 8a8ca7ea78aefd00fa5938a30b931c6f8c852fd0.jpeg
 interpretation: null
 name: Индеец
 name_alt: Зуб, Голова Индейца, Голенькая

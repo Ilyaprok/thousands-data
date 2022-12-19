@@ -5,9 +5,9 @@ description: ''
 height: 1021
 images:
 - comment: Вершина
-  image: 7e3f497eef3395493322f58a0f178d4d45eae4fb.jpeg
+  filename: 7e3f497eef3395493322f58a0f178d4d45eae4fb.jpeg
 - comment: '1'
-  image: 79c02c7a07fc158e21e5ac9f24c6fdc25b694b26.jpeg
+  filename: 79c02c7a07fc158e21e5ac9f24c6fdc25b694b26.jpeg
 interpretation: null
 name: null
 name_alt: null

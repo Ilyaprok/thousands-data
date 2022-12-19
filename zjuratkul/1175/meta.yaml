@@ -5,9 +5,9 @@ description: "Курумы, тундра, скальный выход\r\n"
 height: 1175
 images:
 - comment: С юго-запада
-  image: cb5b106ece6e8de3938bf67baf3b4ef3bc58d962.jpeg
+  filename: cb5b106ece6e8de3938bf67baf3b4ef3bc58d962.jpeg
 - comment: На вершине
-  image: b1a6f2a09f4c34a550b57207ab27b1c56005bad4.jpeg
+  filename: b1a6f2a09f4c34a550b57207ab27b1c56005bad4.jpeg
 interpretation: null
 name: null
 name_alt: null

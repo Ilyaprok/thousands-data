@@ -5,13 +5,13 @@ description: "\r\n"
 height: 1205
 images:
 - comment: Вершина
-  image: 8a84e97163d50bb618ad8e24311ed0ef2395cb37.jpeg
+  filename: 8a84e97163d50bb618ad8e24311ed0ef2395cb37.jpeg
 - comment: остатки триангуляционной вышки
-  image: 0c9ce8ddcf11f87ae83f8b3ccab7f68340fd5722.jpeg
+  filename: 0c9ce8ddcf11f87ae83f8b3ccab7f68340fd5722.jpeg
 - comment: Вид в сторону массива Иремель
-  image: 3a8eb7ca962f649831eb088d63f3ea9652d8ea26.jpeg
+  filename: 3a8eb7ca962f649831eb088d63f3ea9652d8ea26.jpeg
 - comment: '1'
-  image: 3dfa47f74870f158fe5005b08c29b96388fa2fc1.jpeg
+  filename: 3dfa47f74870f158fe5005b08c29b96388fa2fc1.jpeg
 interpretation: "Обилие ягод. <strong>Елэк-Тау</strong> &mdash; ягодная гора.\r\n"
 name: Большая Ягодная
 name_alt: Елэк-Тау

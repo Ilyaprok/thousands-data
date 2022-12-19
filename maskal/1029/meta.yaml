@@ -5,9 +5,9 @@ description: "Небольшая скальная гряда в лесу\r\n"
 height: 1029
 images:
 - comment: На вершине
-  image: 03969d091c271b93734ea1238f16bf9599b9707a.jpeg
+  filename: 03969d091c271b93734ea1238f16bf9599b9707a.jpeg
 - comment: Вид с вершины на Нургуш
-  image: dcfa8ac0d3ba05c1aaaf585b6e5d2e10d0548409.jpeg
+  filename: dcfa8ac0d3ba05c1aaaf585b6e5d2e10d0548409.jpeg
 interpretation: null
 name: null
 name_alt: null

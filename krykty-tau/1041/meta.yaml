@@ -5,9 +5,9 @@ description: "Скалы вулканических пород\r\n"
 height: 1041
 images:
 - comment: Вершина
-  image: 99abd7dc0dd3dac25a8bdbefbde6718716acea5d.jpeg
+  filename: 99abd7dc0dd3dac25a8bdbefbde6718716acea5d.jpeg
 - comment: Вид с вершины
-  image: fbaf52d8dc3c283f02cd226cf5e3f8ff0dc103e8.jpeg
+  filename: fbaf52d8dc3c283f02cd226cf5e3f8ff0dc103e8.jpeg
 interpretation: null
 name: null
 name_alt: Восточная Кусимовка

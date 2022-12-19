@@ -5,9 +5,9 @@ description: "Небольшой скальный выход в лесу\r\n"
 height: 1022
 images:
 - comment: Вид с вершины
-  image: a72dafe20262aec1e84f44920b69e7850e1d4919.jpeg
+  filename: a72dafe20262aec1e84f44920b69e7850e1d4919.jpeg
 - comment: Предвершинный курумник
-  image: 122a05aff57aeec7c1e379d3b5a739ae1778bfdb.jpeg
+  filename: 122a05aff57aeec7c1e379d3b5a739ae1778bfdb.jpeg
 interpretation: По мнению жителей Верхнеаршинска, гора названа так потому, что на
   склоне близлежащего холма когда-то сеяли репу.
 name: null

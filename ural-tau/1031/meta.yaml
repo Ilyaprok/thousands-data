@@ -5,9 +5,9 @@ description: "Скальный выход\r\n"
 height: 1031
 images:
 - comment: Вершина
-  image: 646dbe5d147b664c35568740bfc9c017961d5290.jpeg
+  filename: 646dbe5d147b664c35568740bfc9c017961d5290.jpeg
 - comment: Вид со склонов горы (видна г. Колокольня)
-  image: ac713347195b7bccd83f670a2de3134b783cf71b.jpeg
+  filename: ac713347195b7bccd83f670a2de3134b783cf71b.jpeg
 interpretation: "По названию реки Мата\r\n"
 name: null
 name_alt: Мата

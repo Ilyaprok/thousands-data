@@ -7,9 +7,9 @@ description: Скальный гребень, состоящий из огром
 height: 1141
 images:
 - comment: Вершина
-  image: cbee43f4b3dd4aee174e557b61b69fd24e0d6c40.jpeg
+  filename: cbee43f4b3dd4aee174e557b61b69fd24e0d6c40.jpeg
 - comment: Вид с вершины
-  image: 3f52def50a01f59b7fa0932ec2502b2f9524e61f.jpeg
+  filename: 3f52def50a01f59b7fa0932ec2502b2f9524e61f.jpeg
 interpretation: null
 name: null
 name_alt: null

@@ -5,9 +5,9 @@ description: "Курумный купол, скальный выход\r\n"
 height: 1233
 images:
 - comment: Вершина с Иремеля
-  image: 03afcd0007b2afcbf3991ecec0c18f2738b6288c.jpeg
+  filename: 03afcd0007b2afcbf3991ecec0c18f2738b6288c.jpeg
 - comment: Панорама с вершины на Тыгынскую каменную реку (хребет Аваляк, г. Синяк)
-  image: b782b8e9a00cb1526f936dc4107cde869e0d704f.jpeg
+  filename: b782b8e9a00cb1526f936dc4107cde869e0d704f.jpeg
 interpretation: "<ol>\r\n<li>&laquo;Синяя гора&raquo;\r\n<li>В XIX веке ручей <strong>Синяк</strong>,\
   \ давший название горе, назывался <strong>Исейят</strong>. &laquo;Синяк&raquo; &mdash;\
   \ искажённое &laquo;Исейят&raquo;.\r\n</ol>"

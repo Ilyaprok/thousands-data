@@ -8,11 +8,11 @@ description: Большой курумный конус, вытянутый по
 height: 1354
 images:
 - comment: С Ялангаса
-  image: a027e2d5e05062d39e5bb8931f50b64a8a5378bd.jpeg
+  filename: a027e2d5e05062d39e5bb8931f50b64a8a5378bd.jpeg
 - comment: С севера
-  image: 3b762f5cfbe7740d8602c5a57a793c190f8edd8f.jpeg
+  filename: 3b762f5cfbe7740d8602c5a57a793c190f8edd8f.jpeg
 - comment: С северного цирка инзерских зубчаток
-  image: b5cb376ff609d0ae6244533a60c343e7d9c47b30.jpeg
+  filename: b5cb376ff609d0ae6244533a60c343e7d9c47b30.jpeg
 interpretation: Название дано за характерную пирамидальную форму
 name: Колокольня
 name_alt: null

@@ -5,9 +5,9 @@ description: "Горная тундра, курумы, невысокие ска
 height: 1155
 images:
 - comment: Вершина
-  image: 1516be8bb31146178f9d8073d68d148d618086b1.jpeg
+  filename: 1516be8bb31146178f9d8073d68d148d618086b1.jpeg
 - comment: Вершина
-  image: 7403aa7b484108e7ae975aa26642e2c6e49c86f8.jpeg
+  filename: 7403aa7b484108e7ae975aa26642e2c6e49c86f8.jpeg
 interpretation: Первая из трех сопок, считая от Златоуста.
 name: Первая Сопка
 name_alt: null

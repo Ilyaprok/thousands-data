@@ -5,9 +5,9 @@ description: ''
 height: 1229
 images:
 - comment: Вид со скал неподалеку от вершины
-  image: 06176ead2c1cc86b470fc325251f4b0868058d66.jpeg
+  filename: 06176ead2c1cc86b470fc325251f4b0868058d66.jpeg
 - comment: Вершина
-  image: 2cce6d3375ae00d3c1d9d39fbdbeaa2cf0be664d.jpeg
+  filename: 2cce6d3375ae00d3c1d9d39fbdbeaa2cf0be664d.jpeg
 interpretation: null
 name: null
 name_alt: null

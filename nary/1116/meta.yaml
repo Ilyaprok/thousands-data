@@ -5,9 +5,9 @@ description: ''
 height: 1116
 images:
 - comment: Вершина
-  image: febdb1676f17d475b44099f725dd57b80d96a5b8.jpeg
+  filename: febdb1676f17d475b44099f725dd57b80d96a5b8.jpeg
 - comment: Вид на вершину
-  image: 575c817431e34ffef680c28d7c9d0acfab881840.jpeg
+  filename: 575c817431e34ffef680c28d7c9d0acfab881840.jpeg
 interpretation: null
 name: null
 name_alt: null

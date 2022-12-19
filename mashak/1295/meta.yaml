@@ -5,9 +5,9 @@ description: Поля курумов, скальный выход
 height: 1295
 images:
 - comment: Вид с вершины
-  image: 7df30de853e30f28d049e6628478539dc56d9f35.jpeg
+  filename: 7df30de853e30f28d049e6628478539dc56d9f35.jpeg
 - comment: Вершина
-  image: 1ed02793d992c6b6bb66e797c6613a0a789a29ab.jpeg
+  filename: 1ed02793d992c6b6bb66e797c6613a0a789a29ab.jpeg
 interpretation: null
 name: null
 name_alt: null

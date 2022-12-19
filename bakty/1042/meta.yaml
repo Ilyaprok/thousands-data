@@ -5,11 +5,11 @@ description: Лесистая вершина
 height: 1042
 images:
 - comment: Вершина (вид с г. Белые Гребни)
-  image: 53809df2c9367efcd3baa098c03e0923b0da252c.jpeg
+  filename: 53809df2c9367efcd3baa098c03e0923b0da252c.jpeg
 - comment: Вид с останцев неподалеку от вершины в сторону северной части хребта Бакты
-  image: d391e36d676811a0b3f110c1bb91fc3c5221e17d.jpeg
+  filename: d391e36d676811a0b3f110c1bb91fc3c5221e17d.jpeg
 - comment: Вид с останцев неподалеку от вершины в сторону южной части хребта Бакты
-  image: 1a34a9fab862d5adc9f271a5fa6349f98657a190.jpeg
+  filename: 1a34a9fab862d5adc9f271a5fa6349f98657a190.jpeg
 interpretation: ''
 name: null
 name_alt: null

@@ -5,9 +5,9 @@ description: Поляна в лесу, скальные выходы
 height: 1203
 images:
 - comment: Вершина - левый останец
-  image: c1d1ce89365bded2b643f8f4b80073a3d41508f4.jpeg
+  filename: c1d1ce89365bded2b643f8f4b80073a3d41508f4.jpeg
 - comment: На вершине. Антенна завалена
-  image: 1de6300c790c0d2f230cb0118f570fc0f2c64ec8.jpeg
+  filename: 1de6300c790c0d2f230cb0118f570fc0f2c64ec8.jpeg
 interpretation: На вершине стоят &laquo;антенны&raquo; авианавигации
 name: Антенная
 name_alt: null

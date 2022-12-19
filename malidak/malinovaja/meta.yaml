@@ -5,11 +5,11 @@ description: Группа скал, расположенных дугой
 height: 1152
 images:
 - comment: С Отнурка
-  image: 3ec0a42fde745053d3e21f44d71669bb4b4aa302.jpeg
+  filename: 3ec0a42fde745053d3e21f44d71669bb4b4aa302.jpeg
 - comment: С Отнурка
-  image: c84248f883016f48fc98cd75a4050e10e3dc2b92.jpeg
+  filename: c84248f883016f48fc98cd75a4050e10e3dc2b92.jpeg
 - comment: Вид с вершины
-  image: bfe982a415b8150eaa96bd07c02d6c7c434d6d1e.jpeg
+  filename: bfe982a415b8150eaa96bd07c02d6c7c434d6d1e.jpeg
 interpretation: "Обилие ягод (малины).\r\n<strong>Элэкташ</strong> (баш.) &mdash;\
   \ ягодный камень."
 name: Малиновая

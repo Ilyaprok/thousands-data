@@ -5,9 +5,9 @@ description: ''
 height: 1213
 images:
 - comment: Вид на вершину со Среднего Нургуша (1350)
-  image: f7d1f51088117bf15166f470b7bc40db5888a2dd.jpeg
+  filename: f7d1f51088117bf15166f470b7bc40db5888a2dd.jpeg
 - comment: Вид с вершины
-  image: 2356d5d23c4f676d2f5a60f58887c02f949068d1.jpeg
+  filename: 2356d5d23c4f676d2f5a60f58887c02f949068d1.jpeg
 interpretation: null
 name: null
 name_alt: null

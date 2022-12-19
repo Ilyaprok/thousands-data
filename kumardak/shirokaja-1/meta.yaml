@@ -7,11 +7,11 @@ description: Горнотундровое плато, курумы, скальн
 height: 1287
 images:
 - comment: Вид с вершины
-  image: c962bfa82a784f486745206099886335abf6e111.jpeg
+  filename: c962bfa82a784f486745206099886335abf6e111.jpeg
 - comment: Панорама в сторону Широкой россыпи
-  image: 8be48598bc275324a795744d77317fccff3b51be.jpeg
+  filename: 8be48598bc275324a795744d77317fccff3b51be.jpeg
 - comment: Вид с вершины 2
-  image: 932a2c9e0f22994e4597bf8a9f338f9482767589.jpeg
+  filename: 932a2c9e0f22994e4597bf8a9f338f9482767589.jpeg
 interpretation: На Южном Урале часто горы с большими столообразными вершинами называли
   &laquo;широкими&raquo;.
 name: Широкая

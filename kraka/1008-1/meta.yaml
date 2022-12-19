@@ -5,9 +5,9 @@ description: "Лесостепь, камни\r\n"
 height: 1008
 images:
 - comment: На подходе к вершине (слева)
-  image: 80f054aaffeb04bf7442d41c651eebfd2fa83773.jpeg
+  filename: 80f054aaffeb04bf7442d41c651eebfd2fa83773.jpeg
 - comment: Вид с вершины в сторону Шигаево
-  image: 4f0792dbd482edf656866e5ca04a33ae850f148f.jpeg
+  filename: 4f0792dbd482edf656866e5ca04a33ae850f148f.jpeg
 interpretation: null
 name: null
 name_alt: null

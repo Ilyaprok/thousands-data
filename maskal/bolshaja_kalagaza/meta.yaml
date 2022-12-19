@@ -5,11 +5,11 @@ description: "Скала, лес\r\n"
 height: 1048
 images:
 - comment: Вершина (вид с поляны на Нургуше)
-  image: 30f1623e4f646c26c19e08ea5277b5ec0bd87959.jpeg
+  filename: 30f1623e4f646c26c19e08ea5277b5ec0bd87959.jpeg
 - comment: Вид с вершины
-  image: df95f7f3b16d25256f313f9b14747b00d235027b.jpeg
+  filename: df95f7f3b16d25256f313f9b14747b00d235027b.jpeg
 - comment: Панорама с вершины
-  image: c28b685abadbc0cc0592a8d1fa523a285617c383.jpeg
+  filename: c28b685abadbc0cc0592a8d1fa523a285617c383.jpeg
 interpretation: "<p>По названию рек Большая и Малая Калагаза.</p>\r\n<p><b>Калагоза</b>\
   \ (баш.) &mdash; река со старицами. (<b>Кылы</b> (баш.) &mdash; узкая полоска воды,\
   \ протока, старица. <b>Газе</b> (древнебаш.) &mdash; река.)"
