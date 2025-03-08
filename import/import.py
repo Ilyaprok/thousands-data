@@ -59,7 +59,7 @@ def import_ridges(conn):
             ridge_dir = DEST_DIR / row[0]
             os.mkdir(ridge_dir)
             meta = {"name": row[1], "color": row[2]}
-            with open(ridge_dir / "meta.yaml", "w") as f:
+            with open(ridge_dir / "_meta.yaml", "w") as f:
                 yaml.dump(meta, f, allow_unicode=True)
 
 
