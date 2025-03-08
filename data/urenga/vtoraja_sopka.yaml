@@ -1,0 +1,22 @@
+coordinates:
+- 55.038097
+- 59.50172
+description: "Вытянутый по оси хребта курумный купол, выходы скальных пород\r\n"
+height: 1198
+images:
+- comment: Вершина
+  image: summits/vtoraja_sopka_vershina_0.jpg
+  preview: summits/vtoraja_sopka_vershina_0_preview.jpg
+- comment: Вершина
+  image: summits/vtoraja_sopka_vershina_1.jpg
+  preview: summits/vtoraja_sopka_vershina_1_preview.jpg
+- comment: Вершина
+  image: summits/vtoraja_sopka_vershina_2.jpg
+  preview: summits/vtoraja_sopka_vershina_2_preview.jpg
+- comment: Вершинный тур
+  image: summits/vtoraja_sopka_vershinnyj_tur_3.jpg
+  preview: summits/vtoraja_sopka_vershinnyj_tur_3_preview.jpg
+interpretation: Вторая &mdash; средняя из трех сопок, считая от Златоуста. Голая &mdash;
+  мало растительности.
+name: Вторая Сопка
+name_alt: Голая Гора

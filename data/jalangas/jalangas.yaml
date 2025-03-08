@@ -1,0 +1,19 @@
+coordinates:
+- 54.127789
+- 58.31852
+description: "Невысокие скалы\r\n"
+height: 1297
+images:
+- comment: С вершины 1136
+  image: summits/jalangas_s_vershiny_1136_0.jpg
+  preview: summits/jalangas_s_vershiny_1136_0_preview.jpg
+- comment: Вершина (с Журболота)
+  image: summits/jalangas_vershina_(s_zhurbolota)_1.jpg
+  preview: summits/jalangas_vershina_(s_zhurbolota)_1_preview.jpg
+- comment: С Отнурка
+  image: summits/jalangas_s_otnurka_2.jpg
+  preview: summits/jalangas_s_otnurka_2_preview.jpg
+interpretation: "<strong>Ялангас</strong> (баш.) &mdash; открытый, голый. Открытая,\
+  \ голая гора, гора с большой поляной.\r\n"
+name: Ялангас
+name_alt: ''

@@ -1,0 +1,22 @@
+coordinates:
+- 54.35436
+- 58.222902
+description: "На вершине холма, представляющего собой альпийский луг &mdash; участок\
+  \ горной тундры, курумы, скальные выходы.\r\n"
+height: 1333
+images:
+- comment: Вид с вершины
+  image: summits/1333_vid_s_vershiny_0.jpg
+  preview: summits/1333_vid_s_vershiny_0_preview.jpg
+- comment: Вид с вершины 2
+  image: summits/1333_vid_s_vershiny_2_1.jpg
+  preview: summits/1333_vid_s_vershiny_2_1_preview.jpg
+- comment: Вид с вершины 1
+  image: summits/1333_vid_s_vershiny_1_2.jpg
+  preview: summits/1333_vid_s_vershiny_1_2_preview.jpg
+- comment: Вершина
+  image: summits/1333_vershina_3.jpg
+  preview: summits/1333_vershina_3_preview.jpg
+interpretation: null
+name: null
+name_alt: null

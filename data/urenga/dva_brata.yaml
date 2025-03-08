@@ -1,0 +1,19 @@
+coordinates:
+- 55.004411
+- 59.486027
+description: Отдельно стоящие скалы-останцы.
+height: 1067
+images:
+- comment: С Севера
+  image: summits/dva_brata_s_severa_0.jpg
+  preview: summits/dva_brata_s_severa_0_preview.jpg
+- comment: Вершина
+  image: summits/dva_brata_vershina_1.jpg
+  preview: summits/dva_brata_vershina_1_preview.jpg
+- comment: Вершина
+  image: summits/dva_brata_vershina_2.jpg
+  preview: summits/dva_brata_vershina_2_preview.jpg
+interpretation: <b>Сопка</b> &mdash; гора с округлой вершиной. Последняя из трех сопок
+  части хребта Уреньга, лежащей недалеко от Златоуста.
+name: Два Брата
+name_alt: Третья Сопка

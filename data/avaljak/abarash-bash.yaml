@@ -1,0 +1,22 @@
+coordinates:
+- 54.471659
+- 58.853502
+description: Скальный выход на большой курумном куполе. Высшая точка хребта, отличный
+  вид на Иремель и долины Тыгына и Белой
+height: 1291
+images:
+- comment: С Малого Аваляка.
+  image: summits/abarash-bash_s_malogo_avaljaka._0.jpg
+  preview: summits/abarash-bash_s_malogo_avaljaka._0_preview.jpg
+- comment: геодезический репер
+  image: summits/abarash-bash_geodezicheskij_reper_1.jpg
+  preview: summits/abarash-bash_geodezicheskij_reper_1_preview.jpg
+- comment: Вершина с 1233 (Иремель)
+  image: summits/abarash-bash_vershina_s_1233_(iremel')_2.jpg
+  preview: summits/abarash-bash_vershina_s_1233_(iremel')_2_preview.jpg
+- comment: Вершина
+  image: summits/abarash-bash_vershina_3.jpg
+  preview: summits/abarash-bash_vershina_3_preview.jpg
+interpretation: '<strong>Баш</strong> (тюрк.) &mdash; голова '
+name: Абараш-Баш
+name_alt: null

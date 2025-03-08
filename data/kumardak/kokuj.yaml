@@ -1,0 +1,19 @@
+coordinates:
+- 54.258174
+- 58.254154
+description: "Скала, обрывающаяся на восток, лес, курумы\r\n"
+height: 1124
+images:
+- comment: Вид с вершины
+  image: summits/kokuj_vid_s_vershiny_0.jpg
+  preview: summits/kokuj_vid_s_vershiny_0_preview.jpg
+- comment: Вид с вершины 2
+  image: summits/kokuj_vid_s_vershiny_2_1.jpg
+  preview: summits/kokuj_vid_s_vershiny_2_1_preview.jpg
+interpretation: "<ol>\r\n<li><strong>Кук</strong> (баш.) &mdash; синий, сивый. <strong>Уй</strong>(баш.,тат.)\
+  \ &mdash; долина, низина.\r\n<li><strong>Кукай</strong>, <strong>Кукей</strong>\
+  \ (тюрк.) &mdash; имя мужчины со значением &laquo;синий&raquo;.\r\n<li><strong>Кокуй</strong>\
+  \ - русскодиалектное &laquo;кокошник&raquo; &mdash; женский головной убор. Гора\
+  \ действительно на него похожа.\r\n</ol>"
+name: Кокуй
+name_alt: null

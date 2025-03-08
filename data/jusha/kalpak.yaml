@@ -1,0 +1,12 @@
+coordinates:
+- 54.183127
+- 58.079761
+description: "Лес, курумы, скальный выход.\r\n"
+height: 1194
+images:
+- comment: Вид с вершины
+  image: summits/kalpak_vid_s_vershiny_0.jpg
+  preview: summits/kalpak_vid_s_vershiny_0_preview.jpg
+interpretation: По характерной форме вершины.
+name: Калпак
+name_alt: null

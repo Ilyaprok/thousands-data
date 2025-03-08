@@ -1,0 +1,27 @@
+coordinates:
+- 54.306637
+- 58.293634
+description: Большой курумный конус, вытянутый по оси хребта, крутые западный и восточный
+  склоны. Перепад высот от границы леса до вершины &mdash; от 250 до 300 метров. Одна
+  из самых красивых и крутосклонных вершин Южного Урала. Замечательные панорамы с
+  вершины.
+height: 1354
+images:
+- comment: На вершине
+  image: summits/kolokolnja_na_vershine_0.jpg
+  preview: summits/kolokolnja_na_vershine_0_preview.jpg
+- comment: Южные зубцы вершины
+  image: summits/kolokolnja_juzhnye_zubtsy_vershiny_1.jpg
+  preview: summits/kolokolnja_juzhnye_zubtsy_vershiny_1_preview.jpg
+- comment: С северного цирка инзерских зубчаток
+  image: summits/kolokolnja_s_severnogo_tsirka_inzerskih_zubchatok_2.jpg
+  preview: summits/kolokolnja_s_severnogo_tsirka_inzerskih_zubchatok_2_preview.jpg
+- comment: С Ялангаса
+  image: summits/kolokolnja_s_jalangasa_3.jpg
+  preview: summits/kolokolnja_s_jalangasa_3_preview.jpg
+- comment: С севера
+  image: summits/kolokolnja_s_severa_4.jpg
+  preview: summits/kolokolnja_s_severa_4_preview.jpg
+interpretation: Название дано за характерную пирамидальную форму
+name: Колокольня
+name_alt: null

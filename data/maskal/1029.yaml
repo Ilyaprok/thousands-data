@@ -1,0 +1,15 @@
+coordinates:
+- 54.848531
+- 59.072845
+description: "Небольшая скальная гряда в лесу\r\n"
+height: 1029
+images:
+- comment: На вершине
+  image: summits/1029_na_vershine_0.jpg
+  preview: summits/1029_na_vershine_0_preview.jpg
+- comment: Вид с вершины на Нургуш
+  image: summits/1029_vid_s_vershiny_na_nurgush_1.jpg
+  preview: summits/1029_vid_s_vershiny_na_nurgush_1_preview.jpg
+interpretation: null
+name: null
+name_alt: null

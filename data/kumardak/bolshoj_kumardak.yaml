@@ -1,0 +1,21 @@
+coordinates:
+- 54.377182
+- 58.419404
+description: "Большой курумный конус, вытянутый по оси хребта/ перепад высот от края\
+  \ леса до вершины от 100 до 200м. На вершине скальный гребень.\r\n"
+height: 1318
+images:
+- comment: С Малого Кумардака
+  image: summits/bolshoj_kumardak_s_malogo_kumardaka_0.jpg
+  preview: summits/bolshoj_kumardak_s_malogo_kumardaka_0_preview.jpg
+- comment: Вид с вершины в сторону Шеломов
+  image: summits/bolshoj_kumardak_vid_s_vershiny_v_storonu_shelomov_1.jpg
+  preview: summits/bolshoj_kumardak_vid_s_vershiny_v_storonu_shelomov_1_preview.jpg
+- comment: Вершина
+  image: summits/bolshoj_kumardak_vershina_2.jpg
+  preview: summits/bolshoj_kumardak_vershina_2_preview.jpg
+interpretation: "<ol>\r\n<li><strong>Кюмэр</strong> (баш.) &mdash; горбатый, <strong>зэк</strong>\
+  \ (баш.) &mdash; гора.\r\n<li><strong>Кюмэр</strong> (баш.) &mdash; горбатый, <strong>дак</strong>\
+  \ (баш.) &mdash; имяобразующий аффикс.\r\n</ol>"
+name: Большой Кумардак
+name_alt: null

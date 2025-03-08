@@ -1,0 +1,19 @@
+coordinates:
+- 53.773452
+- 58.326679
+description: "Крутая, лесистая. Есть осыпи, выход вулканических пород\r\n"
+height: 1068
+images:
+- comment: С запада
+  image: summits/arvjakrjaz_s_zapada_0.jpg
+  preview: summits/arvjakrjaz_s_zapada_0_preview.jpg
+- comment: Вершина
+  image: summits/arvjakrjaz_vershina_1.jpg
+  preview: summits/arvjakrjaz_vershina_1_preview.jpg
+- comment: Вершина
+  image: summits/arvjakrjaz_vershina_2.jpg
+  preview: summits/arvjakrjaz_vershina_2_preview.jpg
+interpretation: 'Гора называется по двум рекам берущим около нее начало: <strong>Арвяк</strong>
+  и <strong>Рязь</strong>.'
+name: Арвякрязь
+name_alt: Рязь, Рязьташ, Арвяк

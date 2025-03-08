@@ -1,0 +1,24 @@
+coordinates:
+- 53.700522
+- 57.639331
+description: Лесостепь,  два небольших скальных выхода, сложенных сланцевыми породами.
+height: 1271
+images:
+- comment: Вершина
+  image: summits/bolshoj_shatak_vershina_0.jpg
+  preview: summits/bolshoj_shatak_vershina_0_preview.jpg
+- comment: Вид с вершины на север
+  image: summits/bolshoj_shatak_vid_s_vershiny_na_sever_1.jpg
+  preview: summits/bolshoj_shatak_vid_s_vershiny_na_sever_1_preview.jpg
+- comment: Вершинная палочка
+  image: summits/bolshoj_shatak_vershinnaja_palochka_2.jpg
+  preview: summits/bolshoj_shatak_vershinnaja_palochka_2_preview.jpg
+interpretation: "<p><b>Бишитэк</b>, <b>бишэтэк</b> (баш.)  &mdash; пять подолов, оборок.\
+  \ пять склонов, подъемов.</p>\r\n<p><b>Биш</b>, <b>беш</b> &mdash; пять. <b>Итэк</b>,\
+  \ <b>этэк</b> &mdash; подол, оборка. Подошва горы, склон. Тау (баш.) &mdash; гора.\r\
+  \n\r\n<ol>\r\n<li>Пять основных вершин хребта Шатак</li>\r\n<li>Вершина имеет пять\
+  \ подолов (подъёмов), пять ступеней на пути к вершине.</li>\r\n<li>Скалы вершин,\
+  \ сложенные сланцами пласт к пласту, и есть пять оборок, пять подолов (пять - метафорическая\
+  \ цифра).</li>\r\n</ol>\r\n"
+name: Большой Шатак
+name_alt: Бишитэк, Биш-Тау

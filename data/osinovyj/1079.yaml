@@ -1,0 +1,15 @@
+coordinates:
+- 54.270942
+- 58.318627
+description: Скальная башня
+height: 1079
+images:
+- comment: Вершина
+  image: summits/1079_vershina_0.jpg
+  preview: summits/1079_vershina_0_preview.jpg
+- comment: Восточные склоны вершины
+  image: summits/1079_vostochnye_sklony_vershiny_1.jpg
+  preview: summits/1079_vostochnye_sklony_vershiny_1_preview.jpg
+interpretation: ''
+name: null
+name_alt: null

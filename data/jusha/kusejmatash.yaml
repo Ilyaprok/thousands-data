@@ -1,0 +1,17 @@
+coordinates:
+- 54.158416
+- 58.030278
+description: "\r\n"
+height: 1125
+images:
+- comment: Вид с вершины
+  image: summits/kusejmatash_vid_s_vershiny_0.jpg
+  preview: summits/kusejmatash_vid_s_vershiny_0_preview.jpg
+- comment: Вид на вершину
+  image: summits/kusejmatash_vid_na_vershinu_1.jpg
+  preview: summits/kusejmatash_vid_na_vershinu_1_preview.jpg
+interpretation: "<b>Кусеу</b> (баш.) &mdash; кочевать, переходить с места на место.\
+  \ <b>Имат</b> &mdash; башкирское имя. <b>Таш</b> (баш.)-камень. <b>Тау</b> (баш.)\
+  \ &mdash; гора.\r\n"
+name: Кусейматаш
+name_alt: Кусейматау

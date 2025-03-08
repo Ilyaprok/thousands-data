@@ -1,0 +1,17 @@
+coordinates:
+- 54.325631
+- 58.36918
+description: Горнотундровое плато,скальные останцы. Между вершинами 1317, 1265 и 1287
+  лежит верховое болото, с которого &laquo;вытекает&raquo; курум Широкая Россыпь &mdash;
+  один из самых мощных на Южном Урале
+height: 1265
+images:
+- comment: Панорама вершины
+  image: summits/mashak_panorama_vershiny_0.jpg
+  preview: summits/mashak_panorama_vershiny_0_preview.jpg
+- comment: Вид на вершину с г. Б. Кумардак
+  image: summits/mashak_vid_na_vershinu_s_g._b._kumardak_1.jpg
+  preview: summits/mashak_vid_na_vershinu_s_g._b._kumardak_1_preview.jpg
+interpretation: Глухие места, обитали медведи
+name: Машак
+name_alt: Медвежья

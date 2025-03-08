@@ -1,0 +1,19 @@
+coordinates:
+- 54.02063
+- 58.291517
+description: Группа скал, расположенных дугой
+height: 1152
+images:
+- comment: С Отнурка
+  image: summits/malinovaja_s_otnurka_0.jpg
+  preview: summits/malinovaja_s_otnurka_0_preview.jpg
+- comment: С Отнурка
+  image: summits/malinovaja_s_otnurka_1.jpg
+  preview: summits/malinovaja_s_otnurka_1_preview.jpg
+- comment: Вид с вершины
+  image: summits/malinovaja_vid_s_vershiny_2.jpg
+  preview: summits/malinovaja_vid_s_vershiny_2_preview.jpg
+interpretation: "Обилие ягод (малины).\r\n<strong>Элэкташ</strong> (баш.) &mdash;\
+  \ ягодный камень."
+name: Малиновая
+name_alt: Малиновка, Елэкташ

@@ -1,0 +1,19 @@
+coordinates:
+- 53.645194
+- 58.535445
+description: Скальный выход
+height: 1080
+images:
+- comment: Вид с вершины 2
+  image: summits/kusimova_vid_s_vershiny_2_0.jpg
+  preview: summits/kusimova_vid_s_vershiny_2_0_preview.jpg
+- comment: Вершина (вид с запада)
+  image: summits/kusimova_vershina_(vid_s_zapada)_1.jpg
+  preview: summits/kusimova_vershina_(vid_s_zapada)_1_preview.jpg
+- comment: Вид с вершины
+  image: summits/kusimova_vid_s_vershiny_2.jpg
+  preview: summits/kusimova_vid_s_vershiny_2_preview.jpg
+interpretation: <b>Кусимов</b> - глава башкирского рода, основатель поселения (деревни
+  Кусимово), лежащего неподалеку.
+name: Кусимова
+name_alt: Кусимовка, Аумыш-Таш

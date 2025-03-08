@@ -1,0 +1,22 @@
+coordinates:
+- 53.927091
+- 58.574627
+description: Весьма мощный скальный гребень. Вершинный тур находится на краю леса,
+  в центральной части горы, не осложнённой гребнем.
+height: 1019
+images:
+- comment: Вид с вершины
+  image: summits/kurtashtau_vid_s_vershiny_0.jpg
+  preview: summits/kurtashtau_vid_s_vershiny_0_preview.jpg
+- comment: Цирк недалеко от вершины
+  image: summits/kurtashtau_tsirk_nedaleko_ot_vershiny_1.jpg
+  preview: summits/kurtashtau_tsirk_nedaleko_ot_vershiny_1_preview.jpg
+- comment: Вид с вершины
+  image: summits/kurtashtau_vid_s_vershiny_2.jpg
+  preview: summits/kurtashtau_vid_s_vershiny_2_preview.jpg
+interpretation: "<ol>\r\n<li><b>Корташ</b> (баш.) &mdash; тетеревиный камень. Возможно,такое\
+  \ название дано за сходство скального гребня, венчающего гору, с тетеревиным гребешком.\
+  \ \r\n<li><b>Курташ</b> (баш.) &mdash; богатый камень &mdash; гора, богатая камнями,\
+  \ скалами."
+name: Курташтау
+name_alt: Курташ

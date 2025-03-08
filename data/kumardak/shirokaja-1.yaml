@@ -1,0 +1,21 @@
+coordinates:
+- 54.347448
+- 58.359967
+description: Горнотундровое плато, курумы, скальный гребешок. Между вершинами 1317,
+  1265 и 1287 лежит верховое болото, с которого "вытекает" курум Широкая Россыпь -
+  один из самых мощных на Южном Урале
+height: 1287
+images:
+- comment: Вид с вершины
+  image: summits/shirokaja-1_vid_s_vershiny_0.jpg
+  preview: summits/shirokaja-1_vid_s_vershiny_0_preview.jpg
+- comment: Вид с вершины 2
+  image: summits/shirokaja-1_vid_s_vershiny_2_1.jpg
+  preview: summits/shirokaja-1_vid_s_vershiny_2_1_preview.jpg
+- comment: Панорама в сторону Широкой россыпи
+  image: summits/shirokaja-1_panorama_v_storonu_shirokoj_rossypi_2.jpg
+  preview: summits/shirokaja-1_panorama_v_storonu_shirokoj_rossypi_2_preview.jpg
+interpretation: На Южном Урале часто горы с большими столообразными вершинами называли
+  &laquo;широкими&raquo;.
+name: Широкая
+name_alt: null

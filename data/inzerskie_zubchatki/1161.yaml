@@ -1,0 +1,17 @@
+coordinates:
+- 54.248442
+- 58.349582
+description: Некрутой скальный гребень, поросший ёлками. Чуть ниже по склону к востоку
+  - скальная стена. В километре севернее - цепь скальных останцев, по которым и назван
+  хребет.
+height: 1161
+images:
+- comment: Вершина (с цирка)
+  image: summits/1161_vershina_(s_tsirka)_0.jpg
+  preview: summits/1161_vershina_(s_tsirka)_0_preview.jpg
+- comment: Вид на вершину (на переднем плане, на заднем - Большой Кумардак)
+  image: summits/1161_vid_na_vershinu_(na_perednem_plane,_na_zadnem_-_bol'shoj_kumardak)_1.jpg
+  preview: summits/1161_vid_na_vershinu_(na_perednem_plane,_na_zadnem_-_bol'shoj_kumardak)_1_preview.jpg
+interpretation: "<b>Ялангас</b> (баш.) &mdash; открытый, голый.\r\n"
+name: null
+name_alt: Малый Ялангас

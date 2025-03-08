@@ -1,0 +1,20 @@
+coordinates:
+- 54.528964
+- 57.923864
+description: Две скалы. Оригинальный ракурс на Ямантау, основание которой заслонено
+  вершиной хребта Нары &mdash; горой <a href="/summit/133">Кашкатура</a>.
+height: 1065
+images:
+- comment: Вид с вершины
+  image: summits/glinka_vid_s_vershiny_0.jpg
+  preview: summits/glinka_vid_s_vershiny_0_preview.jpg
+- comment: На вершине
+  image: summits/glinka_na_vershine_1.jpg
+  preview: summits/glinka_na_vershine_1_preview.jpg
+- comment: Под вершиной
+  image: summits/glinka_pod_vershinoj_2.jpg
+  preview: summits/glinka_pod_vershinoj_2_preview.jpg
+interpretation: Цвет скал на вершине похож на красную глину. Издали скалы похожи на
+  слепленных из глины болванов.
+name: Глинка
+name_alt: null

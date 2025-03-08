@@ -1,0 +1,15 @@
+coordinates:
+- 54.649035
+- 58.65252
+description: Большой курумный купол &mdash; &laquo;кабан&raquo;.
+height: 1389
+images:
+- comment: Вершина
+  image: summits/poperechnaja_vershina_0.jpg
+  preview: summits/poperechnaja_vershina_0_preview.jpg
+- comment: Вершина
+  image: summits/poperechnaja_vershina_1.jpg
+  preview: summits/poperechnaja_vershina_1_preview.jpg
+interpretation: 'Расположена поперек хребта Зигальга. '
+name: Поперечная
+name_alt: null

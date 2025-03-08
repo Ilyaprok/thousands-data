@@ -1,0 +1,15 @@
+coordinates:
+- 54.370382
+- 58.398414
+description: "Скала\r\n"
+height: 1176
+images:
+- comment: Вершина
+  image: summits/1176_vershina_0.jpg
+  preview: summits/1176_vershina_0_preview.jpg
+- comment: Вид с г. Большой Кумардак
+  image: summits/1176_vid_s_g._bol'shoj_kumardak_1.jpg
+  preview: summits/1176_vid_s_g._bol'shoj_kumardak_1_preview.jpg
+interpretation: null
+name: null
+name_alt: null

@@ -1,0 +1,16 @@
+coordinates:
+- 55.33035
+- 59.959298
+description: "Невысокие скалы посреди горнотундровых склонов\r\n"
+height: 1049
+images:
+- comment: Вершина
+  image: summits/itsyl_vershina_0.jpg
+  preview: summits/itsyl_vershina_0_preview.jpg
+- comment: Вершина (справа)
+  image: summits/itsyl_vershina_(sprava)_1.jpg
+  preview: summits/itsyl_vershina_(sprava)_1_preview.jpg
+interpretation: <b>Иссиль</b> (баш.) &mdash; вечный ветер. <b>Иссеу</b>(баш.) &mdash;
+  дуть. <b>Ел</b> (баш.) &mdash; ветер. Гора ветров
+name: Ицыл
+name_alt: null

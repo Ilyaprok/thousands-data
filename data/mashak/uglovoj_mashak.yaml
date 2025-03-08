@@ -1,0 +1,18 @@
+coordinates:
+- 54.27593
+- 58.210549
+description: Относительно пологий курумный купол, на вершине - скальный выход.
+height: 1383
+images:
+- comment: Вершинный тур
+  image: summits/uglovoj_mashak_vershinnyj_tur_0.jpg
+  preview: summits/uglovoj_mashak_vershinnyj_tur_0_preview.jpg
+- comment: Вершина
+  image: summits/uglovoj_mashak_vershina_1.jpg
+  preview: summits/uglovoj_mashak_vershina_1_preview.jpg
+interpretation: "<strong>Угловой</strong> &mdash; по расположению на хребте. Достоверного\
+  \ объяснения слова \"машак\" не существует. Версии:\r\n<ol>\r\n<li><strong>Башак</strong>,\
+  \ <strong>машак</strong> (баш.) &mdash; колос</li>\r\n<li><strong>Ук башагы</strong>\
+  \ (баш.) &mdash; наконечник стрелы</li>\r\n</ol>"
+name: Угловой Машак
+name_alt: null

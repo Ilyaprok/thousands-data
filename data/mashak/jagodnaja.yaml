@@ -1,0 +1,15 @@
+coordinates:
+- 54.408281
+- 58.298816
+description: "Лес, курумы\r\n"
+height: 1236
+images:
+- comment: Вершина
+  image: summits/jagodnaja_vershina_0.jpg
+  preview: summits/jagodnaja_vershina_0_preview.jpg
+- comment: на склонах горы
+  image: summits/jagodnaja_na_sklonah_gory_1.jpg
+  preview: summits/jagodnaja_na_sklonah_gory_1_preview.jpg
+interpretation: null
+name: Ягодная
+name_alt: null

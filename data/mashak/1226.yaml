@@ -1,0 +1,18 @@
+coordinates:
+- 54.439647
+- 58.334642
+description: Лес, скальный выход
+height: 1226
+images:
+- comment: Вершина
+  image: summits/1226_vershina_0.jpg
+  preview: summits/1226_vershina_0_preview.jpg
+- comment: На вершине
+  image: summits/1226_na_vershine_1.jpg
+  preview: summits/1226_na_vershine_1_preview.jpg
+- comment: Вершина
+  image: summits/1226_vershina_2.jpg
+  preview: summits/1226_vershina_2_preview.jpg
+interpretation: null
+name: null
+name_alt: null

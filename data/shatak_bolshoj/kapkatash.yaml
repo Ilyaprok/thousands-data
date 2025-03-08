@@ -1,0 +1,17 @@
+coordinates:
+- 53.657123
+- 57.614942
+description: "Группа скальных останцев\r\n"
+height: 1099
+images:
+- comment: Вершина
+  image: summits/kapkatash_vershina_0.jpg
+  preview: summits/kapkatash_vershina_0_preview.jpg
+- comment: Сложенные из круглых камней скалы
+  image: summits/kapkatash_slozhennye_iz_kruglyh_kamnej_skaly_1.jpg
+  preview: summits/kapkatash_slozhennye_iz_kruglyh_kamnej_skaly_1_preview.jpg
+interpretation: <b>Капка</b> (баш.) &mdash; ворота. <b>Таш</b> (баш.) &mdash; камень.
+  Скала рядом с горным проходом. Конкретное название можно объяснить как скала рядом
+  со звериной тропой из долины Кухтура на плато хребта.
+name: Капкаташ
+name_alt: null

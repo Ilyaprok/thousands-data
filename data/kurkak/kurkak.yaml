@@ -1,0 +1,16 @@
+coordinates:
+- 53.801395
+- 58.701985
+description: Лесостепь, камни
+height: 1008
+images:
+- comment: На вершине Куркак
+  image: summits/kurkak_na_vershine_kurkak_0.jpg
+  preview: summits/kurkak_na_vershine_kurkak_0_preview.jpg
+- comment: Вид с вершины Куркак
+  image: summits/kurkak_vid_s_vershiny_kurkak_1.jpg
+  preview: summits/kurkak_vid_s_vershiny_kurkak_1_preview.jpg
+interpretation: 'Дословно с башкирского &mdash; <strong>трус</strong>. Конкретно к
+  этой горе: &laquo;Гора боязливого духа&raquo;.'
+name: Куркак
+name_alt: null

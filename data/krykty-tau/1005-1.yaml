@@ -1,0 +1,16 @@
+coordinates:
+- 53.589105
+- 58.537313
+description: Лес, поляна. На восточном склоне, в ущелье Курузяк - скала Огурец
+height: 1005
+images:
+- comment: Вид с вершины
+  image: summits/1005-1_vid_s_vershiny_0.jpg
+  preview: summits/1005-1_vid_s_vershiny_0_preview.jpg
+- comment: Вершина
+  image: summits/1005-1_vershina_1.jpg
+  preview: summits/1005-1_vershina_1_preview.jpg
+interpretation: <strong>Куру</strong> (тат.) &mdash; голый, пустой. <strong>Зэк</strong>
+  (баш.) &mdash; гора.
+name: null
+name_alt: Курузяк

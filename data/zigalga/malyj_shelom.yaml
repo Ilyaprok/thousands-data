@@ -1,0 +1,15 @@
+coordinates:
+- 54.536211
+- 58.370929
+description: "Большой курумный купол, скальный выход.\r\n"
+height: 1368
+images:
+- comment: Вершина
+  image: summits/malyj_shelom_vershina_0.jpg
+  preview: summits/malyj_shelom_vershina_0_preview.jpg
+- comment: Вершина (слева)
+  image: summits/malyj_shelom_vershina_(sleva)_1.jpg
+  preview: summits/malyj_shelom_vershina_(sleva)_1_preview.jpg
+interpretation: <strong>Шелом</strong> &mdash; шлем, холм, бугор.
+name: Малый Шелом
+name_alt: null

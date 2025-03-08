@@ -1,0 +1,22 @@
+coordinates:
+- 54.325732
+- 58.214756
+description: "Курумный купол, скальный выход. С запада лес подходит близко к вершине\r\
+  \n"
+height: 1370
+images:
+- comment: Вид с вершины 1
+  image: summits/shirokij_mashak_vid_s_vershiny_1_0.jpg
+  preview: summits/shirokij_mashak_vid_s_vershiny_1_0_preview.jpg
+- comment: Вид с вершины 3
+  image: summits/shirokij_mashak_vid_s_vershiny_3_1.jpg
+  preview: summits/shirokij_mashak_vid_s_vershiny_3_1_preview.jpg
+- comment: Вид с вершины 2
+  image: summits/shirokij_mashak_vid_s_vershiny_2_2.jpg
+  preview: summits/shirokij_mashak_vid_s_vershiny_2_2_preview.jpg
+- comment: Вершина
+  image: summits/shirokij_mashak_vershina_3.jpg
+  preview: summits/shirokij_mashak_vershina_3_preview.jpg
+interpretation: <strong>Широкий</strong> в смысле обширный.
+name: Широкий Машак
+name_alt: null

@@ -1,0 +1,17 @@
+coordinates:
+- 54.360808
+- 58.425236
+description: "Скальный гребешок, курумы.\r\n"
+height: 1141
+images:
+- comment: Вершина (с Верхнеаршинска)
+  image: summits/malyj_kumardak_vershina_(s_verhnearshinska)_0.jpg
+  preview: summits/malyj_kumardak_vershina_(s_verhnearshinska)_0_preview.jpg
+- comment: На вершине
+  image: summits/malyj_kumardak_na_vershine_1.jpg
+  preview: summits/malyj_kumardak_na_vershine_1_preview.jpg
+interpretation: "<ol>\r\n<li><strong>Кюмэр</strong> (баш.) &mdash; горбатый, <strong>зэк</strong>\
+  \ (баш.) &mdash; гора.\r\n<li><strong>Кюмэр</strong> (баш.) &mdash; горбатый, <strong>дак</strong>\
+  \ (баш.) &mdash; имяобразующий аффикс.\r\n</ol>"
+name: Малый Кумардак
+name_alt: null

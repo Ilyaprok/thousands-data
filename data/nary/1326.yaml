@@ -1,0 +1,18 @@
+coordinates:
+- 54.359894
+- 57.965914
+description: "Скала\r\n"
+height: 1326
+images:
+- comment: Вид с вершины
+  image: summits/1326_vid_s_vershiny_0.jpg
+  preview: summits/1326_vid_s_vershiny_0_preview.jpg
+- comment: Вершина 2
+  image: summits/1326_vershina_2_1.jpg
+  preview: summits/1326_vershina_2_1_preview.jpg
+- comment: Вершина
+  image: summits/1326_vershina_2.jpg
+  preview: summits/1326_vershina_2_preview.jpg
+interpretation: null
+name: null
+name_alt: null

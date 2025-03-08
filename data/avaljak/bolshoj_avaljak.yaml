@@ -1,0 +1,16 @@
+coordinates:
+- 54.459013
+- 58.826766
+description: "Скальный выход на курумном куполе\r\n"
+height: 1205
+images:
+- comment: Вершина
+  image: summits/bolshoj_avaljak_vershina_0.jpg
+  preview: summits/bolshoj_avaljak_vershina_0_preview.jpg
+- comment: Вершина с 1233 (Иремель)
+  image: summits/bolshoj_avaljak_vershina_s_1233_(iremel')_1.jpg
+  preview: summits/bolshoj_avaljak_vershina_s_1233_(iremel')_1_preview.jpg
+interpretation: "<ol>\r\n<li><strong>Аулак</strong> (баш.) &mdash; безлюдный, глухой\r\
+  \n<li><strong>Аулак</strong> (тюрк.) &mdash; место изобилующее дичью\r\n</ol>"
+name: Большой Аваляк
+name_alt: null

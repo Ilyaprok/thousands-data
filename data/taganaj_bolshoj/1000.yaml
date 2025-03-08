@@ -1,0 +1,18 @@
+coordinates:
+- 55.290202
+- 59.797494
+description: 'Выходы слюды
+
+
+  '
+height: 1000
+images:
+- comment: Вид с вершины на юг
+  image: summits/1000_vid_s_vershiny_na_jug_0.jpg
+  preview: summits/1000_vid_s_vershiny_na_jug_0_preview.jpg
+- comment: На вершине
+  image: summits/1000_na_vershine_1.jpg
+  preview: summits/1000_na_vershine_1_preview.jpg
+interpretation: null
+name: null
+name_alt: Слюдяная Горка

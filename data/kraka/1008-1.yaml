@@ -1,0 +1,15 @@
+coordinates:
+- 53.818285
+- 58.141822
+description: "Лесостепь, камни\r\n"
+height: 1008
+images:
+- comment: На подходе к вершине (слева)
+  image: summits/1008-1_na_podhode_k_vershine_(sleva)_0.jpg
+  preview: summits/1008-1_na_podhode_k_vershine_(sleva)_0_preview.jpg
+- comment: Вид с вершины в сторону Шигаево
+  image: summits/1008-1_vid_s_vershiny_v_storonu_shigaevo_1.jpg
+  preview: summits/1008-1_vid_s_vershiny_v_storonu_shigaevo_1_preview.jpg
+interpretation: null
+name: null
+name_alt: null

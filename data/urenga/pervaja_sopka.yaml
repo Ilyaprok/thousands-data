@@ -1,0 +1,15 @@
+coordinates:
+- 55.063756
+- 59.525522
+description: "Горная тундра, курумы, невысокие скальные останцы\r\n"
+height: 1155
+images:
+- comment: Вершина
+  image: summits/pervaja_sopka_vershina_0.jpg
+  preview: summits/pervaja_sopka_vershina_0_preview.jpg
+- comment: Вершина
+  image: summits/pervaja_sopka_vershina_1.jpg
+  preview: summits/pervaja_sopka_vershina_1_preview.jpg
+interpretation: Первая из трех сопок, считая от Златоуста.
+name: Первая Сопка
+name_alt: null

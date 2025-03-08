@@ -1,0 +1,30 @@
+coordinates:
+- 54.254786
+- 58.103753
+description: "Огромный курумный купол &mdash; &laquo;кабан&raquo;, на протяжённом\
+  \ горнотундровом плато &mdash; скальный выход. Высшая точка Южного Урала.\r\n"
+height: 1640
+images:
+- comment: Вершина
+  image: summits/jamantau_vershina_0.jpg
+  preview: summits/jamantau_vershina_0_preview.jpg
+- comment: Вид на вершину с Ялангаса
+  image: summits/jamantau_vid_na_vershinu_s_jalangasa_1.jpg
+  preview: summits/jamantau_vid_na_vershinu_s_jalangasa_1_preview.jpg
+- comment: Ямантау на дальнем плане. Вид с Кузъелгинских пастбищ
+  image: summits/jamantau_jamantau_na_dal'nem_plane._vid_s_kuz'elginskih_pastbisch_2.jpg
+  preview: summits/jamantau_jamantau_na_dal'nem_plane._vid_s_kuz'elginskih_pastbisch_2_preview.jpg
+- comment: С цирка Инзерских зубчаток
+  image: summits/jamantau_s_tsirka_inzerskih_zubchatok_3.jpg
+  preview: summits/jamantau_s_tsirka_inzerskih_zubchatok_3_preview.jpg
+- comment: Вершина
+  image: summits/jamantau_vershina_4.jpg
+  preview: summits/jamantau_vershina_4_preview.jpg
+- comment: Вид на вершину с Большого Нургуша
+  image: summits/jamantau_vid_na_vershinu_s_bol'shogo_nurgusha_5.jpg
+  preview: summits/jamantau_vid_na_vershinu_s_bol'shogo_nurgusha_5_preview.jpg
+interpretation: <strong>Яман</strong> (баш.) &mdash; плохой, дурной, <strong>тау</strong>(баш.)
+  &mdash; гора. Плохая, дурная гора (глухие места, болото, постоянно лежит снег, облака,
+  туман)
+name: Ямантау
+name_alt: null

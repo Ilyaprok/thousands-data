@@ -1,0 +1,15 @@
+coordinates:
+- 54.581239
+- 58.506201
+description: Скала-останец
+height: 1114
+images:
+- comment: Вершина
+  image: summits/gluharinaja_vershina_0.jpg
+  preview: summits/gluharinaja_vershina_0_preview.jpg
+- comment: Вид на г. Глухаринная с г. Антенная
+  image: summits/gluharinaja_vid_na_g._gluharinnaja_s_g._antennaja_1.jpg
+  preview: summits/gluharinaja_vid_na_g._gluharinnaja_s_g._antennaja_1_preview.jpg
+interpretation: null
+name: Глухариная
+name_alt: null

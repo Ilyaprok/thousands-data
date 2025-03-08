@@ -1,0 +1,16 @@
+coordinates:
+- 54.344431
+- 58.175017
+description: "Небольшой курумный купол, редколесье, скальный выход\r\n"
+height: 1286
+images:
+- comment: На вершине
+  image: summits/mashak-1_na_vershine_0.jpg
+  preview: summits/mashak-1_na_vershine_0_preview.jpg
+- comment: Вид на вершину
+  image: summits/mashak-1_vid_na_vershinu_1.jpg
+  preview: summits/mashak-1_vid_na_vershinu_1_preview.jpg
+interpretation: "Небесспорные версии:\r\n<ol>\r\n<li><b>Башак</b>, <b>ашак</b> (баш.)\
+  \ &mdash; колос.\r\n<li><b>Ук башагы</b> (баш.) &mdash; наконечник стрелы.\r\n</ol>"
+name: Машак
+name_alt: null

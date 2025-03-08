@@ -1,0 +1,15 @@
+coordinates:
+- 54.143806
+- 57.911739
+description: Плато, редколесье. Установлен триангуляционный знак
+height: 1030
+images:
+- comment: со склонов горы Белятур (восток)
+  image: summits/1030_so_sklonov_gory_beljatur_(vostok)_0.jpg
+  preview: summits/1030_so_sklonov_gory_beljatur_(vostok)_0_preview.jpg
+- comment: со склонов горы Белятур (запад)
+  image: summits/1030_so_sklonov_gory_beljatur_(zapad)_1.jpg
+  preview: summits/1030_so_sklonov_gory_beljatur_(zapad)_1_preview.jpg
+interpretation: null
+name: null
+name_alt: null

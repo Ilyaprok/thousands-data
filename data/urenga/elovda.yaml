@@ -1,0 +1,17 @@
+coordinates:
+- 54.75223
+- 59.196061
+description: "Лес, полянка, небольшой обрывчик на северо-восток\r\n"
+height: 1116
+images:
+- comment: Вид с вершины
+  image: summits/elovda_vid_s_vershiny_0.jpg
+  preview: summits/elovda_vid_s_vershiny_0_preview.jpg
+- comment: В 10 м от вершины
+  image: summits/elovda_v_10_m_ot_vershiny_1.jpg
+  preview: summits/elovda_v_10_m_ot_vershiny_1_preview.jpg
+interpretation: "<ol>\r\n<li><b>Ялауды</b> (баш.) &mdash; облизанная гора (<b>ялау</b>\
+  \ (баш.) &mdash; лизать, облизать).\r\n<li><b>Елау</b> (баш.,тат.) &mdash; плач.</li>\r\
+  \n</ol>"
+name: Еловда
+name_alt: Елавда, Ивалда, Елауды, Евлавда

@@ -1,0 +1,15 @@
+coordinates:
+- 54.136754
+- 58.277201
+description: Группа скальных стен, отвесных к западу
+height: 1129
+images:
+- comment: Вид с вершины в сторону Ямантау
+  image: summits/mohnatka_vid_s_vershiny_v_storonu_jamantau_0.jpg
+  preview: summits/mohnatka_vid_s_vershiny_v_storonu_jamantau_0_preview.jpg
+- comment: Вершина
+  image: summits/mohnatka_vershina_1.jpg
+  preview: summits/mohnatka_vershina_1_preview.jpg
+interpretation: null
+name: Мохнатка
+name_alt: null
