@@ -5,8 +5,8 @@ description: "Небольшая скала в лесу\r\n"
 height: 1063
 images:
 - comment: Вершина на переднем плане
-  image: summits/1063_vershina_na_perednem_plane_0.jpg
-  preview: summits/1063_vershina_na_perednem_plane_0_preview.jpg
+  preview_url: summits/1063_vershina_na_perednem_plane_0_preview.jpg
+  url: summits/1063_vershina_na_perednem_plane_0.jpg
 interpretation: null
 name: null
 name_alt: null

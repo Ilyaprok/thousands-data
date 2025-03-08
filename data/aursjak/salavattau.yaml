@@ -5,14 +5,14 @@ description: Цепь скал-останцев &mdash; столбов.
 height: 1088
 images:
 - comment: Вид с вершины
-  image: summits/salavattau_vid_s_vershiny_0.jpg
-  preview: summits/salavattau_vid_s_vershiny_0_preview.jpg
+  preview_url: summits/salavattau_vid_s_vershiny_0_preview.jpg
+  url: summits/salavattau_vid_s_vershiny_0.jpg
 - comment: Вершинный тур
-  image: summits/salavattau_vershinnyj_tur_1.jpg
-  preview: summits/salavattau_vershinnyj_tur_1_preview.jpg
+  preview_url: summits/salavattau_vershinnyj_tur_1_preview.jpg
+  url: summits/salavattau_vershinnyj_tur_1.jpg
 - comment: Вершина
-  image: summits/salavattau_vershina_2.jpg
-  preview: summits/salavattau_vershina_2_preview.jpg
+  preview_url: summits/salavattau_vershina_2_preview.jpg
+  url: summits/salavattau_vershina_2.jpg
 interpretation: null
 name: Салаваттау
 name_alt: null

@@ -5,14 +5,14 @@ description: Небольшой курумный купол
 height: 1120
 images:
 - comment: Вершина с 1345 (Иремель)
-  image: summits/malyj_sharshalybiik_vershina_s_1345_(iremel')_0.jpg
-  preview: summits/malyj_sharshalybiik_vershina_s_1345_(iremel')_0_preview.jpg
+  preview_url: summits/malyj_sharshalybiik_vershina_s_1345_(iremel')_0_preview.jpg
+  url: summits/malyj_sharshalybiik_vershina_s_1345_(iremel')_0.jpg
 - comment: Вершина
-  image: summits/malyj_sharshalybiik_vershina_1.jpg
-  preview: summits/malyj_sharshalybiik_vershina_1_preview.jpg
+  preview_url: summits/malyj_sharshalybiik_vershina_1_preview.jpg
+  url: summits/malyj_sharshalybiik_vershina_1.jpg
 - comment: Неподалеку от вершины
-  image: summits/malyj_sharshalybiik_nepodaleku_ot_vershiny_2.jpg
-  preview: summits/malyj_sharshalybiik_nepodaleku_ot_vershiny_2_preview.jpg
+  preview_url: summits/malyj_sharshalybiik_nepodaleku_ot_vershiny_2_preview.jpg
+  url: summits/malyj_sharshalybiik_nepodaleku_ot_vershiny_2.jpg
 interpretation: "<strong>Шыршыл</strong>, <strong>шершил</strong> (баш.) &mdash; еловая,\
   \ <strong>бийик</strong>, <strong>бейек</strong> (баш.) &mdash; высотка, возвышенность.\r\
   \n"

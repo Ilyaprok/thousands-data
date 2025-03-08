@@ -5,11 +5,11 @@ description: "Невысокая скала вулканических поро�
 height: 1015
 images:
 - comment: Вид на вершину с г. Кушай
-  image: summits/babaj_vid_na_vershinu_s_g._kushaj_0.jpg
-  preview: summits/babaj_vid_na_vershinu_s_g._kushaj_0_preview.jpg
+  preview_url: summits/babaj_vid_na_vershinu_s_g._kushaj_0_preview.jpg
+  url: summits/babaj_vid_na_vershinu_s_g._kushaj_0.jpg
 - comment: Вид с вершины
-  image: summits/babaj_vid_s_vershiny_1.jpg
-  preview: summits/babaj_vid_s_vershiny_1_preview.jpg
+  preview_url: summits/babaj_vid_s_vershiny_1_preview.jpg
+  url: summits/babaj_vid_s_vershiny_1.jpg
 interpretation: <strong>Бабай</strong> (баш.) &mdash; дедушка, старейшина. <strong>Таш</strong>
   (баш.) &mdash; камень.
 name: Бабай

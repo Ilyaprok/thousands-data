@@ -5,11 +5,11 @@ description: Лесистая с очень крутыми склонами, к�
 height: 1162
 images:
 - comment: С Отнурка
-  image: summits/kirel_s_otnurka_0.jpg
-  preview: summits/kirel_s_otnurka_0_preview.jpg
+  preview_url: summits/kirel_s_otnurka_0_preview.jpg
+  url: summits/kirel_s_otnurka_0.jpg
 - comment: Вершина
-  image: summits/kirel_vershina_1.jpg
-  preview: summits/kirel_vershina_1_preview.jpg
+  preview_url: summits/kirel_vershina_1_preview.jpg
+  url: summits/kirel_vershina_1.jpg
 interpretation: <b>Кыр</b> (баш.) &mdash; лес
 name: Кирель
 name_alt: null

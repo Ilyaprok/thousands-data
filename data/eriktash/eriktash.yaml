@@ -5,11 +5,11 @@ description: На вершине - скальный выход
 height: 1200
 images:
 - comment: Останцы в южной части хребта
-  image: summits/eriktash_ostantsy_v_juzhnoj_chasti_hrebta_0.jpg
-  preview: summits/eriktash_ostantsy_v_juzhnoj_chasti_hrebta_0_preview.jpg
+  preview_url: summits/eriktash_ostantsy_v_juzhnoj_chasti_hrebta_0_preview.jpg
+  url: summits/eriktash_ostantsy_v_juzhnoj_chasti_hrebta_0.jpg
 - comment: Вершина
-  image: summits/eriktash_vershina_1.jpg
-  preview: summits/eriktash_vershina_1_preview.jpg
+  preview_url: summits/eriktash_vershina_1_preview.jpg
+  url: summits/eriktash_vershina_1.jpg
 interpretation: "<ol>\r\n<li><strong>Ер</strong> (тюрк.) &mdash; земля, место, урочище.\
   \ <strong>ик</strong>,<strong>ык</strong> &mdash; подветренная, заветренная сторона.\
   \ Безветренное, укромное место. укрытие, убежище. <strong>Таш</strong> (баш.) &mdash;\

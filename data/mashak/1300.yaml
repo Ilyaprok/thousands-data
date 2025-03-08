@@ -9,11 +9,11 @@ description: 'Глухие места, обитали медведи
 height: 1300
 images:
 - comment: Вершина (слева)
-  image: summits/1300_vershina_(sleva)_0.jpg
-  preview: summits/1300_vershina_(sleva)_0_preview.jpg
+  preview_url: summits/1300_vershina_(sleva)_0_preview.jpg
+  url: summits/1300_vershina_(sleva)_0.jpg
 - comment: Вершина
-  image: summits/1300_vershina_1.jpg
-  preview: summits/1300_vershina_1_preview.jpg
+  preview_url: summits/1300_vershina_1_preview.jpg
+  url: summits/1300_vershina_1.jpg
 interpretation: null
 name: null
 name_alt: Медвежья-2

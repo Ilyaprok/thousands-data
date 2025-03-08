@@ -5,11 +5,11 @@ description: "\r\n\r\n"
 height: 1065
 images:
 - comment: Вершина
-  image: summits/1065_vershina_0.jpg
-  preview: summits/1065_vershina_0_preview.jpg
+  preview_url: summits/1065_vershina_0_preview.jpg
+  url: summits/1065_vershina_0.jpg
 - comment: Вершина (на переднем плане)
-  image: summits/1065_vershina_(na_perednem_plane)_1.jpg
-  preview: summits/1065_vershina_(na_perednem_plane)_1_preview.jpg
+  preview_url: summits/1065_vershina_(na_perednem_plane)_1_preview.jpg
+  url: summits/1065_vershina_(na_perednem_plane)_1.jpg
 interpretation: Похожа на сундук
 name: null
 name_alt: Сундук, Сундуки

@@ -6,14 +6,14 @@ description: Труднодоступная скала. Севернее, на �
 height: 1340
 images:
 - comment: Вид с вершины 2
-  image: summits/kashkatura_vid_s_vershiny_2_0.jpg
-  preview: summits/kashkatura_vid_s_vershiny_2_0_preview.jpg
+  preview_url: summits/kashkatura_vid_s_vershiny_2_0_preview.jpg
+  url: summits/kashkatura_vid_s_vershiny_2_0.jpg
 - comment: Вид с вершины
-  image: summits/kashkatura_vid_s_vershiny_1.jpg
-  preview: summits/kashkatura_vid_s_vershiny_1_preview.jpg
+  preview_url: summits/kashkatura_vid_s_vershiny_1_preview.jpg
+  url: summits/kashkatura_vid_s_vershiny_1.jpg
 - comment: Вид с вершины 3
-  image: summits/kashkatura_vid_s_vershiny_3_2.jpg
-  preview: summits/kashkatura_vid_s_vershiny_3_2_preview.jpg
+  preview_url: summits/kashkatura_vid_s_vershiny_3_2_preview.jpg
+  url: summits/kashkatura_vid_s_vershiny_3_2.jpg
 interpretation: "<p><b>Кашка</b> (тюрк.) &mdash; лысый.</p>\r\n<p><b>Кашга</b> (древнетюрк.)\
   \ &mdash; белое пятно на лбу животного, в географии &mdash; голое, не заросшее растительностью\
   \ место, голец в горах.</p>\r\n<p><b>Тура</b> (тюрк., монг., южная сибирь) &mdash;\

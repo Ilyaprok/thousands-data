@@ -5,11 +5,11 @@ description: "Большой курумный купол, скальный вы�
 height: 1368
 images:
 - comment: Вершина
-  image: summits/malyj_shelom_vershina_0.jpg
-  preview: summits/malyj_shelom_vershina_0_preview.jpg
+  preview_url: summits/malyj_shelom_vershina_0_preview.jpg
+  url: summits/malyj_shelom_vershina_0.jpg
 - comment: Вершина (слева)
-  image: summits/malyj_shelom_vershina_(sleva)_1.jpg
-  preview: summits/malyj_shelom_vershina_(sleva)_1_preview.jpg
+  preview_url: summits/malyj_shelom_vershina_(sleva)_1_preview.jpg
+  url: summits/malyj_shelom_vershina_(sleva)_1.jpg
 interpretation: <strong>Шелом</strong> &mdash; шлем, холм, бугор.
 name: Малый Шелом
 name_alt: null

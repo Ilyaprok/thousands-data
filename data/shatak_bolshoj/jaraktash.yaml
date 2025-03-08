@@ -5,8 +5,8 @@ description: null
 height: 1069
 images:
 - comment: Вершина
-  image: summits/jaraktash_vershina_0.jpg
-  preview: summits/jaraktash_vershina_0_preview.jpg
+  preview_url: summits/jaraktash_vershina_0_preview.jpg
+  url: summits/jaraktash_vershina_0.jpg
 interpretation: <b>Япрак</b> (баш.) &mdash; лист. <b>Таш</b> (баш.) &mdash; камень.
   Разбитый камень.
 name: Яракташ

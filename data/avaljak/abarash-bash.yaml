@@ -6,17 +6,17 @@ description: Скальный выход на большой курумном к
 height: 1291
 images:
 - comment: С Малого Аваляка.
-  image: summits/abarash-bash_s_malogo_avaljaka._0.jpg
-  preview: summits/abarash-bash_s_malogo_avaljaka._0_preview.jpg
+  preview_url: summits/abarash-bash_s_malogo_avaljaka._0_preview.jpg
+  url: summits/abarash-bash_s_malogo_avaljaka._0.jpg
 - comment: геодезический репер
-  image: summits/abarash-bash_geodezicheskij_reper_1.jpg
-  preview: summits/abarash-bash_geodezicheskij_reper_1_preview.jpg
+  preview_url: summits/abarash-bash_geodezicheskij_reper_1_preview.jpg
+  url: summits/abarash-bash_geodezicheskij_reper_1.jpg
 - comment: Вершина с 1233 (Иремель)
-  image: summits/abarash-bash_vershina_s_1233_(iremel')_2.jpg
-  preview: summits/abarash-bash_vershina_s_1233_(iremel')_2_preview.jpg
+  preview_url: summits/abarash-bash_vershina_s_1233_(iremel')_2_preview.jpg
+  url: summits/abarash-bash_vershina_s_1233_(iremel')_2.jpg
 - comment: Вершина
-  image: summits/abarash-bash_vershina_3.jpg
-  preview: summits/abarash-bash_vershina_3_preview.jpg
+  preview_url: summits/abarash-bash_vershina_3_preview.jpg
+  url: summits/abarash-bash_vershina_3.jpg
 interpretation: '<strong>Баш</strong> (тюрк.) &mdash; голова '
 name: Абараш-Баш
 name_alt: null

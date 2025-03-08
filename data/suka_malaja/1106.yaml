@@ -5,11 +5,11 @@ description: "Отрог горы Уван. Курумы, скальный вы�
 height: 1106
 images:
 - comment: Вершина
-  image: summits/1106_vershina_0.jpg
-  preview: summits/1106_vershina_0_preview.jpg
+  preview_url: summits/1106_vershina_0_preview.jpg
+  url: summits/1106_vershina_0.jpg
 - comment: Вершина
-  image: summits/1106_vershina_1.jpg
-  preview: summits/1106_vershina_1_preview.jpg
+  preview_url: summits/1106_vershina_1_preview.jpg
+  url: summits/1106_vershina_1.jpg
 interpretation: null
 name: null
 name_alt: Малый Уван

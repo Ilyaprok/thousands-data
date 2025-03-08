@@ -5,11 +5,11 @@ description: "Невысокие скалы посреди горнотундр�
 height: 1049
 images:
 - comment: Вершина
-  image: summits/itsyl_vershina_0.jpg
-  preview: summits/itsyl_vershina_0_preview.jpg
+  preview_url: summits/itsyl_vershina_0_preview.jpg
+  url: summits/itsyl_vershina_0.jpg
 - comment: Вершина (справа)
-  image: summits/itsyl_vershina_(sprava)_1.jpg
-  preview: summits/itsyl_vershina_(sprava)_1_preview.jpg
+  preview_url: summits/itsyl_vershina_(sprava)_1_preview.jpg
+  url: summits/itsyl_vershina_(sprava)_1.jpg
 interpretation: <b>Иссиль</b> (баш.) &mdash; вечный ветер. <b>Иссеу</b>(баш.) &mdash;
   дуть. <b>Ел</b> (баш.) &mdash; ветер. Гора ветров
 name: Ицыл

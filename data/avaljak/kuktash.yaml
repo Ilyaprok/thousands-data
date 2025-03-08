@@ -5,11 +5,11 @@ description: Лесистая вершина
 height: 1028
 images:
 - comment: Вид с вершины в сторону Шаршалыбиика
-  image: summits/kuktash_vid_s_vershiny_v_storonu_sharshalybiika_0.jpg
-  preview: summits/kuktash_vid_s_vershiny_v_storonu_sharshalybiika_0_preview.jpg
+  preview_url: summits/kuktash_vid_s_vershiny_v_storonu_sharshalybiika_0_preview.jpg
+  url: summits/kuktash_vid_s_vershiny_v_storonu_sharshalybiika_0.jpg
 - comment: Скальные выхода неподалеку от вершины
-  image: summits/kuktash_skal'nye_vyhoda_nepodaleku_ot_vershiny_1.jpg
-  preview: summits/kuktash_skal'nye_vyhoda_nepodaleku_ot_vershiny_1_preview.jpg
+  preview_url: summits/kuktash_skal'nye_vyhoda_nepodaleku_ot_vershiny_1_preview.jpg
+  url: summits/kuktash_skal'nye_vyhoda_nepodaleku_ot_vershiny_1.jpg
 interpretation: <strong>Кук</strong> (баш.) &mdash; синий, сивый, <strong>таш</strong>
   (баш.) &mdash; камень. Синий камень, синяя гора.
 name: Кукташ

@@ -5,11 +5,11 @@ description: ''
 height: 1032
 images:
 - comment: Вышка
-  image: summits/repnaja_vyshka_0.jpg
-  preview: summits/repnaja_vyshka_0_preview.jpg
+  preview_url: summits/repnaja_vyshka_0_preview.jpg
+  url: summits/repnaja_vyshka_0.jpg
 - comment: Вершина
-  image: summits/repnaja_vershina_1.jpg
-  preview: summits/repnaja_vershina_1_preview.jpg
+  preview_url: summits/repnaja_vershina_1_preview.jpg
+  url: summits/repnaja_vershina_1.jpg
 interpretation: null
 name: Репная
 name_alt: null

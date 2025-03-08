@@ -34,6 +34,7 @@ def cast_point(value, cur):
 
 
 def upload_image(client, image_path, image_name):
+    return
     try:
         # Try to get the metadata of the object
         client.head_object(Bucket=S3_BUCKET, Key=image_name)
@@ -109,8 +110,8 @@ def import_summits(conn, images_src_dir, s3_client):
                 
                 summit_data["images"].append(
                     {
-                        "image": image_s3_key,
-                        "preview": preview_s3_key,
+                        "url": image_s3_key,
+                        "preview_url": preview_s3_key,
                         "comment": comment,
                     }
                 )
@@ -169,8 +170,8 @@ def import_climbs(conn, sqlite_conn):
 
 
 def main():
-    #shutil.rmtree(DEST_DIR, ignore_errors=True)
-    #os.mkdir(DEST_DIR)
+    shutil.rmtree(DEST_DIR, ignore_errors=True)
+    os.mkdir(DEST_DIR)
     POINT = new_type((600,), "POINT", cast_point)
     register_type(POINT)
 
@@ -184,8 +185,8 @@ def main():
     )
     sqlite_conn = sqlite3.connect("/home/rush/src/thousands2/thousands.sqlite")
 
-    #import_ridges(conn)
-    #import_summits(conn, IMAGES_SRC_DIR, s3_client)
+    import_ridges(conn)
+    import_summits(conn, IMAGES_SRC_DIR, s3_client)
     import_users(conn, IMAGES_SRC_DIR, s3_client, sqlite_conn)
     import_climbs(conn, sqlite_conn)
 

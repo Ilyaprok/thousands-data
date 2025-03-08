@@ -5,8 +5,8 @@ description: Небольшой скальный выход на краю огр
 height: 1080
 images:
 - comment: Неподалеку от вершины
-  image: summits/1080-1_nepodaleku_ot_vershiny_0.jpg
-  preview: summits/1080-1_nepodaleku_ot_vershiny_0_preview.jpg
+  preview_url: summits/1080-1_nepodaleku_ot_vershiny_0_preview.jpg
+  url: summits/1080-1_nepodaleku_ot_vershiny_0.jpg
 interpretation: ''
 name: null
 name_alt: null

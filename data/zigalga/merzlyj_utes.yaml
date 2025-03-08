@@ -5,8 +5,8 @@ description: "Лесотундровое плато с невысокой ска
 height: 1237
 images:
 - comment: Вид на вершину с г. Глухаринная
-  image: summits/merzlyj_utes_vid_na_vershinu_s_g._gluharinnaja_0.jpg
-  preview: summits/merzlyj_utes_vid_na_vershinu_s_g._gluharinnaja_0_preview.jpg
+  preview_url: summits/merzlyj_utes_vid_na_vershinu_s_g._gluharinnaja_0_preview.jpg
+  url: summits/merzlyj_utes_vid_na_vershinu_s_g._gluharinnaja_0.jpg
 interpretation: Прежде на горе долго лежал снег
 name: Мерзлый Утес
 name_alt: null

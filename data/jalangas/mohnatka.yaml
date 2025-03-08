@@ -5,11 +5,11 @@ description: Группа скальных стен, отвесных к зап�
 height: 1129
 images:
 - comment: Вид с вершины в сторону Ямантау
-  image: summits/mohnatka_vid_s_vershiny_v_storonu_jamantau_0.jpg
-  preview: summits/mohnatka_vid_s_vershiny_v_storonu_jamantau_0_preview.jpg
+  preview_url: summits/mohnatka_vid_s_vershiny_v_storonu_jamantau_0_preview.jpg
+  url: summits/mohnatka_vid_s_vershiny_v_storonu_jamantau_0.jpg
 - comment: Вершина
-  image: summits/mohnatka_vershina_1.jpg
-  preview: summits/mohnatka_vershina_1_preview.jpg
+  preview_url: summits/mohnatka_vershina_1_preview.jpg
+  url: summits/mohnatka_vershina_1.jpg
 interpretation: null
 name: Мохнатка
 name_alt: null

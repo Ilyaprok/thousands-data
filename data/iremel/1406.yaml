@@ -5,11 +5,11 @@ description: "Горнотундровое плато, скальный выхо
 height: 1406
 images:
 - comment: Вид с Малого Иремеля
-  image: summits/1406_vid_s_malogo_iremelja_0.jpg
-  preview: summits/1406_vid_s_malogo_iremelja_0_preview.jpg
+  preview_url: summits/1406_vid_s_malogo_iremelja_0_preview.jpg
+  url: summits/1406_vid_s_malogo_iremelja_0.jpg
 - comment: С хребта Ягодного
-  image: summits/1406_s_hrebta_jagodnogo_1.jpg
-  preview: summits/1406_s_hrebta_jagodnogo_1_preview.jpg
+  preview_url: summits/1406_s_hrebta_jagodnogo_1_preview.jpg
+  url: summits/1406_s_hrebta_jagodnogo_1.jpg
 interpretation: ''
 name: null
 name_alt: null

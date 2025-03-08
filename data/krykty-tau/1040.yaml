@@ -5,8 +5,8 @@ description: Лесостепь, камни, выход вулканически
 height: 1040
 images:
 - comment: Вид с вершины
-  image: summits/1040_vid_s_vershiny_0.jpg
-  preview: summits/1040_vid_s_vershiny_0_preview.jpg
+  preview_url: summits/1040_vid_s_vershiny_0_preview.jpg
+  url: summits/1040_vid_s_vershiny_0.jpg
 interpretation: <b>Дальняя</b> &mdash; по расположению.
 name: null
 name_alt: Дальняя

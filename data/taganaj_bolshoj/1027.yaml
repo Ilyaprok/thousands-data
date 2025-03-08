@@ -9,8 +9,8 @@ description: 'Отдельно стоящие скалы-останцы
 height: 1027
 images:
 - comment: Вершина
-  image: summits/1027_vershina_0.jpg
-  preview: summits/1027_vershina_0_preview.jpg
+  preview_url: summits/1027_vershina_0_preview.jpg
+  url: summits/1027_vershina_0.jpg
 interpretation: null
 name: null
 name_alt: Три Сестры, Митькины Скалы

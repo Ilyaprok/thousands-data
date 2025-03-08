@@ -5,8 +5,8 @@ description: Лесистая вершина
 height: 1003
 images:
 - comment: Вершина
-  image: summits/1003_vershina_0.jpg
-  preview: summits/1003_vershina_0_preview.jpg
+  preview_url: summits/1003_vershina_0_preview.jpg
+  url: summits/1003_vershina_0.jpg
 interpretation: null
 name: null
 name_alt: null

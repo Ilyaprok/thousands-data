@@ -5,11 +5,11 @@ description: Скальный выход
 height: 1108
 images:
 - comment: Вершина
-  image: summits/shershiltau_vershina_0.jpg
-  preview: summits/shershiltau_vershina_0_preview.jpg
+  preview_url: summits/shershiltau_vershina_0_preview.jpg
+  url: summits/shershiltau_vershina_0.jpg
 - comment: Вершина
-  image: summits/shershiltau_vershina_1.jpg
-  preview: summits/shershiltau_vershina_1_preview.jpg
+  preview_url: summits/shershiltau_vershina_1_preview.jpg
+  url: summits/shershiltau_vershina_1.jpg
 interpretation: "<p><b>Шыршил</b>, <b>шершил</b> (баш.) &mdash; еловая, <b>тау</b>\
   \ (баш.) &mdash; гора. <b>Таш</b> (баш.) &mdash; камень.</b></p>\r\n\r\n<p><b>Салаватские\
   \ Камни</b> &mdash; в честь народного героя Салавата Юлаева или просто от башкирского\

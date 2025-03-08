@@ -5,11 +5,11 @@ description: ''
 height: 1028
 images:
 - comment: Вид с вершины в сторону хребта Нары
-  image: summits/usbarej_vid_s_vershiny_v_storonu_hrebta_nary_0.jpg
-  preview: summits/usbarej_vid_s_vershiny_v_storonu_hrebta_nary_0_preview.jpg
+  preview_url: summits/usbarej_vid_s_vershiny_v_storonu_hrebta_nary_0_preview.jpg
+  url: summits/usbarej_vid_s_vershiny_v_storonu_hrebta_nary_0.jpg
 - comment: конгломераты
-  image: summits/usbarej_konglomeraty_1.jpg
-  preview: summits/usbarej_konglomeraty_1_preview.jpg
+  preview_url: summits/usbarej_konglomeraty_1_preview.jpg
+  url: summits/usbarej_konglomeraty_1.jpg
 interpretation: null
 name: Усбарей
 name_alt: null

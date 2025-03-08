@@ -5,8 +5,8 @@ description: Три скальных гребня вулканических п�
 height: 1048
 images:
 - comment: Вершина
-  image: summits/kushaj_vershina_0.jpg
-  preview: summits/kushaj_vershina_0_preview.jpg
+  preview_url: summits/kushaj_vershina_0_preview.jpg
+  url: summits/kushaj_vershina_0.jpg
 interpretation: "<strong>Куш</strong> (баш.) &mdash; двойной, парный, соединенный.\
   \ <strong>Ай</strong>  (баш.) &mdash; уменьшительно-ласкательный суффикс. Вместе\
   \ с соседней вершиной, горой <a href=\"/summit/77\">Бабай</a>, составляют пару.\r\

@@ -5,11 +5,11 @@ description: "Лесистая вершина\r\n"
 height: 1063
 images:
 - comment: Вершина
-  image: summits/1063-1_vershina_0.jpg
-  preview: summits/1063-1_vershina_0_preview.jpg
+  preview_url: summits/1063-1_vershina_0_preview.jpg
+  url: summits/1063-1_vershina_0.jpg
 - comment: Вид на вершину
-  image: summits/1063-1_vid_na_vershinu_1.jpg
-  preview: summits/1063-1_vid_na_vershinu_1_preview.jpg
+  preview_url: summits/1063-1_vid_na_vershinu_1_preview.jpg
+  url: summits/1063-1_vid_na_vershinu_1.jpg
 interpretation: Темный лес, глухой лес, мало солнца
 name: null
 name_alt: Черная

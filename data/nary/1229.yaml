@@ -5,11 +5,11 @@ description: ''
 height: 1229
 images:
 - comment: Вид со скал неподалеку от вершины
-  image: summits/1229_vid_so_skal_nepodaleku_ot_vershiny_0.jpg
-  preview: summits/1229_vid_so_skal_nepodaleku_ot_vershiny_0_preview.jpg
+  preview_url: summits/1229_vid_so_skal_nepodaleku_ot_vershiny_0_preview.jpg
+  url: summits/1229_vid_so_skal_nepodaleku_ot_vershiny_0.jpg
 - comment: Вершина
-  image: summits/1229_vershina_1.jpg
-  preview: summits/1229_vershina_1_preview.jpg
+  preview_url: summits/1229_vershina_1_preview.jpg
+  url: summits/1229_vershina_1.jpg
 interpretation: null
 name: null
 name_alt: null

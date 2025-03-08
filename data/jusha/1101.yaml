@@ -5,8 +5,8 @@ description: "Вершина находится на плато. Редколе�
 height: 1101
 images:
 - comment: Вид на вершину с г. Торнаташ
-  image: summits/1101_vid_na_vershinu_s_g._tornatash_0.jpg
-  preview: summits/1101_vid_na_vershinu_s_g._tornatash_0_preview.jpg
+  preview_url: summits/1101_vid_na_vershinu_s_g._tornatash_0_preview.jpg
+  url: summits/1101_vid_na_vershinu_s_g._tornatash_0.jpg
 interpretation: null
 name: null
 name_alt: Плато

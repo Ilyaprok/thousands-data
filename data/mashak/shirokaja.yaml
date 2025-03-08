@@ -5,23 +5,23 @@ description: Широкое тундровое плато, обрывающее�
 height: 1332
 images:
 - comment: Вершина
-  image: summits/shirokaja_vershina_0.jpg
-  preview: summits/shirokaja_vershina_0_preview.jpg
+  preview_url: summits/shirokaja_vershina_0_preview.jpg
+  url: summits/shirokaja_vershina_0.jpg
 - comment: На вершине 1
-  image: summits/shirokaja_na_vershine_1_1.jpg
-  preview: summits/shirokaja_na_vershine_1_1_preview.jpg
+  preview_url: summits/shirokaja_na_vershine_1_1_preview.jpg
+  url: summits/shirokaja_na_vershine_1_1.jpg
 - comment: На вершине 2
-  image: summits/shirokaja_na_vershine_2_2.jpg
-  preview: summits/shirokaja_na_vershine_2_2_preview.jpg
+  preview_url: summits/shirokaja_na_vershine_2_2_preview.jpg
+  url: summits/shirokaja_na_vershine_2_2.jpg
 - comment: Вид с вершины 1
-  image: summits/shirokaja_vid_s_vershiny_1_3.jpg
-  preview: summits/shirokaja_vid_s_vershiny_1_3_preview.jpg
+  preview_url: summits/shirokaja_vid_s_vershiny_1_3_preview.jpg
+  url: summits/shirokaja_vid_s_vershiny_1_3.jpg
 - comment: Вид с вершины 2
-  image: summits/shirokaja_vid_s_vershiny_2_4.jpg
-  preview: summits/shirokaja_vid_s_vershiny_2_4_preview.jpg
+  preview_url: summits/shirokaja_vid_s_vershiny_2_4_preview.jpg
+  url: summits/shirokaja_vid_s_vershiny_2_4.jpg
 - comment: Вершина
-  image: summits/shirokaja_vershina_5.jpg
-  preview: summits/shirokaja_vershina_5_preview.jpg
+  preview_url: summits/shirokaja_vershina_5_preview.jpg
+  url: summits/shirokaja_vershina_5.jpg
 interpretation: На южном Урале часто горы с большими столообразными вершинами называли
   &laquo;широкими&raquo;.
 name: Широкая

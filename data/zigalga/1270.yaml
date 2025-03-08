@@ -5,11 +5,11 @@ description: Плато с небольшими останцами
 height: 1270
 images:
 - comment: На вершине
-  image: summits/1270_na_vershine_0.jpg
-  preview: summits/1270_na_vershine_0_preview.jpg
+  preview_url: summits/1270_na_vershine_0_preview.jpg
+  url: summits/1270_na_vershine_0.jpg
 - comment: Вершина
-  image: summits/1270_vershina_1.jpg
-  preview: summits/1270_vershina_1_preview.jpg
+  preview_url: summits/1270_vershina_1_preview.jpg
+  url: summits/1270_vershina_1.jpg
 interpretation: ''
 name: null
 name_alt: null

@@ -5,11 +5,11 @@ description: "Курумный купол\r\n"
 height: 1282
 images:
 - comment: Вершина
-  image: summits/1282_vershina_0.jpg
-  preview: summits/1282_vershina_0_preview.jpg
+  preview_url: summits/1282_vershina_0_preview.jpg
+  url: summits/1282_vershina_0.jpg
 - comment: Вершина. Вид с отрога г. Большой Пасынок
-  image: summits/1282_vershina._vid_s_otroga_g._bol'shoj_pasynok_1.jpg
-  preview: summits/1282_vershina._vid_s_otroga_g._bol'shoj_pasynok_1_preview.jpg
+  preview_url: summits/1282_vershina._vid_s_otroga_g._bol'shoj_pasynok_1_preview.jpg
+  url: summits/1282_vershina._vid_s_otroga_g._bol'shoj_pasynok_1.jpg
 interpretation: <strong>Шелом</strong> &mdash; шлем, холм, бугор.
 name: null
 name_alt: Пятый Шелом

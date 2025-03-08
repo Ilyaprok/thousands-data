@@ -5,11 +5,11 @@ description: null
 height: 1171
 images:
 - comment: Вид на вершину
-  image: summits/naratash_vid_na_vershinu_0.jpg
-  preview: summits/naratash_vid_na_vershinu_0_preview.jpg
+  preview_url: summits/naratash_vid_na_vershinu_0_preview.jpg
+  url: summits/naratash_vid_na_vershinu_0.jpg
 - comment: Вершина
-  image: summits/naratash_vershina_1.jpg
-  preview: summits/naratash_vershina_1_preview.jpg
+  preview_url: summits/naratash_vershina_1_preview.jpg
+  url: summits/naratash_vershina_1.jpg
 interpretation: "<b>Нер</b> (манси) &mdash; каменистая вершина. <b>Таш</b> (баш.)\
   \ &mdash; камень.\r\n"
 name: Нараташ

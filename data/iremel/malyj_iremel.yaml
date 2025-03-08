@@ -5,11 +5,11 @@ description: Тундровое плато Малого Иремеля, пожа
 height: 1449
 images:
 - comment: Вершина
-  image: summits/malyj_iremel_vershina_0.jpg
-  preview: summits/malyj_iremel_vershina_0_preview.jpg
+  preview_url: summits/malyj_iremel_vershina_0_preview.jpg
+  url: summits/malyj_iremel_vershina_0.jpg
 - comment: Вершина с 1345 (Иремель)
-  image: summits/malyj_iremel_vershina_s_1345_(iremel')_1.jpg
-  preview: summits/malyj_iremel_vershina_s_1345_(iremel')_1_preview.jpg
+  preview_url: summits/malyj_iremel_vershina_s_1345_(iremel')_1_preview.jpg
+  url: summits/malyj_iremel_vershina_s_1345_(iremel')_1.jpg
 interpretation: "<ol>\r\n<li><strong>Иремель</strong> (баш.) &mdash; священная гора.</li>\r\
   \n<li><strong>Ырым</strong> (баш., тат.) &mdash; заклинание, колдовство. <strong>Ырымлы</strong>\
   \ &mdash; заговоренный, заколдованный.</li>\r\n<li><strong>Ир</strong>,<strong>из</strong>,\

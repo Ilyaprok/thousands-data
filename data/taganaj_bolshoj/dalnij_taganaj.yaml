@@ -7,11 +7,11 @@ description: Обычно на картах высоту Дальнего Таг
 height: 1148
 images:
 - comment: Вершина
-  image: summits/dalnij_taganaj_vershina_0.jpg
-  preview: summits/dalnij_taganaj_vershina_0_preview.jpg
+  preview_url: summits/dalnij_taganaj_vershina_0_preview.jpg
+  url: summits/dalnij_taganaj_vershina_0.jpg
 - comment: Вершина
-  image: summits/dalnij_taganaj_vershina_1.jpg
-  preview: summits/dalnij_taganaj_vershina_1_preview.jpg
+  preview_url: summits/dalnij_taganaj_vershina_1_preview.jpg
+  url: summits/dalnij_taganaj_vershina_1.jpg
 interpretation: "<p><b>Дальний</b> &mdash; наиболее удаленный от Златоуста.\r\n<p><b>Таган</b>\
   \ (баш.) &mdash; подставка, треножник. <b>Ай</b> &mdash; луна. Подставка луны, лунный\
   \ треножник.\r\n<p><b>Ай</b> (тюрк.) &mdash; суффикс с уменьшительно-ласкательным\

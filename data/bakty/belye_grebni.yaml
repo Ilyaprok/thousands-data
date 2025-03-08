@@ -5,8 +5,8 @@ description: Светлые скалы. С восточной стороны - �
 height: 1078
 images:
 - comment: На вершине. Вид в сторону северной части хребта
-  image: summits/belye_grebni_na_vershine._vid_v_storonu_severnoj_chasti_hrebta_0.jpg
-  preview: summits/belye_grebni_na_vershine._vid_v_storonu_severnoj_chasti_hrebta_0_preview.jpg
+  preview_url: summits/belye_grebni_na_vershine._vid_v_storonu_severnoj_chasti_hrebta_0_preview.jpg
+  url: summits/belye_grebni_na_vershine._vid_v_storonu_severnoj_chasti_hrebta_0.jpg
 interpretation: ''
 name: Белые Гребни
 name_alt: null

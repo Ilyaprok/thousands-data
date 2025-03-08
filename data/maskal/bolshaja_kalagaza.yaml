@@ -5,14 +5,14 @@ description: "Скала, лес\r\n"
 height: 1048
 images:
 - comment: Вершина (вид с поляны на Нургуше)
-  image: summits/bolshaja_kalagaza_vershina_(vid_s_poljany_na_nurgushe)_0.jpg
-  preview: summits/bolshaja_kalagaza_vershina_(vid_s_poljany_na_nurgushe)_0_preview.jpg
+  preview_url: summits/bolshaja_kalagaza_vershina_(vid_s_poljany_na_nurgushe)_0_preview.jpg
+  url: summits/bolshaja_kalagaza_vershina_(vid_s_poljany_na_nurgushe)_0.jpg
 - comment: Панорама с вершины
-  image: summits/bolshaja_kalagaza_panorama_s_vershiny_1.jpg
-  preview: summits/bolshaja_kalagaza_panorama_s_vershiny_1_preview.jpg
+  preview_url: summits/bolshaja_kalagaza_panorama_s_vershiny_1_preview.jpg
+  url: summits/bolshaja_kalagaza_panorama_s_vershiny_1.jpg
 - comment: Вид с вершины
-  image: summits/bolshaja_kalagaza_vid_s_vershiny_2.jpg
-  preview: summits/bolshaja_kalagaza_vid_s_vershiny_2_preview.jpg
+  preview_url: summits/bolshaja_kalagaza_vid_s_vershiny_2_preview.jpg
+  url: summits/bolshaja_kalagaza_vid_s_vershiny_2.jpg
 interpretation: "<p>По названию рек Большая и Малая Калагаза.</p>\r\n<p><b>Калагоза</b>\
   \ (баш.) &mdash; река со старицами. (<b>Кылы</b> (баш.) &mdash; узкая полоска воды,\
   \ протока, старица. <b>Газе</b> (древнебаш.) &mdash; река.)"

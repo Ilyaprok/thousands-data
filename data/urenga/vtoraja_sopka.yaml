@@ -5,17 +5,17 @@ description: "Вытянутый по оси хребта курумный ку�
 height: 1198
 images:
 - comment: Вершина
-  image: summits/vtoraja_sopka_vershina_0.jpg
-  preview: summits/vtoraja_sopka_vershina_0_preview.jpg
+  preview_url: summits/vtoraja_sopka_vershina_0_preview.jpg
+  url: summits/vtoraja_sopka_vershina_0.jpg
 - comment: Вершина
-  image: summits/vtoraja_sopka_vershina_1.jpg
-  preview: summits/vtoraja_sopka_vershina_1_preview.jpg
+  preview_url: summits/vtoraja_sopka_vershina_1_preview.jpg
+  url: summits/vtoraja_sopka_vershina_1.jpg
 - comment: Вершина
-  image: summits/vtoraja_sopka_vershina_2.jpg
-  preview: summits/vtoraja_sopka_vershina_2_preview.jpg
+  preview_url: summits/vtoraja_sopka_vershina_2_preview.jpg
+  url: summits/vtoraja_sopka_vershina_2.jpg
 - comment: Вершинный тур
-  image: summits/vtoraja_sopka_vershinnyj_tur_3.jpg
-  preview: summits/vtoraja_sopka_vershinnyj_tur_3_preview.jpg
+  preview_url: summits/vtoraja_sopka_vershinnyj_tur_3_preview.jpg
+  url: summits/vtoraja_sopka_vershinnyj_tur_3.jpg
 interpretation: Вторая &mdash; средняя из трех сопок, считая от Златоуста. Голая &mdash;
   мало растительности.
 name: Вторая Сопка

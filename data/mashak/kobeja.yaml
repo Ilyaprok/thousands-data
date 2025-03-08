@@ -5,11 +5,11 @@ description: Небольшой курумный купол на плато в �
 height: 1261
 images:
 - comment: Вершина
-  image: summits/kobeja_vershina_0.jpg
-  preview: summits/kobeja_vershina_0_preview.jpg
+  preview_url: summits/kobeja_vershina_0_preview.jpg
+  url: summits/kobeja_vershina_0.jpg
 - comment: Вид с вершины
-  image: summits/kobeja_vid_s_vershiny_1.jpg
-  preview: summits/kobeja_vid_s_vershiny_1_preview.jpg
+  preview_url: summits/kobeja_vid_s_vershiny_1_preview.jpg
+  url: summits/kobeja_vid_s_vershiny_1.jpg
 interpretation: null
 name: Кобея
 name_alt: null

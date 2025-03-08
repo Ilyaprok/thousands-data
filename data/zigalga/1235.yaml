@@ -5,8 +5,8 @@ description: Лесотундровое плато с невысокой ска�
 height: 1235
 images:
 - comment: На вершине. Вид в сторону г. Поперечной
-  image: summits/1235_na_vershine._vid_v_storonu_g._poperechnoj_0.jpg
-  preview: summits/1235_na_vershine._vid_v_storonu_g._poperechnoj_0_preview.jpg
+  preview_url: summits/1235_na_vershine._vid_v_storonu_g._poperechnoj_0_preview.jpg
+  url: summits/1235_na_vershine._vid_v_storonu_g._poperechnoj_0.jpg
 interpretation: ''
 name: null
 name_alt: Мерзлая

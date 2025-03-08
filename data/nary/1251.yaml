@@ -5,14 +5,14 @@ description: Высокий протяжённый скальный гребен
 height: 1251
 images:
 - comment: Вершина
-  image: summits/1251_vershina_0.jpg
-  preview: summits/1251_vershina_0_preview.jpg
+  preview_url: summits/1251_vershina_0_preview.jpg
+  url: summits/1251_vershina_0.jpg
 - comment: Вид с вершины 2
-  image: summits/1251_vid_s_vershiny_2_1.jpg
-  preview: summits/1251_vid_s_vershiny_2_1_preview.jpg
+  preview_url: summits/1251_vid_s_vershiny_2_1_preview.jpg
+  url: summits/1251_vid_s_vershiny_2_1.jpg
 - comment: Вид с вершины
-  image: summits/1251_vid_s_vershiny_2.jpg
-  preview: summits/1251_vid_s_vershiny_2_preview.jpg
+  preview_url: summits/1251_vid_s_vershiny_2_preview.jpg
+  url: summits/1251_vid_s_vershiny_2.jpg
 interpretation: null
 name: null
 name_alt: null

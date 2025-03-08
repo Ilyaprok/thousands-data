@@ -5,8 +5,8 @@ description: Невысокая скала вулканических пород
 height: 1013
 images:
 - comment: Вершина
-  image: summits/1013_vershina_0.jpg
-  preview: summits/1013_vershina_0_preview.jpg
+  preview_url: summits/1013_vershina_0_preview.jpg
+  url: summits/1013_vershina_0.jpg
 interpretation: null
 name: null
 name_alt: Южная Кусимовка

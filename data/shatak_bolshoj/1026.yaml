@@ -6,8 +6,8 @@ description: Скальный гребень, состоящий из огром
 height: 1026
 images:
 - comment: Вершина
-  image: summits/1026_vershina_0.jpg
-  preview: summits/1026_vershina_0_preview.jpg
+  preview_url: summits/1026_vershina_0_preview.jpg
+  url: summits/1026_vershina_0.jpg
 interpretation: null
 name: null
 name_alt: null

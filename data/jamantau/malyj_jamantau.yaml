@@ -6,11 +6,11 @@ description: Огромный курумный купол &mdash; "кабан", 
 height: 1519
 images:
 - comment: Вершина
-  image: summits/malyj_jamantau_vershina_0.jpg
-  preview: summits/malyj_jamantau_vershina_0_preview.jpg
+  preview_url: summits/malyj_jamantau_vershina_0_preview.jpg
+  url: summits/malyj_jamantau_vershina_0.jpg
 - comment: Вершина
-  image: summits/malyj_jamantau_vershina_1.jpg
-  preview: summits/malyj_jamantau_vershina_1_preview.jpg
+  preview_url: summits/malyj_jamantau_vershina_1_preview.jpg
+  url: summits/malyj_jamantau_vershina_1.jpg
 interpretation: <strong>Яман</strong> (баш.) &mdash; плохой, дурной, <strong>тау</strong>(баш.)
   &mdash; гора. Плохая, дурная гора (глухие места, болото, постоянно лежит снег, облака,
   туман). <strong>Куянтау</strong> - заячья гора.

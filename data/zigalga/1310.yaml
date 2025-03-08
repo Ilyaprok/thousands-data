@@ -6,11 +6,11 @@ description: Невысокий курумный купол овальной ф�
 height: 1310
 images:
 - comment: Вершина
-  image: summits/1310_vershina_0.jpg
-  preview: summits/1310_vershina_0_preview.jpg
+  preview_url: summits/1310_vershina_0_preview.jpg
+  url: summits/1310_vershina_0.jpg
 - comment: Вершина
-  image: summits/1310_vershina_1.jpg
-  preview: summits/1310_vershina_1_preview.jpg
+  preview_url: summits/1310_vershina_1_preview.jpg
+  url: summits/1310_vershina_1.jpg
 interpretation: "<ol>\r\n<li><strong>Евлакта</strong> &mdash; горная речка на хребте\
   \ Зигальга</li>\r\n<li><strong>Ак</strong>,<strong>ах</strong>,<strong>акты</strong>,<strong>ахты</strong>\
   \ (древнебаш.) &mdash; течь,течение,поток,протока\r\n<li><strong>Евлаха</strong>\

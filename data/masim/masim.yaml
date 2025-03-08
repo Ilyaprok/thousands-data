@@ -8,8 +8,8 @@ description: Плато, поросшее низкорослыми деревь�
 height: 1040
 images:
 - comment: Вершина
-  image: summits/masim_vershina_0.jpg
-  preview: summits/masim_vershina_0_preview.jpg
+  preview_url: summits/masim_vershina_0_preview.jpg
+  url: summits/masim_vershina_0.jpg
 interpretation: "<p>По имени персонажа башкирского эпоса <strong>Масемхана</strong>\
   \ (<strong>Масембая</strong>).</p>\r\n<p><strong>Кыз</strong> (баш.,тат.) &mdash;\
   \ девушка, девочка. <strong>Таш</strong> (баш.) &mdash; камень. <strong>Кызларташ</strong>\

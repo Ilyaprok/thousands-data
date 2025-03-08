@@ -5,11 +5,11 @@ description: "Курумный купол\r\n"
 height: 1240
 images:
 - comment: Вершина
-  image: summits/mohnatyj_dol_vershina_0.jpg
-  preview: summits/mohnatyj_dol_vershina_0_preview.jpg
+  preview_url: summits/mohnatyj_dol_vershina_0_preview.jpg
+  url: summits/mohnatyj_dol_vershina_0.jpg
 - comment: Вершина
-  image: summits/mohnatyj_dol_vershina_1.jpg
-  preview: summits/mohnatyj_dol_vershina_1_preview.jpg
+  preview_url: summits/mohnatyj_dol_vershina_1_preview.jpg
+  url: summits/mohnatyj_dol_vershina_1.jpg
 interpretation: Дол &mdash; понижение, небольшая долина с пологими склонами. Возможно,
   гора названа по долу ручья Большой Каменный, в верховьях которого она находится.
   Мохнатый &mdash; лесистый &mdash; в противопоставление болоту Чёртов Дол, лежащему

@@ -5,8 +5,8 @@ description: ''
 height: 1086
 images:
 - comment: Вид с вершины
-  image: summits/1086_vid_s_vershiny_0.jpg
-  preview: summits/1086_vid_s_vershiny_0_preview.jpg
+  preview_url: summits/1086_vid_s_vershiny_0_preview.jpg
+  url: summits/1086_vid_s_vershiny_0.jpg
 interpretation: ''
 name: null
 name_alt: null

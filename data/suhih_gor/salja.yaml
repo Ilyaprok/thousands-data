@@ -5,11 +5,11 @@ description: null
 height: 1016
 images:
 - comment: Вершина (с хребта Байрамгул)
-  image: summits/salja_vershina_(s_hrebta_bajramgul)_0.jpg
-  preview: summits/salja_vershina_(s_hrebta_bajramgul)_0_preview.jpg
+  preview_url: summits/salja_vershina_(s_hrebta_bajramgul)_0_preview.jpg
+  url: summits/salja_vershina_(s_hrebta_bajramgul)_0.jpg
 - comment: Вершина
-  image: summits/salja_vershina_1.jpg
-  preview: summits/salja_vershina_1_preview.jpg
+  preview_url: summits/salja_vershina_1_preview.jpg
+  url: summits/salja_vershina_1.jpg
 interpretation: "<ol>\r\n<li><b>Саля</b> (ненец.) &mdash; мыс.</li>\r\n<li><b>Сил</b>\
   \ (баш.) &mdash; тихий, спокойный. Затишье, нет ветра. <b>Яз</b>, <b>уяз</b> (баш.)\
   \ &mdash; долина, тихая долина.</li>\r\n<li><b>Сылыу</b> (баш.) &mdash; место, богатое\

@@ -5,11 +5,11 @@ description: Поляна в лесу, скальные выходы
 height: 1203
 images:
 - comment: На вершине. Антенна завалена
-  image: summits/antennaja_na_vershine._antenna_zavalena_0.jpg
-  preview: summits/antennaja_na_vershine._antenna_zavalena_0_preview.jpg
+  preview_url: summits/antennaja_na_vershine._antenna_zavalena_0_preview.jpg
+  url: summits/antennaja_na_vershine._antenna_zavalena_0.jpg
 - comment: Вершина - левый останец
-  image: summits/antennaja_vershina_-_levyj_ostanets_1.jpg
-  preview: summits/antennaja_vershina_-_levyj_ostanets_1_preview.jpg
+  preview_url: summits/antennaja_vershina_-_levyj_ostanets_1_preview.jpg
+  url: summits/antennaja_vershina_-_levyj_ostanets_1.jpg
 interpretation: На вершине стоят &laquo;антенны&raquo; авианавигации
 name: Антенная
 name_alt: null

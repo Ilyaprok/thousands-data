@@ -8,8 +8,8 @@ description: 'По названию реки Мазара
 height: 1008
 images:
 - comment: На вершине
-  image: summits/1008_na_vershine_0.jpg
-  preview: summits/1008_na_vershine_0_preview.jpg
+  preview_url: summits/1008_na_vershine_0_preview.jpg
+  url: summits/1008_na_vershine_0.jpg
 interpretation: null
 name: null
 name_alt: Мазара

@@ -6,11 +6,11 @@ description: На вершине &mdash; скальный гребень, отл
 height: 1253
 images:
 - comment: Вершина с 1233 (Иремель)
-  image: summits/1253_vershina_s_1233_(iremel')_0.jpg
-  preview: summits/1253_vershina_s_1233_(iremel')_0_preview.jpg
+  preview_url: summits/1253_vershina_s_1233_(iremel')_0_preview.jpg
+  url: summits/1253_vershina_s_1233_(iremel')_0.jpg
 - comment: Вершина с 1345 (Иремель)
-  image: summits/1253_vershina_s_1345_(iremel')_1.jpg
-  preview: summits/1253_vershina_s_1345_(iremel')_1_preview.jpg
+  preview_url: summits/1253_vershina_s_1345_(iremel')_1_preview.jpg
+  url: summits/1253_vershina_s_1345_(iremel')_1.jpg
 interpretation: "<ol>\r\n<li><strong>Аулак</strong> (баш.) &mdash; безлюдный, глухой\r\
   \n<li><strong>Аулак</strong> (тюрк.) &mdash; место изобилующее дичью\r\n</ol>"
 name: null

@@ -5,14 +5,14 @@ description: ''
 height: 1151
 images:
 - comment: Вершина
-  image: summits/1151_vershina_0.jpg
-  preview: summits/1151_vershina_0_preview.jpg
+  preview_url: summits/1151_vershina_0_preview.jpg
+  url: summits/1151_vershina_0.jpg
 - comment: С Тюлюка
-  image: summits/1151_s_tjuljuka_1.jpg
-  preview: summits/1151_s_tjuljuka_1_preview.jpg
+  preview_url: summits/1151_s_tjuljuka_1_preview.jpg
+  url: summits/1151_s_tjuljuka_1.jpg
 - comment: Панорама с вершины в сторону долины р. Евлакты
-  image: summits/1151_panorama_s_vershiny_v_storonu_doliny_r._evlakty_2.jpg
-  preview: summits/1151_panorama_s_vershiny_v_storonu_doliny_r._evlakty_2_preview.jpg
+  preview_url: summits/1151_panorama_s_vershiny_v_storonu_doliny_r._evlakty_2_preview.jpg
+  url: summits/1151_panorama_s_vershiny_v_storonu_doliny_r._evlakty_2.jpg
 interpretation: null
 name: null
 name_alt: null

@@ -5,14 +5,14 @@ description: Лесистая вершина
 height: 1042
 images:
 - comment: Вершина (вид с г. Белые Гребни)
-  image: summits/1042_vershina_(vid_s_g._belye_grebni)_0.jpg
-  preview: summits/1042_vershina_(vid_s_g._belye_grebni)_0_preview.jpg
+  preview_url: summits/1042_vershina_(vid_s_g._belye_grebni)_0_preview.jpg
+  url: summits/1042_vershina_(vid_s_g._belye_grebni)_0.jpg
 - comment: Вид с останцев неподалеку от вершины в сторону северной части хребта Бакты
-  image: summits/1042_vid_s_ostantsev_nepodaleku_ot_vershiny_v_storonu_severnoj_chasti_hrebta_bakty_1.jpg
-  preview: summits/1042_vid_s_ostantsev_nepodaleku_ot_vershiny_v_storonu_severnoj_chasti_hrebta_bakty_1_preview.jpg
+  preview_url: summits/1042_vid_s_ostantsev_nepodaleku_ot_vershiny_v_storonu_severnoj_chasti_hrebta_bakty_1_preview.jpg
+  url: summits/1042_vid_s_ostantsev_nepodaleku_ot_vershiny_v_storonu_severnoj_chasti_hrebta_bakty_1.jpg
 - comment: Вид с останцев неподалеку от вершины в сторону южной части хребта Бакты
-  image: summits/1042_vid_s_ostantsev_nepodaleku_ot_vershiny_v_storonu_juzhnoj_chasti_hrebta_bakty_2.jpg
-  preview: summits/1042_vid_s_ostantsev_nepodaleku_ot_vershiny_v_storonu_juzhnoj_chasti_hrebta_bakty_2_preview.jpg
+  preview_url: summits/1042_vid_s_ostantsev_nepodaleku_ot_vershiny_v_storonu_juzhnoj_chasti_hrebta_bakty_2_preview.jpg
+  url: summits/1042_vid_s_ostantsev_nepodaleku_ot_vershiny_v_storonu_juzhnoj_chasti_hrebta_bakty_2.jpg
 interpretation: ''
 name: null
 name_alt: null

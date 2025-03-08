@@ -6,14 +6,14 @@ description: Весьма мощный скальный гребень. Верш
 height: 1019
 images:
 - comment: Вид с вершины
-  image: summits/kurtashtau_vid_s_vershiny_0.jpg
-  preview: summits/kurtashtau_vid_s_vershiny_0_preview.jpg
+  preview_url: summits/kurtashtau_vid_s_vershiny_0_preview.jpg
+  url: summits/kurtashtau_vid_s_vershiny_0.jpg
 - comment: Цирк недалеко от вершины
-  image: summits/kurtashtau_tsirk_nedaleko_ot_vershiny_1.jpg
-  preview: summits/kurtashtau_tsirk_nedaleko_ot_vershiny_1_preview.jpg
+  preview_url: summits/kurtashtau_tsirk_nedaleko_ot_vershiny_1_preview.jpg
+  url: summits/kurtashtau_tsirk_nedaleko_ot_vershiny_1.jpg
 - comment: Вид с вершины
-  image: summits/kurtashtau_vid_s_vershiny_2.jpg
-  preview: summits/kurtashtau_vid_s_vershiny_2_preview.jpg
+  preview_url: summits/kurtashtau_vid_s_vershiny_2_preview.jpg
+  url: summits/kurtashtau_vid_s_vershiny_2.jpg
 interpretation: "<ol>\r\n<li><b>Корташ</b> (баш.) &mdash; тетеревиный камень. Возможно,такое\
   \ название дано за сходство скального гребня, венчающего гору, с тетеревиным гребешком.\
   \ \r\n<li><b>Курташ</b> (баш.) &mdash; богатый камень &mdash; гора, богатая камнями,\

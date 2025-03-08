@@ -5,20 +5,20 @@ description: Скальный бастион
 height: 1066
 images:
 - comment: С Юго-запада
-  image: summits/indeets_s_jugo-zapada_0.jpg
-  preview: summits/indeets_s_jugo-zapada_0_preview.jpg
+  preview_url: summits/indeets_s_jugo-zapada_0_preview.jpg
+  url: summits/indeets_s_jugo-zapada_0.jpg
 - comment: Вид с вершины 1
-  image: summits/indeets_vid_s_vershiny_1_1.jpg
-  preview: summits/indeets_vid_s_vershiny_1_1_preview.jpg
+  preview_url: summits/indeets_vid_s_vershiny_1_1_preview.jpg
+  url: summits/indeets_vid_s_vershiny_1_1.jpg
 - comment: С вершины Ялангаса
-  image: summits/indeets_s_vershiny_jalangasa_2.jpg
-  preview: summits/indeets_s_vershiny_jalangasa_2_preview.jpg
+  preview_url: summits/indeets_s_vershiny_jalangasa_2_preview.jpg
+  url: summits/indeets_s_vershiny_jalangasa_2.jpg
 - comment: Вершина
-  image: summits/indeets_vershina_3.jpg
-  preview: summits/indeets_vershina_3_preview.jpg
+  preview_url: summits/indeets_vershina_3_preview.jpg
+  url: summits/indeets_vershina_3.jpg
 - comment: Вид с вершины 2
-  image: summits/indeets_vid_s_vershiny_2_4.jpg
-  preview: summits/indeets_vid_s_vershiny_2_4_preview.jpg
+  preview_url: summits/indeets_vid_s_vershiny_2_4_preview.jpg
+  url: summits/indeets_vid_s_vershiny_2_4.jpg
 interpretation: null
 name: Индеец
 name_alt: Зуб, Голова Индейца, Голенькая

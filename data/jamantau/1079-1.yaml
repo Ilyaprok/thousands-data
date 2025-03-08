@@ -5,11 +5,11 @@ description: Залесенная вершин с каменным гурием.
 height: 1079
 images:
 - comment: Вершинный тур
-  image: summits/1079-1_vershinnyj_tur_0.jpg
-  preview: summits/1079-1_vershinnyj_tur_0_preview.jpg
+  preview_url: summits/1079-1_vershinnyj_tur_0_preview.jpg
+  url: summits/1079-1_vershinnyj_tur_0.jpg
 - comment: Вид со склонов
-  image: summits/1079-1_vid_so_sklonov_1.jpg
-  preview: summits/1079-1_vid_so_sklonov_1_preview.jpg
+  preview_url: summits/1079-1_vid_so_sklonov_1_preview.jpg
+  url: summits/1079-1_vid_so_sklonov_1.jpg
 interpretation: null
 name: null
 name_alt: null

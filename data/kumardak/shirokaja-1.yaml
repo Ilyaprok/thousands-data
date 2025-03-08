@@ -7,14 +7,14 @@ description: Горнотундровое плато, курумы, скальн
 height: 1287
 images:
 - comment: Вид с вершины
-  image: summits/shirokaja-1_vid_s_vershiny_0.jpg
-  preview: summits/shirokaja-1_vid_s_vershiny_0_preview.jpg
+  preview_url: summits/shirokaja-1_vid_s_vershiny_0_preview.jpg
+  url: summits/shirokaja-1_vid_s_vershiny_0.jpg
 - comment: Вид с вершины 2
-  image: summits/shirokaja-1_vid_s_vershiny_2_1.jpg
-  preview: summits/shirokaja-1_vid_s_vershiny_2_1_preview.jpg
+  preview_url: summits/shirokaja-1_vid_s_vershiny_2_1_preview.jpg
+  url: summits/shirokaja-1_vid_s_vershiny_2_1.jpg
 - comment: Панорама в сторону Широкой россыпи
-  image: summits/shirokaja-1_panorama_v_storonu_shirokoj_rossypi_2.jpg
-  preview: summits/shirokaja-1_panorama_v_storonu_shirokoj_rossypi_2_preview.jpg
+  preview_url: summits/shirokaja-1_panorama_v_storonu_shirokoj_rossypi_2_preview.jpg
+  url: summits/shirokaja-1_panorama_v_storonu_shirokoj_rossypi_2.jpg
 interpretation: На Южном Урале часто горы с большими столообразными вершинами называли
   &laquo;широкими&raquo;.
 name: Широкая

@@ -6,8 +6,8 @@ description: Курумы. Между вершинами 1317, 1265 и 1287 ле
 height: 1317
 images:
 - comment: Вершина
-  image: summits/1317_vershina_0.jpg
-  preview: summits/1317_vershina_0_preview.jpg
+  preview_url: summits/1317_vershina_0_preview.jpg
+  url: summits/1317_vershina_0.jpg
 interpretation: null
 name: null
 name_alt: null

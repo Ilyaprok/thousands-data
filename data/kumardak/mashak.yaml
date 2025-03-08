@@ -7,11 +7,11 @@ description: Горнотундровое плато,скальные остан
 height: 1265
 images:
 - comment: Панорама вершины
-  image: summits/mashak_panorama_vershiny_0.jpg
-  preview: summits/mashak_panorama_vershiny_0_preview.jpg
+  preview_url: summits/mashak_panorama_vershiny_0_preview.jpg
+  url: summits/mashak_panorama_vershiny_0.jpg
 - comment: Вид на вершину с г. Б. Кумардак
-  image: summits/mashak_vid_na_vershinu_s_g._b._kumardak_1.jpg
-  preview: summits/mashak_vid_na_vershinu_s_g._b._kumardak_1_preview.jpg
+  preview_url: summits/mashak_vid_na_vershinu_s_g._b._kumardak_1_preview.jpg
+  url: summits/mashak_vid_na_vershinu_s_g._b._kumardak_1.jpg
 interpretation: Глухие места, обитали медведи
 name: Машак
 name_alt: Медвежья

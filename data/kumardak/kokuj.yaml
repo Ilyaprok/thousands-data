@@ -5,11 +5,11 @@ description: "Скала, обрывающаяся на восток, лес, к
 height: 1124
 images:
 - comment: Вид с вершины
-  image: summits/kokuj_vid_s_vershiny_0.jpg
-  preview: summits/kokuj_vid_s_vershiny_0_preview.jpg
+  preview_url: summits/kokuj_vid_s_vershiny_0_preview.jpg
+  url: summits/kokuj_vid_s_vershiny_0.jpg
 - comment: Вид с вершины 2
-  image: summits/kokuj_vid_s_vershiny_2_1.jpg
-  preview: summits/kokuj_vid_s_vershiny_2_1_preview.jpg
+  preview_url: summits/kokuj_vid_s_vershiny_2_1_preview.jpg
+  url: summits/kokuj_vid_s_vershiny_2_1.jpg
 interpretation: "<ol>\r\n<li><strong>Кук</strong> (баш.) &mdash; синий, сивый. <strong>Уй</strong>(баш.,тат.)\
   \ &mdash; долина, низина.\r\n<li><strong>Кукай</strong>, <strong>Кукей</strong>\
   \ (тюрк.) &mdash; имя мужчины со значением &laquo;синий&raquo;.\r\n<li><strong>Кокуй</strong>\

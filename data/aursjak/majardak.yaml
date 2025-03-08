@@ -7,14 +7,14 @@ description: "Версии не бесспорные:\r\n<ol>\r\n<li><strong>З�
 height: 1225
 images:
 - comment: Вид с вершины
-  image: summits/majardak_vid_s_vershiny_0.jpg
-  preview: summits/majardak_vid_s_vershiny_0_preview.jpg
+  preview_url: summits/majardak_vid_s_vershiny_0_preview.jpg
+  url: summits/majardak_vid_s_vershiny_0.jpg
 - comment: Вершина
-  image: summits/majardak_vershina_1.jpg
-  preview: summits/majardak_vershina_1_preview.jpg
+  preview_url: summits/majardak_vershina_1_preview.jpg
+  url: summits/majardak_vershina_1.jpg
 - comment: Вид с вершины 2
-  image: summits/majardak_vid_s_vershiny_2_2.jpg
-  preview: summits/majardak_vid_s_vershiny_2_2_preview.jpg
+  preview_url: summits/majardak_vid_s_vershiny_2_2_preview.jpg
+  url: summits/majardak_vid_s_vershiny_2_2.jpg
 interpretation: Мощный скальный бастион. Классный вид на Ямантау.
 name: Маярдак
 name_alt: null

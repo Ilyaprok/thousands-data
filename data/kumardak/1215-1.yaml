@@ -5,8 +5,8 @@ description: "Редколесье, курумы\r\n"
 height: 1215
 images:
 - comment: Вершина
-  image: summits/1215-1_vershina_0.jpg
-  preview: summits/1215-1_vershina_0_preview.jpg
+  preview_url: summits/1215-1_vershina_0_preview.jpg
+  url: summits/1215-1_vershina_0.jpg
 interpretation: null
 name: null
 name_alt: null

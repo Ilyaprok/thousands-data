@@ -5,14 +5,14 @@ description: Группа скальных останцев
 height: 1136
 images:
 - comment: Вершина
-  image: summits/1136_vershina_0.jpg
-  preview: summits/1136_vershina_0_preview.jpg
+  preview_url: summits/1136_vershina_0_preview.jpg
+  url: summits/1136_vershina_0.jpg
 - comment: Вершина
-  image: summits/1136_vershina_1.jpg
-  preview: summits/1136_vershina_1_preview.jpg
+  preview_url: summits/1136_vershina_1_preview.jpg
+  url: summits/1136_vershina_1.jpg
 - comment: С главной вершины хребта
-  image: summits/1136_s_glavnoj_vershiny_hrebta_2.jpg
-  preview: summits/1136_s_glavnoj_vershiny_hrebta_2_preview.jpg
+  preview_url: summits/1136_s_glavnoj_vershiny_hrebta_2_preview.jpg
+  url: summits/1136_s_glavnoj_vershiny_hrebta_2.jpg
 interpretation: null
 name: null
 name_alt: null

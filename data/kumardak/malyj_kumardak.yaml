@@ -5,11 +5,11 @@ description: "Скальный гребешок, курумы.\r\n"
 height: 1141
 images:
 - comment: Вершина (с Верхнеаршинска)
-  image: summits/malyj_kumardak_vershina_(s_verhnearshinska)_0.jpg
-  preview: summits/malyj_kumardak_vershina_(s_verhnearshinska)_0_preview.jpg
+  preview_url: summits/malyj_kumardak_vershina_(s_verhnearshinska)_0_preview.jpg
+  url: summits/malyj_kumardak_vershina_(s_verhnearshinska)_0.jpg
 - comment: На вершине
-  image: summits/malyj_kumardak_na_vershine_1.jpg
-  preview: summits/malyj_kumardak_na_vershine_1_preview.jpg
+  preview_url: summits/malyj_kumardak_na_vershine_1_preview.jpg
+  url: summits/malyj_kumardak_na_vershine_1.jpg
 interpretation: "<ol>\r\n<li><strong>Кюмэр</strong> (баш.) &mdash; горбатый, <strong>зэк</strong>\
   \ (баш.) &mdash; гора.\r\n<li><strong>Кюмэр</strong> (баш.) &mdash; горбатый, <strong>дак</strong>\
   \ (баш.) &mdash; имяобразующий аффикс.\r\n</ol>"

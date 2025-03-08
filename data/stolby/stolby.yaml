@@ -6,8 +6,8 @@ description: Скалы-останцы. На западном склоне го�
 height: 1026
 images:
 - comment: Вершина
-  image: summits/stolby_vershina_0.jpg
-  preview: summits/stolby_vershina_0_preview.jpg
+  preview_url: summits/stolby_vershina_0_preview.jpg
+  url: summits/stolby_vershina_0.jpg
 interpretation: null
 name: Столбы
 name_alt: null

@@ -9,8 +9,8 @@ description: '
 height: 1165
 images:
 - comment: Вид на хр. Нары и г. Ямантау с курумника на востоке от вершины
-  image: summits/1165_vid_na_hr._nary_i_g._jamantau_s_kurumnika_na_vostoke_ot_vershiny_0.jpg
-  preview: summits/1165_vid_na_hr._nary_i_g._jamantau_s_kurumnika_na_vostoke_ot_vershiny_0_preview.jpg
+  preview_url: summits/1165_vid_na_hr._nary_i_g._jamantau_s_kurumnika_na_vostoke_ot_vershiny_0_preview.jpg
+  url: summits/1165_vid_na_hr._nary_i_g._jamantau_s_kurumnika_na_vostoke_ot_vershiny_0.jpg
 interpretation: null
 name: null
 name_alt: Плато

@@ -5,8 +5,8 @@ description: Лес, курумы
 height: 1133
 images:
 - comment: Вершина
-  image: summits/sujame_vershina_0.jpg
-  preview: summits/sujame_vershina_0_preview.jpg
+  preview_url: summits/sujame_vershina_0_preview.jpg
+  url: summits/sujame_vershina_0.jpg
 interpretation: <b>Су</b> (баш.) &mdash; вода, река.
 name: Суяме
 name_alt: null

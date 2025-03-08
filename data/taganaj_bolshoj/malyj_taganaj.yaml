@@ -5,11 +5,11 @@ description: Скальный бастион. На горе много скал 
 height: 1034
 images:
 - comment: Вершина
-  image: summits/malyj_taganaj_vershina_0.jpg
-  preview: summits/malyj_taganaj_vershina_0_preview.jpg
+  preview_url: summits/malyj_taganaj_vershina_0_preview.jpg
+  url: summits/malyj_taganaj_vershina_0.jpg
 - comment: С юга
-  image: summits/malyj_taganaj_s_juga_1.jpg
-  preview: summits/malyj_taganaj_s_juga_1_preview.jpg
+  preview_url: summits/malyj_taganaj_s_juga_1_preview.jpg
+  url: summits/malyj_taganaj_s_juga_1.jpg
 interpretation: <b>Двуглавая</b> &mdash; две вершины. <b>Сопка</b> &mdash; гора с
   округлой вершиной.
 name: Малый Таганай
