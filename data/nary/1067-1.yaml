@@ -1,15 +1,15 @@
 coordinates:
-- 54.486925
-- 58.209879
+- 54.4869
+- 58.2099
 description: ''
 height: 1067
 images:
-- comment: Вершина
-  preview_url: summits/1067-1_vershina_0_preview.jpg
-  url: summits/1067-1_vershina_0.jpg
 - comment: Вершина 2
-  preview_url: summits/1067-1_vershina_2_1_preview.jpg
-  url: summits/1067-1_vershina_2_1.jpg
+  preview_url: summits/1067-1_vershina_2_0_preview.jpg
+  url: summits/1067-1_vershina_2_0.jpg
+- comment: Вершина
+  preview_url: summits/1067-1_vershina_1_preview.jpg
+  url: summits/1067-1_vershina_1.jpg
 interpretation: null
 name: null
 name_alt: null

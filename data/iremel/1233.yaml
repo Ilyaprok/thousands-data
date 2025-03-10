@@ -1,15 +1,15 @@
 coordinates:
-- 54.493628
-- 58.818937
+- 54.4936
+- 58.8189
 description: "Курумный купол, скальный выход\r\n"
 height: 1233
 images:
-- comment: Панорама с вершины на Тыгынскую каменную реку (хребет Аваляк, г. Синяк)
-  preview_url: summits/1233_panorama_s_vershiny_na_tygynskuju_kamennuju_reku_(hrebet_avaljak,_g._sinjak)_0_preview.jpg
-  url: summits/1233_panorama_s_vershiny_na_tygynskuju_kamennuju_reku_(hrebet_avaljak,_g._sinjak)_0.jpg
 - comment: Вершина с Иремеля
-  preview_url: summits/1233_vershina_s_iremelja_1_preview.jpg
-  url: summits/1233_vershina_s_iremelja_1.jpg
+  preview_url: summits/1233_vershina_s_iremelja_0_preview.jpg
+  url: summits/1233_vershina_s_iremelja_0.jpg
+- comment: Панорама с вершины на Тыгынскую каменную реку (хребет Аваляк, г. Синяк)
+  preview_url: summits/1233_panorama_s_vershiny_na_tygynskuju_kamennuju_reku_(hrebet_avaljak,_g._sinjak)_1_preview.jpg
+  url: summits/1233_panorama_s_vershiny_na_tygynskuju_kamennuju_reku_(hrebet_avaljak,_g._sinjak)_1.jpg
 interpretation: "<ol>\r\n<li>&laquo;Синяя гора&raquo;\r\n<li>В XIX веке ручей <strong>Синяк</strong>,\
   \ давший название горе, назывался <strong>Исейят</strong>. &laquo;Синяк&raquo; &mdash;\
   \ искажённое &laquo;Исейят&raquo;.\r\n</ol>"

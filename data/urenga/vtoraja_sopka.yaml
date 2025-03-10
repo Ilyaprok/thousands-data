@@ -1,6 +1,6 @@
 coordinates:
-- 55.038097
-- 59.50172
+- 55.0381
+- 59.5017
 description: "Вытянутый по оси хребта курумный купол, выходы скальных пород\r\n"
 height: 1198
 images:
@@ -10,12 +10,12 @@ images:
 - comment: Вершина
   preview_url: summits/vtoraja_sopka_vershina_1_preview.jpg
   url: summits/vtoraja_sopka_vershina_1.jpg
-- comment: Вершина
-  preview_url: summits/vtoraja_sopka_vershina_2_preview.jpg
-  url: summits/vtoraja_sopka_vershina_2.jpg
 - comment: Вершинный тур
-  preview_url: summits/vtoraja_sopka_vershinnyj_tur_3_preview.jpg
-  url: summits/vtoraja_sopka_vershinnyj_tur_3.jpg
+  preview_url: summits/vtoraja_sopka_vershinnyj_tur_2_preview.jpg
+  url: summits/vtoraja_sopka_vershinnyj_tur_2.jpg
+- comment: Вершина
+  preview_url: summits/vtoraja_sopka_vershina_3_preview.jpg
+  url: summits/vtoraja_sopka_vershina_3.jpg
 interpretation: Вторая &mdash; средняя из трех сопок, считая от Златоуста. Голая &mdash;
   мало растительности.
 name: Вторая Сопка

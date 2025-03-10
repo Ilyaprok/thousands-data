@@ -1,19 +1,19 @@
 coordinates:
-- 54.353268
-- 57.944164
+- 54.3533
+- 57.9442
 description: Труднодоступная скала. Севернее, на плато 1229м &mdash; урочище Дворики
   (скальный город)
 height: 1340
 images:
-- comment: Вид с вершины 2
-  preview_url: summits/kashkatura_vid_s_vershiny_2_0_preview.jpg
-  url: summits/kashkatura_vid_s_vershiny_2_0.jpg
 - comment: Вид с вершины
-  preview_url: summits/kashkatura_vid_s_vershiny_1_preview.jpg
-  url: summits/kashkatura_vid_s_vershiny_1.jpg
+  preview_url: summits/kashkatura_vid_s_vershiny_0_preview.jpg
+  url: summits/kashkatura_vid_s_vershiny_0.jpg
 - comment: Вид с вершины 3
-  preview_url: summits/kashkatura_vid_s_vershiny_3_2_preview.jpg
-  url: summits/kashkatura_vid_s_vershiny_3_2.jpg
+  preview_url: summits/kashkatura_vid_s_vershiny_3_1_preview.jpg
+  url: summits/kashkatura_vid_s_vershiny_3_1.jpg
+- comment: Вид с вершины 2
+  preview_url: summits/kashkatura_vid_s_vershiny_2_2_preview.jpg
+  url: summits/kashkatura_vid_s_vershiny_2_2.jpg
 interpretation: "<p><b>Кашка</b> (тюрк.) &mdash; лысый.</p>\r\n<p><b>Кашга</b> (древнетюрк.)\
   \ &mdash; белое пятно на лбу животного, в географии &mdash; голое, не заросшее растительностью\
   \ место, голец в горах.</p>\r\n<p><b>Тура</b> (тюрк., монг., южная сибирь) &mdash;\

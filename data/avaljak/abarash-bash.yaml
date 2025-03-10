@@ -1,6 +1,6 @@
 coordinates:
-- 54.471659
-- 58.853502
+- 54.4717
+- 58.8535
 description: Скальный выход на большой курумном куполе. Высшая точка хребта, отличный
   вид на Иремель и долины Тыгына и Белой
 height: 1291
@@ -8,15 +8,15 @@ images:
 - comment: С Малого Аваляка.
   preview_url: summits/abarash-bash_s_malogo_avaljaka._0_preview.jpg
   url: summits/abarash-bash_s_malogo_avaljaka._0.jpg
-- comment: геодезический репер
-  preview_url: summits/abarash-bash_geodezicheskij_reper_1_preview.jpg
-  url: summits/abarash-bash_geodezicheskij_reper_1.jpg
 - comment: Вершина с 1233 (Иремель)
-  preview_url: summits/abarash-bash_vershina_s_1233_(iremel')_2_preview.jpg
-  url: summits/abarash-bash_vershina_s_1233_(iremel')_2.jpg
+  preview_url: summits/abarash-bash_vershina_s_1233_(iremel')_1_preview.jpg
+  url: summits/abarash-bash_vershina_s_1233_(iremel')_1.jpg
 - comment: Вершина
-  preview_url: summits/abarash-bash_vershina_3_preview.jpg
-  url: summits/abarash-bash_vershina_3.jpg
+  preview_url: summits/abarash-bash_vershina_2_preview.jpg
+  url: summits/abarash-bash_vershina_2.jpg
+- comment: геодезический репер
+  preview_url: summits/abarash-bash_geodezicheskij_reper_3_preview.jpg
+  url: summits/abarash-bash_geodezicheskij_reper_3.jpg
 interpretation: '<strong>Баш</strong> (тюрк.) &mdash; голова '
 name: Абараш-Баш
 name_alt: null

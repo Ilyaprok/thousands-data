@@ -1,6 +1,6 @@
 coordinates:
-- 54.429533
-- 58.324192
+- 54.4295
+- 58.3242
 description: 'Глухие места, обитали медведи
 
   курумный купол
@@ -11,12 +11,12 @@ images:
 - comment: Вершина (справа)
   preview_url: summits/medvezhja_vershina_(sprava)_0_preview.jpg
   url: summits/medvezhja_vershina_(sprava)_0.jpg
-- comment: Вид с вершины
-  preview_url: summits/medvezhja_vid_s_vershiny_1_preview.jpg
-  url: summits/medvezhja_vid_s_vershiny_1.jpg
 - comment: На вершине
-  preview_url: summits/medvezhja_na_vershine_2_preview.jpg
-  url: summits/medvezhja_na_vershine_2.jpg
+  preview_url: summits/medvezhja_na_vershine_1_preview.jpg
+  url: summits/medvezhja_na_vershine_1.jpg
+- comment: Вид с вершины
+  preview_url: summits/medvezhja_vid_s_vershiny_2_preview.jpg
+  url: summits/medvezhja_vid_s_vershiny_2.jpg
 interpretation: null
 name: Медвежья
 name_alt: Медвежья-1

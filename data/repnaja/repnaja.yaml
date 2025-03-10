@@ -1,15 +1,15 @@
 coordinates:
-- 54.324398
-- 58.525457
+- 54.3244
+- 58.5255
 description: ''
 height: 1032
 images:
-- comment: Вышка
-  preview_url: summits/repnaja_vyshka_0_preview.jpg
-  url: summits/repnaja_vyshka_0.jpg
 - comment: Вершина
-  preview_url: summits/repnaja_vershina_1_preview.jpg
-  url: summits/repnaja_vershina_1.jpg
+  preview_url: summits/repnaja_vershina_0_preview.jpg
+  url: summits/repnaja_vershina_0.jpg
+- comment: Вышка
+  preview_url: summits/repnaja_vyshka_1_preview.jpg
+  url: summits/repnaja_vyshka_1.jpg
 interpretation: null
 name: Репная
 name_alt: null

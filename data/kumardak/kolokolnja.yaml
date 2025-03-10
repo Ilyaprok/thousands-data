@@ -1,6 +1,6 @@
 coordinates:
-- 54.306637
-- 58.293634
+- 54.3066
+- 58.2936
 description: Большой курумный конус, вытянутый по оси хребта, крутые западный и восточный
   склоны. Перепад высот от границы леса до вершины &mdash; от 250 до 300 метров. Одна
   из самых красивых и крутосклонных вершин Южного Урала. Замечательные панорамы с
@@ -16,12 +16,12 @@ images:
 - comment: С северного цирка инзерских зубчаток
   preview_url: summits/kolokolnja_s_severnogo_tsirka_inzerskih_zubchatok_2_preview.jpg
   url: summits/kolokolnja_s_severnogo_tsirka_inzerskih_zubchatok_2.jpg
-- comment: С Ялангаса
-  preview_url: summits/kolokolnja_s_jalangasa_3_preview.jpg
-  url: summits/kolokolnja_s_jalangasa_3.jpg
 - comment: С севера
-  preview_url: summits/kolokolnja_s_severa_4_preview.jpg
-  url: summits/kolokolnja_s_severa_4.jpg
+  preview_url: summits/kolokolnja_s_severa_3_preview.jpg
+  url: summits/kolokolnja_s_severa_3.jpg
+- comment: С Ялангаса
+  preview_url: summits/kolokolnja_s_jalangasa_4_preview.jpg
+  url: summits/kolokolnja_s_jalangasa_4.jpg
 interpretation: Название дано за характерную пирамидальную форму
 name: Колокольня
 name_alt: null

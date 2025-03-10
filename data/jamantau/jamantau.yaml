@@ -1,6 +1,6 @@
 coordinates:
-- 54.254786
-- 58.103753
+- 54.2548
+- 58.1038
 description: "Огромный курумный купол &mdash; &laquo;кабан&raquo;, на протяжённом\
   \ горнотундровом плато &mdash; скальный выход. Высшая точка Южного Урала.\r\n"
 height: 1640
@@ -8,21 +8,21 @@ images:
 - comment: Вершина
   preview_url: summits/jamantau_vershina_0_preview.jpg
   url: summits/jamantau_vershina_0.jpg
-- comment: Вид на вершину с Ялангаса
-  preview_url: summits/jamantau_vid_na_vershinu_s_jalangasa_1_preview.jpg
-  url: summits/jamantau_vid_na_vershinu_s_jalangasa_1.jpg
+- comment: Вершина
+  preview_url: summits/jamantau_vershina_1_preview.jpg
+  url: summits/jamantau_vershina_1.jpg
 - comment: Ямантау на дальнем плане. Вид с Кузъелгинских пастбищ
   preview_url: summits/jamantau_jamantau_na_dal'nem_plane._vid_s_kuz'elginskih_pastbisch_2_preview.jpg
   url: summits/jamantau_jamantau_na_dal'nem_plane._vid_s_kuz'elginskih_pastbisch_2.jpg
-- comment: С цирка Инзерских зубчаток
-  preview_url: summits/jamantau_s_tsirka_inzerskih_zubchatok_3_preview.jpg
-  url: summits/jamantau_s_tsirka_inzerskih_zubchatok_3.jpg
-- comment: Вершина
-  preview_url: summits/jamantau_vershina_4_preview.jpg
-  url: summits/jamantau_vershina_4.jpg
 - comment: Вид на вершину с Большого Нургуша
-  preview_url: summits/jamantau_vid_na_vershinu_s_bol'shogo_nurgusha_5_preview.jpg
-  url: summits/jamantau_vid_na_vershinu_s_bol'shogo_nurgusha_5.jpg
+  preview_url: summits/jamantau_vid_na_vershinu_s_bol'shogo_nurgusha_3_preview.jpg
+  url: summits/jamantau_vid_na_vershinu_s_bol'shogo_nurgusha_3.jpg
+- comment: Вид на вершину с Ялангаса
+  preview_url: summits/jamantau_vid_na_vershinu_s_jalangasa_4_preview.jpg
+  url: summits/jamantau_vid_na_vershinu_s_jalangasa_4.jpg
+- comment: С цирка Инзерских зубчаток
+  preview_url: summits/jamantau_s_tsirka_inzerskih_zubchatok_5_preview.jpg
+  url: summits/jamantau_s_tsirka_inzerskih_zubchatok_5.jpg
 interpretation: <strong>Яман</strong> (баш.) &mdash; плохой, дурной, <strong>тау</strong>(баш.)
   &mdash; гора. Плохая, дурная гора (глухие места, болото, постоянно лежит снег, облака,
   туман)

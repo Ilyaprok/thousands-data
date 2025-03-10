@@ -1,10 +1,11 @@
+import asyncio
 from itertools import groupby
 import os
 from pathlib import Path
 import shutil
 import sqlite3
 
-import boto3
+import aioboto3
 from botocore.client import Config
 from botocore.exceptions import ClientError
 
@@ -27,28 +28,53 @@ def cast_point(value, cur):
     if value is None:
         return None
     try:
-        x, y = map(float, value.strip("()").split(","))
+        # keep only 4 decimal places
+        x, y = [round(c, 4) for c in map(float, value.strip("()").split(","))]
     except ValueError:
         raise psycopg2.InterfaceError("bad point representation: %r" % value)
     return (x, y)
 
 
-def upload_image(client, image_path, image_name):
-    return
+async def upload_images_bulk(session, images):
+    sem = asyncio.Semaphore(10)
+    async with session.client(
+        "s3",
+        endpoint_url=S3_ENDPOINT,
+        aws_access_key_id=os.environ["S3_ACCESS_KEY"],
+        aws_secret_access_key=os.environ["S3_SECRET_KEY"],
+        config=Config(s3={"addressing_style": "path"}),
+    ) as client:
+
+        async def sem_upload(client, path, key):
+            async with sem:
+                await upload_image(client, path, key)
+
+        await asyncio.gather(*[sem_upload(client, path, key) for path, key in images])
+
+
+async def upload_image(client, image_path, image_name):
     try:
         # Try to get the metadata of the object
-        client.head_object(Bucket=S3_BUCKET, Key=image_name)
+        await client.head_object(Bucket=S3_BUCKET, Key=image_name)
         print(f"Image exists: {image_name}")
     except ClientError as e:
         # If the object does not exist, a 404 error will be raised
-        if e.response['Error']['Code'] == '404':
-            client.upload_file(image_path, S3_BUCKET, image_name, ExtraArgs={'ContentType': 'image/jpeg'})
+        if e.response["Error"]["Code"] == "404":
+            await client.upload_file(
+                image_path,
+                S3_BUCKET,
+                image_name,
+                ExtraArgs={"ContentType": "image/jpeg"},
+            )
             print(f"Uploaded {image_path} as {image_name}")
         else:
             raise
 
+
 def gen_image_key(summit_id, comment):
-    transliterated_comment = translit(comment, "ru", reversed=True).replace(' ', '_').lower()
+    transliterated_comment = (
+        translit(comment, "ru", reversed=True).replace(" ", "_").lower()
+    )
     return f"{summit_id}_{transliterated_comment}"
 
 
@@ -63,7 +89,7 @@ def import_ridges(conn):
                 yaml.dump(meta, f, allow_unicode=True)
 
 
-def import_summits(conn, images_src_dir, s3_client):
+def import_summits(conn, images_src_dir, s3_session):
     with conn.cursor() as cur:
         cur.execute(
             """
@@ -71,10 +97,11 @@ def import_summits(conn, images_src_dir, s3_client):
                     description, interpretation, 
                     coordinates, image, preview, comment 
             FROM summits s
-            INNER JOIN summits_images si ON s.id = si.summit_id
+            LEFT JOIN summits_images si ON s.id = si.summit_id
             ORDER BY s.id, main DESC
         """
         )
+        images_to_upload = []
         for summit, img_group in groupby(cur, key=lambda row: tuple(row[:8])):
             (
                 summit_id,
@@ -98,16 +125,18 @@ def import_summits(conn, images_src_dir, s3_client):
             i = 0
             for img in img_group:
                 image_filename, preview_filename, comment = img[8:]
+                if image_filename is None:
+                    continue
                 image_path = Path(images_src_dir) / image_filename
                 preview_path = Path(images_src_dir) / preview_filename
-                
+
                 image_key = gen_image_key(summit_id, comment)
                 image_s3_key = f"summits/{image_key}_{i}.jpg"
                 preview_s3_key = f"summits/{image_key}_{i}_preview.jpg"
-                
-                upload_image(s3_client, image_path, image_s3_key)
-                upload_image(s3_client, preview_path, preview_s3_key)
-                
+
+                images_to_upload.append((image_path, image_s3_key))
+                images_to_upload.append((preview_path, preview_s3_key))
+
                 summit_data["images"].append(
                     {
                         "url": image_s3_key,
@@ -119,40 +148,40 @@ def import_summits(conn, images_src_dir, s3_client):
             summit_file = DEST_DIR / ridge_id / f"{summit_id}.yaml"
             with summit_file.open("w") as f:
                 yaml.dump(summit_data, f, allow_unicode=True)
+        asyncio.run(upload_images_bulk(s3_session, images_to_upload))
 
 
-def import_users(conn, images_src_dir, s3_client, sqlite_conn):
+def import_users(conn, images_src_dir, s3_session, sqlite_conn):
     """
     CREATE TABLE users (
-                id INTEGER PRIMARY KEY, 
-                oauth_id TEXT NOT NULL, 
-                src INTEGER NOT NULL, 
+                id INTEGER PRIMARY KEY,
+                oauth_id TEXT NOT NULL,
+                src INTEGER NOT NULL,
                 name TEXT NOT NULL,
-				image TEXT,
-				preview TEXT
             )
     """
+    images_to_upload = []
     sqlite_cur = sqlite_conn.cursor()
     with conn.cursor() as cur:
         cur.execute("SELECT id, oauth_id, src, name, image, preview FROM users")
         for row in cur:
             user_id, oauth_id, src, name, image, preview = row
-            image_key = preview_key = None
-            if image:
-                image_path = Path(images_src_dir) / image
-                if image_path.exists():
-                    image_key = f"users/{user_id}.jpg"
-                    upload_image(s3_client, image_path, image_key)
-                
-                preview_path = Path(images_src_dir) / preview
-                if preview_path.exists():
-                    preview_key = f"users/{user_id}_preview.jpg"
-                    upload_image(s3_client, preview_path, preview_key)
-
             sqlite_cur.execute(
-                "INSERT INTO users (id, oauth_id, src, name, image, preview) VALUES (?, ?, ?, ?, ?, ?) ON CONFLICT DO NOTHING",
-                (user_id, oauth_id, src, name, image_key, preview_key)
+                "INSERT INTO users (id, oauth_id, src, name) VALUES (?, ?, ?, ?) ON CONFLICT DO NOTHING",
+                (user_id, oauth_id, src, name),
             )
+            if image:
+                for img, size in [(image, "M"), (preview, "S")]:
+                    img_path = Path(images_src_dir) / img
+                    if not img_path.exists():
+                        continue
+                    img_key = f"users/{user_id}_{size}.jpg"
+                    images_to_upload.append((img_path, img_key))
+                    sqlite_cur.execute(
+                        "INSERT INTO user_images (user_id, size, url) VALUES (?, ?, ?)",
+                        (user_id, size, img_key),
+                    )
+    asyncio.run(upload_images_bulk(s3_session, images_to_upload))
     sqlite_conn.commit()
 
 
@@ -164,7 +193,7 @@ def import_climbs(conn, sqlite_conn):
             user_id, summit_id, comment, year, month, day = row
             sqlite_cur.execute(
                 "INSERT INTO climbs (user_id, summit_id, comment, year, month, day) VALUES (?, ?, ?, ?, ?, ?)",
-                (user_id, summit_id, comment, year, month, day)
+                (user_id, summit_id, comment, year, month, day),
             )
     sqlite_conn.commit()
 
@@ -176,19 +205,21 @@ def main():
     register_type(POINT)
 
     conn = psycopg2.connect(PG_DSN)
-    s3_client = boto3.client(
-        "s3",
-        endpoint_url=S3_ENDPOINT,
-        aws_access_key_id=os.environ["S3_ACCESS_KEY"],
-        aws_secret_access_key=os.environ["S3_SECRET_KEY"],
-        config=Config(s3={'addressing_style': 'path'})
-    )
+    s3_session = aioboto3.Session()
+    # s3_client = boto3.client(
+    #    "s3",
+    #    endpoint_url=S3_ENDPOINT,
+    #    aws_access_key_id=os.environ["S3_ACCESS_KEY"],
+    #    aws_secret_access_key=os.environ["S3_SECRET_KEY"],
+    #    config=Config(s3={"addressing_style": "path"}),
+    # )
     sqlite_conn = sqlite3.connect("/home/rush/src/thousands2/thousands.sqlite")
 
     import_ridges(conn)
-    import_summits(conn, IMAGES_SRC_DIR, s3_client)
-    import_users(conn, IMAGES_SRC_DIR, s3_client, sqlite_conn)
+    import_summits(conn, IMAGES_SRC_DIR, s3_session)
+    import_users(conn, IMAGES_SRC_DIR, s3_session, sqlite_conn)
     import_climbs(conn, sqlite_conn)
+
 
 if __name__ == "__main__":
     main()

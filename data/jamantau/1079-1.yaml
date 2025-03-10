@@ -1,15 +1,15 @@
 coordinates:
-- 54.29146
-- 58.156369
+- 54.2915
+- 58.1564
 description: Залесенная вершин с каменным гурием.
 height: 1079
 images:
-- comment: Вершинный тур
-  preview_url: summits/1079-1_vershinnyj_tur_0_preview.jpg
-  url: summits/1079-1_vershinnyj_tur_0.jpg
 - comment: Вид со склонов
-  preview_url: summits/1079-1_vid_so_sklonov_1_preview.jpg
-  url: summits/1079-1_vid_so_sklonov_1.jpg
+  preview_url: summits/1079-1_vid_so_sklonov_0_preview.jpg
+  url: summits/1079-1_vid_so_sklonov_0.jpg
+- comment: Вершинный тур
+  preview_url: summits/1079-1_vershinnyj_tur_1_preview.jpg
+  url: summits/1079-1_vershinnyj_tur_1.jpg
 interpretation: null
 name: null
 name_alt: null

@@ -1,22 +1,22 @@
 coordinates:
-- 55.300088
-- 59.827688
+- 55.3001
+- 59.8277
 description: "Невысокие скалы в лесу\r\n"
 height: 1050
 images:
 - comment: Вершина
   preview_url: summits/1050_vershina_0_preview.jpg
   url: summits/1050_vershina_0.jpg
-- comment: Вид с вершины в сторону Круглицы (справа - Ицыл)
-  preview_url: summits/1050_vid_s_vershiny_v_storonu_kruglitsy_(sprava_-_itsyl)_1_preview.jpg
-  url: summits/1050_vid_s_vershiny_v_storonu_kruglitsy_(sprava_-_itsyl)_1.jpg
 - comment: Вид с вершины в сторону Златоуста. Слева - Монблан, справа - Откликной
     Гребень
-  preview_url: summits/1050_vid_s_vershiny_v_storonu_zlatousta._sleva_-_monblan,_sprava_-_otkliknoj_greben'_2_preview.jpg
-  url: summits/1050_vid_s_vershiny_v_storonu_zlatousta._sleva_-_monblan,_sprava_-_otkliknoj_greben'_2.jpg
+  preview_url: summits/1050_vid_s_vershiny_v_storonu_zlatousta._sleva_-_monblan,_sprava_-_otkliknoj_greben'_1_preview.jpg
+  url: summits/1050_vid_s_vershiny_v_storonu_zlatousta._sleva_-_monblan,_sprava_-_otkliknoj_greben'_1.jpg
 - comment: Вершина
-  preview_url: summits/1050_vershina_3_preview.jpg
-  url: summits/1050_vershina_3.jpg
+  preview_url: summits/1050_vershina_2_preview.jpg
+  url: summits/1050_vershina_2.jpg
+- comment: Вид с вершины в сторону Круглицы (справа - Ицыл)
+  preview_url: summits/1050_vid_s_vershiny_v_storonu_kruglitsy_(sprava_-_itsyl)_3_preview.jpg
+  url: summits/1050_vid_s_vershiny_v_storonu_kruglitsy_(sprava_-_itsyl)_3.jpg
 interpretation: null
 name: null
 name_alt: null

@@ -1,15 +1,15 @@
 coordinates:
-- 54.413585
-- 58.081173
+- 54.4136
+- 58.0812
 description: ''
 height: 1191
 images:
-- comment: Вид с вершины
-  preview_url: summits/1191_vid_s_vershiny_0_preview.jpg
-  url: summits/1191_vid_s_vershiny_0.jpg
 - comment: Вершина
-  preview_url: summits/1191_vershina_1_preview.jpg
-  url: summits/1191_vershina_1.jpg
+  preview_url: summits/1191_vershina_0_preview.jpg
+  url: summits/1191_vershina_0.jpg
+- comment: Вид с вершины
+  preview_url: summits/1191_vid_s_vershiny_1_preview.jpg
+  url: summits/1191_vid_s_vershiny_1.jpg
 interpretation: null
 name: null
 name_alt: null

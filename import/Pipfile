@@ -8,6 +8,7 @@ pyyaml = "*"
 psycopg2 = "*"
 transliterate = "*"
 boto3 = "==1.29.6"
+aioboto3 = "*"
 
 [dev-packages]
 

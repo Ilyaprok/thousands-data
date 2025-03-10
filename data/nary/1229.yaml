@@ -1,15 +1,15 @@
 coordinates:
-- 54.370932
-- 57.963392
+- 54.3709
+- 57.9634
 description: ''
 height: 1229
 images:
-- comment: Вид со скал неподалеку от вершины
-  preview_url: summits/1229_vid_so_skal_nepodaleku_ot_vershiny_0_preview.jpg
-  url: summits/1229_vid_so_skal_nepodaleku_ot_vershiny_0.jpg
 - comment: Вершина
-  preview_url: summits/1229_vershina_1_preview.jpg
-  url: summits/1229_vershina_1.jpg
+  preview_url: summits/1229_vershina_0_preview.jpg
+  url: summits/1229_vershina_0.jpg
+- comment: Вид со скал неподалеку от вершины
+  preview_url: summits/1229_vid_so_skal_nepodaleku_ot_vershiny_1_preview.jpg
+  url: summits/1229_vid_so_skal_nepodaleku_ot_vershiny_1.jpg
 interpretation: null
 name: null
 name_alt: null

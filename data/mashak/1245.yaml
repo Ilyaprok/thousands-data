@@ -1,18 +1,18 @@
 coordinates:
-- 54.364353
-- 58.194907
+- 54.3644
+- 58.1949
 description: "Курумный холм, горная тундра, скальный выход\r\n"
 height: 1245
 images:
 - comment: Вид на вершину
   preview_url: summits/1245_vid_na_vershinu_0_preview.jpg
   url: summits/1245_vid_na_vershinu_0.jpg
-- comment: Вид с вершины
-  preview_url: summits/1245_vid_s_vershiny_1_preview.jpg
-  url: summits/1245_vid_s_vershiny_1.jpg
 - comment: Вид с вершины 2
-  preview_url: summits/1245_vid_s_vershiny_2_2_preview.jpg
-  url: summits/1245_vid_s_vershiny_2_2.jpg
+  preview_url: summits/1245_vid_s_vershiny_2_1_preview.jpg
+  url: summits/1245_vid_s_vershiny_2_1.jpg
+- comment: Вид с вершины
+  preview_url: summits/1245_vid_s_vershiny_2_preview.jpg
+  url: summits/1245_vid_s_vershiny_2.jpg
 interpretation: null
 name: null
 name_alt: null

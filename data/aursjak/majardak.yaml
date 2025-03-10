@@ -1,20 +1,20 @@
 coordinates:
-- 54.142934
-- 58.201572
+- 54.1429
+- 58.2016
 description: "Версии не бесспорные:\r\n<ol>\r\n<li><strong>Зэк</strong> (баш.) &mdash;\
   \ гора</li>\r\n<li><strong>Мэйэрзэк</strong> &mdash; имя башкира</li>\r\n<li><strong>Дак</strong>\
   \ (баш.) &mdash; имя-образующий аффикс</li>\r\n</ol>"
 height: 1225
 images:
-- comment: Вид с вершины
-  preview_url: summits/majardak_vid_s_vershiny_0_preview.jpg
-  url: summits/majardak_vid_s_vershiny_0.jpg
 - comment: Вершина
-  preview_url: summits/majardak_vershina_1_preview.jpg
-  url: summits/majardak_vershina_1.jpg
+  preview_url: summits/majardak_vershina_0_preview.jpg
+  url: summits/majardak_vershina_0.jpg
 - comment: Вид с вершины 2
-  preview_url: summits/majardak_vid_s_vershiny_2_2_preview.jpg
-  url: summits/majardak_vid_s_vershiny_2_2.jpg
+  preview_url: summits/majardak_vid_s_vershiny_2_1_preview.jpg
+  url: summits/majardak_vid_s_vershiny_2_1.jpg
+- comment: Вид с вершины
+  preview_url: summits/majardak_vid_s_vershiny_2_preview.jpg
+  url: summits/majardak_vid_s_vershiny_2.jpg
 interpretation: Мощный скальный бастион. Классный вид на Ямантау.
 name: Маярдак
 name_alt: null

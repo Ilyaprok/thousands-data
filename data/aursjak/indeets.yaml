@@ -1,18 +1,18 @@
 coordinates:
-- 54.150606
-- 58.238205
+- 54.1506
+- 58.2382
 description: Скальный бастион
 height: 1066
 images:
 - comment: С Юго-запада
   preview_url: summits/indeets_s_jugo-zapada_0_preview.jpg
   url: summits/indeets_s_jugo-zapada_0.jpg
-- comment: Вид с вершины 1
-  preview_url: summits/indeets_vid_s_vershiny_1_1_preview.jpg
-  url: summits/indeets_vid_s_vershiny_1_1.jpg
 - comment: С вершины Ялангаса
-  preview_url: summits/indeets_s_vershiny_jalangasa_2_preview.jpg
-  url: summits/indeets_s_vershiny_jalangasa_2.jpg
+  preview_url: summits/indeets_s_vershiny_jalangasa_1_preview.jpg
+  url: summits/indeets_s_vershiny_jalangasa_1.jpg
+- comment: Вид с вершины 1
+  preview_url: summits/indeets_vid_s_vershiny_1_2_preview.jpg
+  url: summits/indeets_vid_s_vershiny_1_2.jpg
 - comment: Вершина
   preview_url: summits/indeets_vershina_3_preview.jpg
   url: summits/indeets_vershina_3.jpg
