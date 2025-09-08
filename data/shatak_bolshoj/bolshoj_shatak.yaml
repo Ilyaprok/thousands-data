@@ -4,15 +4,15 @@ coordinates:
 description: Лесостепь,  два небольших скальных выхода, сложенных сланцевыми породами.
 height: 1271
 images:
-- comment: Вершина
-  preview_url: summits/bolshoj_shatak_vershina_0_preview.jpg
-  url: summits/bolshoj_shatak_vershina_0.jpg
 - comment: Вид с вершины на север
-  preview_url: summits/bolshoj_shatak_vid_s_vershiny_na_sever_1_preview.jpg
-  url: summits/bolshoj_shatak_vid_s_vershiny_na_sever_1.jpg
+  preview_url: summits/bolshoj_shatak_vid_s_vershiny_na_sever_0_preview.jpg
+  url: summits/bolshoj_shatak_vid_s_vershiny_na_sever_0.jpg
 - comment: Вершинная палочка
-  preview_url: summits/bolshoj_shatak_vershinnaja_palochka_2_preview.jpg
-  url: summits/bolshoj_shatak_vershinnaja_palochka_2.jpg
+  preview_url: summits/bolshoj_shatak_vershinnaja_palochka_1_preview.jpg
+  url: summits/bolshoj_shatak_vershinnaja_palochka_1.jpg
+- comment: Вершина
+  preview_url: summits/bolshoj_shatak_vershina_2_preview.jpg
+  url: summits/bolshoj_shatak_vershina_2.jpg
 interpretation: "<p><b>Бишитэк</b>, <b>бишэтэк</b> (баш.)  &mdash; пять подолов, оборок.\
   \ пять склонов, подъемов.</p>\r\n<p><b>Биш</b>, <b>беш</b> &mdash; пять. <b>Итэк</b>,\
   \ <b>этэк</b> &mdash; подол, оборка. Подошва горы, склон. Тау (баш.) &mdash; гора.\r\

@@ -5,15 +5,15 @@ description: Две скалы. Оригинальный ракурс на Ям�
   вершиной хребта Нары &mdash; горой <a href="/summit/133">Кашкатура</a>.
 height: 1065
 images:
-- comment: Вид с вершины
-  preview_url: summits/glinka_vid_s_vershiny_0_preview.jpg
-  url: summits/glinka_vid_s_vershiny_0.jpg
 - comment: На вершине
-  preview_url: summits/glinka_na_vershine_1_preview.jpg
-  url: summits/glinka_na_vershine_1.jpg
+  preview_url: summits/glinka_na_vershine_0_preview.jpg
+  url: summits/glinka_na_vershine_0.jpg
 - comment: Под вершиной
-  preview_url: summits/glinka_pod_vershinoj_2_preview.jpg
-  url: summits/glinka_pod_vershinoj_2.jpg
+  preview_url: summits/glinka_pod_vershinoj_1_preview.jpg
+  url: summits/glinka_pod_vershinoj_1.jpg
+- comment: Вид с вершины
+  preview_url: summits/glinka_vid_s_vershiny_2_preview.jpg
+  url: summits/glinka_vid_s_vershiny_2.jpg
 interpretation: Цвет скал на вершине похож на красную глину. Издали скалы похожи на
   слепленных из глины болванов.
 name: Глинка

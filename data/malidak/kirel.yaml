@@ -4,12 +4,12 @@ coordinates:
 description: Лесистая с очень крутыми склонами, курумов мало.
 height: 1162
 images:
-- comment: С Отнурка
-  preview_url: summits/kirel_s_otnurka_0_preview.jpg
-  url: summits/kirel_s_otnurka_0.jpg
 - comment: Вершина
-  preview_url: summits/kirel_vershina_1_preview.jpg
-  url: summits/kirel_vershina_1.jpg
+  preview_url: summits/kirel_vershina_0_preview.jpg
+  url: summits/kirel_vershina_0.jpg
+- comment: С Отнурка
+  preview_url: summits/kirel_s_otnurka_1_preview.jpg
+  url: summits/kirel_s_otnurka_1.jpg
 interpretation: <b>Кыр</b> (баш.) &mdash; лес
 name: Кирель
 name_alt: null

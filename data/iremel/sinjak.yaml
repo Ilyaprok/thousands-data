@@ -4,12 +4,12 @@ coordinates:
 description: "Курумы на склоне, скалы в лесу на вершине\r\n"
 height: 1123
 images:
-- comment: Вершина с 1233 (Иремель)
-  preview_url: summits/sinjak_vershina_s_1233_(iremel')_0_preview.jpg
-  url: summits/sinjak_vershina_s_1233_(iremel')_0.jpg
 - comment: Вершина
-  preview_url: summits/sinjak_vershina_1_preview.jpg
-  url: summits/sinjak_vershina_1.jpg
+  preview_url: summits/sinjak_vershina_0_preview.jpg
+  url: summits/sinjak_vershina_0.jpg
+- comment: Вершина с 1233 (Иремель)
+  preview_url: summits/sinjak_vershina_s_1233_(iremel')_1_preview.jpg
+  url: summits/sinjak_vershina_s_1233_(iremel')_1.jpg
 interpretation: "<ol>\r\n<li>Синяя гора</lo>\r\n<li>В XIX веке ручей Синяк, давший\
   \ название горе, назывался &laquo;Исейят&raquo;. <b>Синяк</b> &mdash; искажённое\
   \ Исейят."

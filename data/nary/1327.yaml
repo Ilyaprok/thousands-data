@@ -4,12 +4,12 @@ coordinates:
 description: "Курумный купол\r\n"
 height: 1327
 images:
-- comment: Вершина
-  preview_url: summits/1327_vershina_0_preview.jpg
-  url: summits/1327_vershina_0.jpg
 - comment: Вид с вершины на Ямантау
-  preview_url: summits/1327_vid_s_vershiny_na_jamantau_1_preview.jpg
-  url: summits/1327_vid_s_vershiny_na_jamantau_1.jpg
+  preview_url: summits/1327_vid_s_vershiny_na_jamantau_0_preview.jpg
+  url: summits/1327_vid_s_vershiny_na_jamantau_0.jpg
+- comment: Вершина
+  preview_url: summits/1327_vershina_1_preview.jpg
+  url: summits/1327_vershina_1.jpg
 interpretation: null
 name: null
 name_alt: null

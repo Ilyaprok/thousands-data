@@ -7,21 +7,21 @@ description: Большой курумный конус, вытянутый по
   вершины.
 height: 1354
 images:
-- comment: На вершине
-  preview_url: summits/kolokolnja_na_vershine_0_preview.jpg
-  url: summits/kolokolnja_na_vershine_0.jpg
 - comment: Южные зубцы вершины
-  preview_url: summits/kolokolnja_juzhnye_zubtsy_vershiny_1_preview.jpg
-  url: summits/kolokolnja_juzhnye_zubtsy_vershiny_1.jpg
+  preview_url: summits/kolokolnja_juzhnye_zubtsy_vershiny_0_preview.jpg
+  url: summits/kolokolnja_juzhnye_zubtsy_vershiny_0.jpg
 - comment: С северного цирка инзерских зубчаток
-  preview_url: summits/kolokolnja_s_severnogo_tsirka_inzerskih_zubchatok_2_preview.jpg
-  url: summits/kolokolnja_s_severnogo_tsirka_inzerskih_zubchatok_2.jpg
+  preview_url: summits/kolokolnja_s_severnogo_tsirka_inzerskih_zubchatok_1_preview.jpg
+  url: summits/kolokolnja_s_severnogo_tsirka_inzerskih_zubchatok_1.jpg
+- comment: С Ялангаса
+  preview_url: summits/kolokolnja_s_jalangasa_2_preview.jpg
+  url: summits/kolokolnja_s_jalangasa_2.jpg
 - comment: С севера
   preview_url: summits/kolokolnja_s_severa_3_preview.jpg
   url: summits/kolokolnja_s_severa_3.jpg
-- comment: С Ялангаса
-  preview_url: summits/kolokolnja_s_jalangasa_4_preview.jpg
-  url: summits/kolokolnja_s_jalangasa_4.jpg
+- comment: На вершине
+  preview_url: summits/kolokolnja_na_vershine_4_preview.jpg
+  url: summits/kolokolnja_na_vershine_4.jpg
 interpretation: Название дано за характерную пирамидальную форму
 name: Колокольня
 name_alt: null

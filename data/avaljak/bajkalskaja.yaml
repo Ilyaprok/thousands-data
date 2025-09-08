@@ -4,12 +4,12 @@ coordinates:
 description: Лесистая вершина
 height: 1176
 images:
-- comment: Вид с вершины Байкальская (в сторону Шаршалыбиика)
-  preview_url: summits/bajkalskaja_vid_s_vershiny_bajkal'skaja_(v_storonu_sharshalybiika)_0_preview.jpg
-  url: summits/bajkalskaja_vid_s_vershiny_bajkal'skaja_(v_storonu_sharshalybiika)_0.jpg
 - comment: Вид с Байкальской на Иремель (справа) и Средний Аваляк (слева)
-  preview_url: summits/bajkalskaja_vid_s_bajkal'skoj_na_iremel'_(sprava)_i_srednij_avaljak_(sleva)_1_preview.jpg
-  url: summits/bajkalskaja_vid_s_bajkal'skoj_na_iremel'_(sprava)_i_srednij_avaljak_(sleva)_1.jpg
+  preview_url: summits/bajkalskaja_vid_s_bajkal'skoj_na_iremel'_(sprava)_i_srednij_avaljak_(sleva)_0_preview.jpg
+  url: summits/bajkalskaja_vid_s_bajkal'skoj_na_iremel'_(sprava)_i_srednij_avaljak_(sleva)_0.jpg
+- comment: Вид с вершины Байкальская (в сторону Шаршалыбиика)
+  preview_url: summits/bajkalskaja_vid_s_vershiny_bajkal'skaja_(v_storonu_sharshalybiika)_1_preview.jpg
+  url: summits/bajkalskaja_vid_s_vershiny_bajkal'skaja_(v_storonu_sharshalybiika)_1.jpg
 interpretation: "<strong>Шыршыл</strong>, <strong>шершил</strong> (баш.) &mdash; еловая,\
   \ <strong>бийик</strong>, <strong>бейек</strong> (баш.) &mdash; высотка, возвышенность.\r\
   \n"

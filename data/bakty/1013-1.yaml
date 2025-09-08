@@ -4,12 +4,12 @@ coordinates:
 description: Скальный обрыв на восточную сторону
 height: 1013
 images:
-- comment: Вершина
-  preview_url: summits/1013-1_vershina_0_preview.jpg
-  url: summits/1013-1_vershina_0.jpg
 - comment: Восточная стена
-  preview_url: summits/1013-1_vostochnaja_stena_1_preview.jpg
-  url: summits/1013-1_vostochnaja_stena_1.jpg
+  preview_url: summits/1013-1_vostochnaja_stena_0_preview.jpg
+  url: summits/1013-1_vostochnaja_stena_0.jpg
+- comment: Вершина
+  preview_url: summits/1013-1_vershina_1_preview.jpg
+  url: summits/1013-1_vershina_1.jpg
 interpretation: ''
 name: null
 name_alt: null

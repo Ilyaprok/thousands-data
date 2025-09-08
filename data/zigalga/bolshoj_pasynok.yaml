@@ -4,12 +4,12 @@ coordinates:
 description: "Курумы, скальные выходы\r\n"
 height: 1198
 images:
-- comment: На вершине
-  preview_url: summits/bolshoj_pasynok_na_vershine_0_preview.jpg
-  url: summits/bolshoj_pasynok_na_vershine_0.jpg
 - comment: Вершина. Вид с отрога Пасынка 1048
-  preview_url: summits/bolshoj_pasynok_vershina._vid_s_otroga_pasynka_1048_1_preview.jpg
-  url: summits/bolshoj_pasynok_vershina._vid_s_otroga_pasynka_1048_1.jpg
+  preview_url: summits/bolshoj_pasynok_vershina._vid_s_otroga_pasynka_1048_0_preview.jpg
+  url: summits/bolshoj_pasynok_vershina._vid_s_otroga_pasynka_1048_0.jpg
+- comment: На вершине
+  preview_url: summits/bolshoj_pasynok_na_vershine_1_preview.jpg
+  url: summits/bolshoj_pasynok_na_vershine_1.jpg
 interpretation: <strong>Пасынок</strong> &mdash; неродной, отрог хребта
 name: Большой Пасынок
 name_alt: null

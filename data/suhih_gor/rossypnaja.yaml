@@ -6,12 +6,12 @@ description: Крутая каменная россыпь на склоне, о�
   Замечательный вид на Шелома, Нары, долину Тюльменя.
 height: 1062
 images:
-- comment: Вид с Россыпной в сторону хребта Нары и г. Ямантау
-  preview_url: summits/rossypnaja_vid_s_rossypnoj_v_storonu_hrebta_nary_i_g._jamantau_0_preview.jpg
-  url: summits/rossypnaja_vid_s_rossypnoj_v_storonu_hrebta_nary_i_g._jamantau_0.jpg
 - comment: Россыпная (на переднем плане). Вид с г. Глинка
-  preview_url: summits/rossypnaja_rossypnaja_(na_perednem_plane)._vid_s_g._glinka_1_preview.jpg
-  url: summits/rossypnaja_rossypnaja_(na_perednem_plane)._vid_s_g._glinka_1.jpg
+  preview_url: summits/rossypnaja_rossypnaja_(na_perednem_plane)._vid_s_g._glinka_0_preview.jpg
+  url: summits/rossypnaja_rossypnaja_(na_perednem_plane)._vid_s_g._glinka_0.jpg
+- comment: Вид с Россыпной в сторону хребта Нары и г. Ямантау
+  preview_url: summits/rossypnaja_vid_s_rossypnoj_v_storonu_hrebta_nary_i_g._jamantau_1_preview.jpg
+  url: summits/rossypnaja_vid_s_rossypnoj_v_storonu_hrebta_nary_i_g._jamantau_1.jpg
 interpretation: null
 name: Россыпная
 name_alt: null

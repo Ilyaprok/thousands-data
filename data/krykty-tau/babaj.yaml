@@ -4,12 +4,12 @@ coordinates:
 description: "Невысокая скала вулканических пород, редколесье\r\n"
 height: 1015
 images:
-- comment: Вид на вершину с г. Кушай
-  preview_url: summits/babaj_vid_na_vershinu_s_g._kushaj_0_preview.jpg
-  url: summits/babaj_vid_na_vershinu_s_g._kushaj_0.jpg
 - comment: Вид с вершины
-  preview_url: summits/babaj_vid_s_vershiny_1_preview.jpg
-  url: summits/babaj_vid_s_vershiny_1.jpg
+  preview_url: summits/babaj_vid_s_vershiny_0_preview.jpg
+  url: summits/babaj_vid_s_vershiny_0.jpg
+- comment: Вид на вершину с г. Кушай
+  preview_url: summits/babaj_vid_na_vershinu_s_g._kushaj_1_preview.jpg
+  url: summits/babaj_vid_na_vershinu_s_g._kushaj_1.jpg
 interpretation: <strong>Бабай</strong> (баш.) &mdash; дедушка, старейшина. <strong>Таш</strong>
   (баш.) &mdash; камень.
 name: Бабай

@@ -6,12 +6,12 @@ description: Некрутой скальный гребень, поросший 
   хребет.
 height: 1161
 images:
-- comment: Вершина (с цирка)
-  preview_url: summits/1161_vershina_(s_tsirka)_0_preview.jpg
-  url: summits/1161_vershina_(s_tsirka)_0.jpg
 - comment: Вид на вершину (на переднем плане, на заднем - Большой Кумардак)
-  preview_url: summits/1161_vid_na_vershinu_(na_perednem_plane,_na_zadnem_-_bol'shoj_kumardak)_1_preview.jpg
-  url: summits/1161_vid_na_vershinu_(na_perednem_plane,_na_zadnem_-_bol'shoj_kumardak)_1.jpg
+  preview_url: summits/1161_vid_na_vershinu_(na_perednem_plane,_na_zadnem_-_bol'shoj_kumardak)_0_preview.jpg
+  url: summits/1161_vid_na_vershinu_(na_perednem_plane,_na_zadnem_-_bol'shoj_kumardak)_0.jpg
+- comment: Вершина (с цирка)
+  preview_url: summits/1161_vershina_(s_tsirka)_1_preview.jpg
+  url: summits/1161_vershina_(s_tsirka)_1.jpg
 interpretation: "<b>Ялангас</b> (баш.) &mdash; открытый, голый.\r\n"
 name: null
 name_alt: Малый Ялангас

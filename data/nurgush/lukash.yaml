@@ -4,15 +4,15 @@ coordinates:
 description: "Лес, небольшой обрывчик на северо-восток\r\n"
 height: 1013
 images:
-- comment: Вершина (справа). Слева - Б. Нургуш
-  preview_url: summits/lukash_vershina_(sprava)._sleva_-_b._nurgush_0_preview.jpg
-  url: summits/lukash_vershina_(sprava)._sleva_-_b._nurgush_0.jpg
 - comment: Вершина
-  preview_url: summits/lukash_vershina_1_preview.jpg
-  url: summits/lukash_vershina_1.jpg
+  preview_url: summits/lukash_vershina_0_preview.jpg
+  url: summits/lukash_vershina_0.jpg
 - comment: Вид с Лукаша в сторону Уреньги
-  preview_url: summits/lukash_vid_s_lukasha_v_storonu_uren'gi_2_preview.jpg
-  url: summits/lukash_vid_s_lukasha_v_storonu_uren'gi_2.jpg
+  preview_url: summits/lukash_vid_s_lukasha_v_storonu_uren'gi_1_preview.jpg
+  url: summits/lukash_vid_s_lukasha_v_storonu_uren'gi_1.jpg
+- comment: Вершина (справа). Слева - Б. Нургуш
+  preview_url: summits/lukash_vershina_(sprava)._sleva_-_b._nurgush_2_preview.jpg
+  url: summits/lukash_vershina_(sprava)._sleva_-_b._nurgush_2.jpg
 interpretation: Мужское имя <b>Ныкыш</b>, <b>Нугаш</b> (тюрк.) &mdash; упорный, настойчивый.
   Основа <b>нука</b>, <b>нуга</b> и имяобразующий суффикс &mdash; <b>-ш</b>
 name: Лукаш

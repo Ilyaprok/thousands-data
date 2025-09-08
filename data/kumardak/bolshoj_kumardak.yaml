@@ -5,15 +5,15 @@ description: "Большой курумный конус, вытянутый п�
   \ леса до вершины от 100 до 200м. На вершине скальный гребень.\r\n"
 height: 1318
 images:
-- comment: С Малого Кумардака
-  preview_url: summits/bolshoj_kumardak_s_malogo_kumardaka_0_preview.jpg
-  url: summits/bolshoj_kumardak_s_malogo_kumardaka_0.jpg
 - comment: Вершина
-  preview_url: summits/bolshoj_kumardak_vershina_1_preview.jpg
-  url: summits/bolshoj_kumardak_vershina_1.jpg
+  preview_url: summits/bolshoj_kumardak_vershina_0_preview.jpg
+  url: summits/bolshoj_kumardak_vershina_0.jpg
 - comment: Вид с вершины в сторону Шеломов
-  preview_url: summits/bolshoj_kumardak_vid_s_vershiny_v_storonu_shelomov_2_preview.jpg
-  url: summits/bolshoj_kumardak_vid_s_vershiny_v_storonu_shelomov_2.jpg
+  preview_url: summits/bolshoj_kumardak_vid_s_vershiny_v_storonu_shelomov_1_preview.jpg
+  url: summits/bolshoj_kumardak_vid_s_vershiny_v_storonu_shelomov_1.jpg
+- comment: С Малого Кумардака
+  preview_url: summits/bolshoj_kumardak_s_malogo_kumardaka_2_preview.jpg
+  url: summits/bolshoj_kumardak_s_malogo_kumardaka_2.jpg
 interpretation: "<ol>\r\n<li><strong>Кюмэр</strong> (баш.) &mdash; горбатый, <strong>зэк</strong>\
   \ (баш.) &mdash; гора.\r\n<li><strong>Кюмэр</strong> (баш.) &mdash; горбатый, <strong>дак</strong>\
   \ (баш.) &mdash; имяобразующий аффикс.\r\n</ol>"

@@ -4,21 +4,21 @@ coordinates:
 description: Широкое тундровое плато, обрывающееся на запад курумами, скальные выходы.
 height: 1332
 images:
-- comment: На вершине 2
-  preview_url: summits/shirokaja_na_vershine_2_0_preview.jpg
-  url: summits/shirokaja_na_vershine_2_0.jpg
+- comment: Вершина
+  preview_url: summits/shirokaja_vershina_0_preview.jpg
+  url: summits/shirokaja_vershina_0.jpg
 - comment: Вид с вершины 2
   preview_url: summits/shirokaja_vid_s_vershiny_2_1_preview.jpg
   url: summits/shirokaja_vid_s_vershiny_2_1.jpg
-- comment: Вид с вершины 1
-  preview_url: summits/shirokaja_vid_s_vershiny_1_2_preview.jpg
-  url: summits/shirokaja_vid_s_vershiny_1_2.jpg
 - comment: На вершине 1
-  preview_url: summits/shirokaja_na_vershine_1_3_preview.jpg
-  url: summits/shirokaja_na_vershine_1_3.jpg
-- comment: Вершина
-  preview_url: summits/shirokaja_vershina_4_preview.jpg
-  url: summits/shirokaja_vershina_4.jpg
+  preview_url: summits/shirokaja_na_vershine_1_2_preview.jpg
+  url: summits/shirokaja_na_vershine_1_2.jpg
+- comment: Вид с вершины 1
+  preview_url: summits/shirokaja_vid_s_vershiny_1_3_preview.jpg
+  url: summits/shirokaja_vid_s_vershiny_1_3.jpg
+- comment: На вершине 2
+  preview_url: summits/shirokaja_na_vershine_2_4_preview.jpg
+  url: summits/shirokaja_na_vershine_2_4.jpg
 - comment: Вершина
   preview_url: summits/shirokaja_vershina_5_preview.jpg
   url: summits/shirokaja_vershina_5.jpg

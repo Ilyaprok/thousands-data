@@ -4,12 +4,12 @@ coordinates:
 description: "Горнотундровое плато, скальный выход\r\n"
 height: 1406
 images:
-- comment: Вид с Малого Иремеля
-  preview_url: summits/1406_vid_s_malogo_iremelja_0_preview.jpg
-  url: summits/1406_vid_s_malogo_iremelja_0.jpg
 - comment: С хребта Ягодного
-  preview_url: summits/1406_s_hrebta_jagodnogo_1_preview.jpg
-  url: summits/1406_s_hrebta_jagodnogo_1.jpg
+  preview_url: summits/1406_s_hrebta_jagodnogo_0_preview.jpg
+  url: summits/1406_s_hrebta_jagodnogo_0.jpg
+- comment: Вид с Малого Иремеля
+  preview_url: summits/1406_vid_s_malogo_iremelja_1_preview.jpg
+  url: summits/1406_vid_s_malogo_iremelja_1.jpg
 interpretation: ''
 name: null
 name_alt: null

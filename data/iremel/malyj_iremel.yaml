@@ -4,12 +4,12 @@ coordinates:
 description: Тундровое плато Малого Иремеля, пожалуй, самое большое на Южном Урале.
 height: 1449
 images:
-- comment: Вершина
-  preview_url: summits/malyj_iremel_vershina_0_preview.jpg
-  url: summits/malyj_iremel_vershina_0.jpg
 - comment: Вершина с 1345 (Иремель)
-  preview_url: summits/malyj_iremel_vershina_s_1345_(iremel')_1_preview.jpg
-  url: summits/malyj_iremel_vershina_s_1345_(iremel')_1.jpg
+  preview_url: summits/malyj_iremel_vershina_s_1345_(iremel')_0_preview.jpg
+  url: summits/malyj_iremel_vershina_s_1345_(iremel')_0.jpg
+- comment: Вершина
+  preview_url: summits/malyj_iremel_vershina_1_preview.jpg
+  url: summits/malyj_iremel_vershina_1.jpg
 interpretation: "<ol>\r\n<li><strong>Иремель</strong> (баш.) &mdash; священная гора.</li>\r\
   \n<li><strong>Ырым</strong> (баш., тат.) &mdash; заклинание, колдовство. <strong>Ырымлы</strong>\
   \ &mdash; заговоренный, заколдованный.</li>\r\n<li><strong>Ир</strong>,<strong>из</strong>,\

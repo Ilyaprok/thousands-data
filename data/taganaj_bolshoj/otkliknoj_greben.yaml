@@ -5,12 +5,12 @@ description: Мощный, протяжённый скальный гребен�
   на Южном Урале.
 height: 1155
 images:
-- comment: Откликной гребень
-  preview_url: summits/otkliknoj_greben_otkliknoj_greben'_0_preview.jpg
-  url: summits/otkliknoj_greben_otkliknoj_greben'_0.jpg
 - comment: Вершина
-  preview_url: summits/otkliknoj_greben_vershina_1_preview.jpg
-  url: summits/otkliknoj_greben_vershina_1.jpg
+  preview_url: summits/otkliknoj_greben_vershina_0_preview.jpg
+  url: summits/otkliknoj_greben_vershina_0.jpg
+- comment: Откликной гребень
+  preview_url: summits/otkliknoj_greben_otkliknoj_greben'_1_preview.jpg
+  url: summits/otkliknoj_greben_otkliknoj_greben'_1.jpg
 interpretation: Скалы похожи на гребень. В скалах возникает многократное (семикратное)
   эхо.
 name: Откликной Гребень

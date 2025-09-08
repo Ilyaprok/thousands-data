@@ -4,15 +4,15 @@ coordinates:
 description: Высокий протяжённый скальный гребень
 height: 1251
 images:
-- comment: Вершина
-  preview_url: summits/1251_vershina_0_preview.jpg
-  url: summits/1251_vershina_0.jpg
 - comment: Вид с вершины
-  preview_url: summits/1251_vid_s_vershiny_1_preview.jpg
-  url: summits/1251_vid_s_vershiny_1.jpg
+  preview_url: summits/1251_vid_s_vershiny_0_preview.jpg
+  url: summits/1251_vid_s_vershiny_0.jpg
 - comment: Вид с вершины 2
-  preview_url: summits/1251_vid_s_vershiny_2_2_preview.jpg
-  url: summits/1251_vid_s_vershiny_2_2.jpg
+  preview_url: summits/1251_vid_s_vershiny_2_1_preview.jpg
+  url: summits/1251_vid_s_vershiny_2_1.jpg
+- comment: Вершина
+  preview_url: summits/1251_vershina_2_preview.jpg
+  url: summits/1251_vershina_2.jpg
 interpretation: null
 name: null
 name_alt: null

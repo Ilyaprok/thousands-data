@@ -4,15 +4,15 @@ coordinates:
 description: Скальный выход
 height: 1224
 images:
-- comment: Вершина (на переднем плане)
-  preview_url: summits/haritonova_vershina_(na_perednem_plane)_0_preview.jpg
-  url: summits/haritonova_vershina_(na_perednem_plane)_0.jpg
+- comment: На вершине
+  preview_url: summits/haritonova_na_vershine_0_preview.jpg
+  url: summits/haritonova_na_vershine_0.jpg
 - comment: На вершине 2
   preview_url: summits/haritonova_na_vershine_2_1_preview.jpg
   url: summits/haritonova_na_vershine_2_1.jpg
-- comment: На вершине
-  preview_url: summits/haritonova_na_vershine_2_preview.jpg
-  url: summits/haritonova_na_vershine_2.jpg
+- comment: Вершина (на переднем плане)
+  preview_url: summits/haritonova_vershina_(na_perednem_plane)_2_preview.jpg
+  url: summits/haritonova_vershina_(na_perednem_plane)_2.jpg
 interpretation: От русского имени Харитон
 name: Харитонова
 name_alt: null

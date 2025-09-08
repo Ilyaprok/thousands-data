@@ -4,12 +4,12 @@ coordinates:
 description: ''
 height: 1021
 images:
-- comment: скальник
-  preview_url: summits/1021-1_skal'nik_0_preview.jpg
-  url: summits/1021-1_skal'nik_0.jpg
 - comment: Вершина
-  preview_url: summits/1021-1_vershina_1_preview.jpg
-  url: summits/1021-1_vershina_1.jpg
+  preview_url: summits/1021-1_vershina_0_preview.jpg
+  url: summits/1021-1_vershina_0.jpg
+- comment: скальник
+  preview_url: summits/1021-1_skal'nik_1_preview.jpg
+  url: summits/1021-1_skal'nik_1.jpg
 interpretation: null
 name: null
 name_alt: null

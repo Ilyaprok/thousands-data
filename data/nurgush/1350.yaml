@@ -4,12 +4,12 @@ coordinates:
 description: "Курумный купол, скальный гребешок\r\n"
 height: 1350
 images:
-- comment: Вершина
-  preview_url: summits/1350_vershina_0_preview.jpg
-  url: summits/1350_vershina_0.jpg
 - comment: На вершине
-  preview_url: summits/1350_na_vershine_1_preview.jpg
-  url: summits/1350_na_vershine_1.jpg
+  preview_url: summits/1350_na_vershine_0_preview.jpg
+  url: summits/1350_na_vershine_0.jpg
+- comment: Вершина
+  preview_url: summits/1350_vershina_1_preview.jpg
+  url: summits/1350_vershina_1.jpg
 interpretation: "<ol>\r\n<li><b>Нур</b> (баш.) &mdash; луч, сияние. <b>Кош</b>, <b>гуш</b>,\
   \ <b>куш</b> (баш.) &mdash; птица. Лучезарная, сияющая птица.\r\n<li><b>Нуру</b>,\
   \ <b>нура</b> (древний тюрко-монгольский) &mdash; хребет, горная цепь, гора. <b>Кош</b>,\

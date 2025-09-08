@@ -4,12 +4,12 @@ coordinates:
 description: "Невысокие скалы посреди горнотундровых склонов\r\n"
 height: 1068
 images:
-- comment: Вершина
-  preview_url: summits/itsyl-1_vershina_0_preview.jpg
-  url: summits/itsyl-1_vershina_0.jpg
 - comment: Вершина (слева)
-  preview_url: summits/itsyl-1_vershina_(sleva)_1_preview.jpg
-  url: summits/itsyl-1_vershina_(sleva)_1.jpg
+  preview_url: summits/itsyl-1_vershina_(sleva)_0_preview.jpg
+  url: summits/itsyl-1_vershina_(sleva)_0.jpg
+- comment: Вершина
+  preview_url: summits/itsyl-1_vershina_1_preview.jpg
+  url: summits/itsyl-1_vershina_1.jpg
 - comment: Вершина
   preview_url: summits/itsyl-1_vershina_2_preview.jpg
   url: summits/itsyl-1_vershina_2.jpg

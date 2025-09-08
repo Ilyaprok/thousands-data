@@ -5,12 +5,12 @@ description: С восточной стороны - мощные скальны�
   километров
 height: 1037
 images:
-- comment: Вид с вершины
-  preview_url: summits/1037-2_vid_s_vershiny_0_preview.jpg
-  url: summits/1037-2_vid_s_vershiny_0.jpg
 - comment: Вершина
-  preview_url: summits/1037-2_vershina_1_preview.jpg
-  url: summits/1037-2_vershina_1.jpg
+  preview_url: summits/1037-2_vershina_0_preview.jpg
+  url: summits/1037-2_vershina_0.jpg
+- comment: Вид с вершины
+  preview_url: summits/1037-2_vid_s_vershiny_1_preview.jpg
+  url: summits/1037-2_vid_s_vershiny_1.jpg
 interpretation: null
 name: null
 name_alt: null

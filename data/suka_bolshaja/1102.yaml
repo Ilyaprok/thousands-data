@@ -4,12 +4,12 @@ coordinates:
 description: "Курумы, горная тундра, скальный выход\r\n"
 height: 1102
 images:
-- comment: Вид с вершины
-  preview_url: summits/1102_vid_s_vershiny_0_preview.jpg
-  url: summits/1102_vid_s_vershiny_0.jpg
 - comment: Вершина
-  preview_url: summits/1102_vershina_1_preview.jpg
-  url: summits/1102_vershina_1.jpg
+  preview_url: summits/1102_vershina_0_preview.jpg
+  url: summits/1102_vershina_0.jpg
+- comment: Вид с вершины
+  preview_url: summits/1102_vid_s_vershiny_1_preview.jpg
+  url: summits/1102_vid_s_vershiny_1.jpg
 interpretation: <b>Сукы</b> (баш.) &mdash; сопка, пик, островерхие выступы скал на
   вершине горы, гребень. Действительно, некоторые вершины этого хребта - гребневые,
   например, 1139 и 1194.

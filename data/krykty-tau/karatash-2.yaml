@@ -4,12 +4,12 @@ coordinates:
 description: Скальный гребень вулканических пород на альпийском луге
 height: 1118
 images:
-- comment: Вершина Караташ
-  preview_url: summits/karatash-2_vershina_karatash_0_preview.jpg
-  url: summits/karatash-2_vershina_karatash_0.jpg
 - comment: На вершине Караташ
-  preview_url: summits/karatash-2_na_vershine_karatash_1_preview.jpg
-  url: summits/karatash-2_na_vershine_karatash_1.jpg
+  preview_url: summits/karatash-2_na_vershine_karatash_0_preview.jpg
+  url: summits/karatash-2_na_vershine_karatash_0.jpg
+- comment: Вершина Караташ
+  preview_url: summits/karatash-2_vershina_karatash_1_preview.jpg
+  url: summits/karatash-2_vershina_karatash_1.jpg
 interpretation: Дословно с башкирского &mdash; черный камень (<b>кара</b> &mdash;
   черный, <b>таш</b> &mdash; камень). Но т.к. в тюрских языках слово &laquo;кара&raquo;
   имеет несколько значений, то в данном смысле - безлесая, скалистая гора.

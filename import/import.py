@@ -15,7 +15,7 @@ from psycopg2.extensions import new_type, register_type
 from transliterate import translit
 import yaml
 
-PG_DSN = "host=localhost dbname=thousands user=thousands password=thousands"
+PG_DSN = "host=localhost dbname=thousands user=postgres password=postgres"
 DEST_DIR = Path(__file__).parent.parent / "data"
 
 S3_ENDPOINT = "https://s3.timeweb.cloud"
@@ -98,7 +98,7 @@ def import_summits(conn, images_src_dir, s3_session):
                     coordinates, image, preview, comment 
             FROM summits s
             LEFT JOIN summits_images si ON s.id = si.summit_id
-            ORDER BY s.id, main DESC
+            ORDER BY s.id, main, si.image DESC
         """
         )
         images_to_upload = []

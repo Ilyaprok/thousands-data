@@ -6,12 +6,12 @@ description: Горнотундровое плато,скальные остан
   один из самых мощных на Южном Урале
 height: 1265
 images:
-- comment: Панорама вершины
-  preview_url: summits/mashak_panorama_vershiny_0_preview.jpg
-  url: summits/mashak_panorama_vershiny_0.jpg
 - comment: Вид на вершину с г. Б. Кумардак
-  preview_url: summits/mashak_vid_na_vershinu_s_g._b._kumardak_1_preview.jpg
-  url: summits/mashak_vid_na_vershinu_s_g._b._kumardak_1.jpg
+  preview_url: summits/mashak_vid_na_vershinu_s_g._b._kumardak_0_preview.jpg
+  url: summits/mashak_vid_na_vershinu_s_g._b._kumardak_0.jpg
+- comment: Панорама вершины
+  preview_url: summits/mashak_panorama_vershiny_1_preview.jpg
+  url: summits/mashak_panorama_vershiny_1.jpg
 interpretation: Глухие места, обитали медведи
 name: Машак
 name_alt: Медвежья

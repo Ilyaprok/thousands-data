@@ -6,12 +6,12 @@ description: "Версии не бесспорные:\r\n<ol>\r\n<li><strong>З�
   \ (баш.) &mdash; имя-образующий аффикс</li>\r\n</ol>"
 height: 1225
 images:
-- comment: Вершина
-  preview_url: summits/majardak_vershina_0_preview.jpg
-  url: summits/majardak_vershina_0.jpg
 - comment: Вид с вершины 2
-  preview_url: summits/majardak_vid_s_vershiny_2_1_preview.jpg
-  url: summits/majardak_vid_s_vershiny_2_1.jpg
+  preview_url: summits/majardak_vid_s_vershiny_2_0_preview.jpg
+  url: summits/majardak_vid_s_vershiny_2_0.jpg
+- comment: Вершина
+  preview_url: summits/majardak_vershina_1_preview.jpg
+  url: summits/majardak_vershina_1.jpg
 - comment: Вид с вершины
   preview_url: summits/majardak_vid_s_vershiny_2_preview.jpg
   url: summits/majardak_vid_s_vershiny_2.jpg

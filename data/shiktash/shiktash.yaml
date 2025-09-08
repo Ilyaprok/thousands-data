@@ -4,18 +4,18 @@ coordinates:
 description: "Курумы, скальный выход\r\n"
 height: 1261
 images:
-- comment: Вид с вершины
-  preview_url: summits/shiktash_vid_s_vershiny_0_preview.jpg
-  url: summits/shiktash_vid_s_vershiny_0.jpg
+- comment: Вид на вершину
+  preview_url: summits/shiktash_vid_na_vershinu_0_preview.jpg
+  url: summits/shiktash_vid_na_vershinu_0.jpg
 - comment: Вершина
   preview_url: summits/shiktash_vershina_1_preview.jpg
   url: summits/shiktash_vershina_1.jpg
-- comment: Вид на вершину
-  preview_url: summits/shiktash_vid_na_vershinu_2_preview.jpg
-  url: summits/shiktash_vid_na_vershinu_2.jpg
 - comment: Вершина
-  preview_url: summits/shiktash_vershina_3_preview.jpg
-  url: summits/shiktash_vershina_3.jpg
+  preview_url: summits/shiktash_vershina_2_preview.jpg
+  url: summits/shiktash_vershina_2.jpg
+- comment: Вид с вершины
+  preview_url: summits/shiktash_vid_s_vershiny_3_preview.jpg
+  url: summits/shiktash_vid_s_vershiny_3.jpg
 interpretation: null
 name: Шикташ
 name_alt: null

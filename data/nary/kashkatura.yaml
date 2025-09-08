@@ -5,12 +5,12 @@ description: Труднодоступная скала. Севернее, на �
   (скальный город)
 height: 1340
 images:
-- comment: Вид с вершины
-  preview_url: summits/kashkatura_vid_s_vershiny_0_preview.jpg
-  url: summits/kashkatura_vid_s_vershiny_0.jpg
 - comment: Вид с вершины 3
-  preview_url: summits/kashkatura_vid_s_vershiny_3_1_preview.jpg
-  url: summits/kashkatura_vid_s_vershiny_3_1.jpg
+  preview_url: summits/kashkatura_vid_s_vershiny_3_0_preview.jpg
+  url: summits/kashkatura_vid_s_vershiny_3_0.jpg
+- comment: Вид с вершины
+  preview_url: summits/kashkatura_vid_s_vershiny_1_preview.jpg
+  url: summits/kashkatura_vid_s_vershiny_1.jpg
 - comment: Вид с вершины 2
   preview_url: summits/kashkatura_vid_s_vershiny_2_2_preview.jpg
   url: summits/kashkatura_vid_s_vershiny_2_2.jpg

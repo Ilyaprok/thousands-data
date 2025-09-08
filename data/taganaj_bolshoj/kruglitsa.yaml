@@ -4,15 +4,15 @@ coordinates:
 description: Курумный купол
 height: 1177
 images:
-- comment: С юга
-  preview_url: summits/kruglitsa_s_juga_0_preview.jpg
-  url: summits/kruglitsa_s_juga_0.jpg
 - comment: Плато Круглицы
-  preview_url: summits/kruglitsa_plato_kruglitsy_1_preview.jpg
-  url: summits/kruglitsa_plato_kruglitsy_1.jpg
+  preview_url: summits/kruglitsa_plato_kruglitsy_0_preview.jpg
+  url: summits/kruglitsa_plato_kruglitsy_0.jpg
 - comment: Вершина
-  preview_url: summits/kruglitsa_vershina_2_preview.jpg
-  url: summits/kruglitsa_vershina_2.jpg
+  preview_url: summits/kruglitsa_vershina_1_preview.jpg
+  url: summits/kruglitsa_vershina_1.jpg
+- comment: С юга
+  preview_url: summits/kruglitsa_s_juga_2_preview.jpg
+  url: summits/kruglitsa_s_juga_2.jpg
 interpretation: "<p><b>Круглица</b> &mdash; по форме, с юга кажется круглой. Сопка-гора\
   \ с округлой вершиной.</p>\r\n<p><b>Таган</b> (баш.) &mdash; подставка, треножник.\
   \ <b>Ай</b> &mdash; луна. Подставка луны, лунный треножник.\r\n<p><b>Ай</b> (тюрк.)\

@@ -9,12 +9,12 @@ description: "<p>Еловый лес, расчищенное от деревье
   \ покрыта еловым лесом."
 height: 1164
 images:
-- comment: Вид на вершину с г. Сухая
-  preview_url: summits/kamennyj_forfos_vid_na_vershinu_s_g._suhaja_0_preview.jpg
-  url: summits/kamennyj_forfos_vid_na_vershinu_s_g._suhaja_0.jpg
 - comment: Неподалеку от вершины
-  preview_url: summits/kamennyj_forfos_nepodaleku_ot_vershiny_1_preview.jpg
-  url: summits/kamennyj_forfos_nepodaleku_ot_vershiny_1.jpg
+  preview_url: summits/kamennyj_forfos_nepodaleku_ot_vershiny_0_preview.jpg
+  url: summits/kamennyj_forfos_nepodaleku_ot_vershiny_0.jpg
+- comment: Вид на вершину с г. Сухая
+  preview_url: summits/kamennyj_forfos_vid_na_vershinu_s_g._suhaja_1_preview.jpg
+  url: summits/kamennyj_forfos_vid_na_vershinu_s_g._suhaja_1.jpg
 interpretation: "Название, собственно, относится ко второй, более низкой вершине (1136),\
   \ где находится полукольцо скал оригинального строения, напоминающее крепостную\
   \ стену. Искажённое &laquo;форпост&raquo;. По легенде Пугачёв и Салават Юлаев в\

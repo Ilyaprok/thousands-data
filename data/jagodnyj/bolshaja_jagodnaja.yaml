@@ -4,18 +4,18 @@ coordinates:
 description: "\r\n"
 height: 1205
 images:
-- comment: Вершина
-  preview_url: summits/bolshaja_jagodnaja_vershina_0_preview.jpg
-  url: summits/bolshaja_jagodnaja_vershina_0.jpg
 - comment: '1'
-  preview_url: summits/bolshaja_jagodnaja_1_1_preview.jpg
-  url: summits/bolshaja_jagodnaja_1_1.jpg
+  preview_url: summits/bolshaja_jagodnaja_1_0_preview.jpg
+  url: summits/bolshaja_jagodnaja_1_0.jpg
+- comment: Вид в сторону массива Иремель
+  preview_url: summits/bolshaja_jagodnaja_vid_v_storonu_massiva_iremel'_1_preview.jpg
+  url: summits/bolshaja_jagodnaja_vid_v_storonu_massiva_iremel'_1.jpg
 - comment: остатки триангуляционной вышки
   preview_url: summits/bolshaja_jagodnaja_ostatki_trianguljatsionnoj_vyshki_2_preview.jpg
   url: summits/bolshaja_jagodnaja_ostatki_trianguljatsionnoj_vyshki_2.jpg
-- comment: Вид в сторону массива Иремель
-  preview_url: summits/bolshaja_jagodnaja_vid_v_storonu_massiva_iremel'_3_preview.jpg
-  url: summits/bolshaja_jagodnaja_vid_v_storonu_massiva_iremel'_3.jpg
+- comment: Вершина
+  preview_url: summits/bolshaja_jagodnaja_vershina_3_preview.jpg
+  url: summits/bolshaja_jagodnaja_vershina_3.jpg
 interpretation: "Обилие ягод. <strong>Елэк-Тау</strong> &mdash; ягодная гора.\r\n"
 name: Большая Ягодная
 name_alt: Елэк-Тау

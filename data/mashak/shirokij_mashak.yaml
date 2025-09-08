@@ -5,18 +5,18 @@ description: "Курумный купол, скальный выход. С за�
   \n"
 height: 1370
 images:
-- comment: Вершина
-  preview_url: summits/shirokij_mashak_vershina_0_preview.jpg
-  url: summits/shirokij_mashak_vershina_0.jpg
-- comment: Вид с вершины 3
-  preview_url: summits/shirokij_mashak_vid_s_vershiny_3_1_preview.jpg
-  url: summits/shirokij_mashak_vid_s_vershiny_3_1.jpg
-- comment: Вид с вершины 2
-  preview_url: summits/shirokij_mashak_vid_s_vershiny_2_2_preview.jpg
-  url: summits/shirokij_mashak_vid_s_vershiny_2_2.jpg
 - comment: Вид с вершины 1
-  preview_url: summits/shirokij_mashak_vid_s_vershiny_1_3_preview.jpg
-  url: summits/shirokij_mashak_vid_s_vershiny_1_3.jpg
+  preview_url: summits/shirokij_mashak_vid_s_vershiny_1_0_preview.jpg
+  url: summits/shirokij_mashak_vid_s_vershiny_1_0.jpg
+- comment: Вершина
+  preview_url: summits/shirokij_mashak_vershina_1_preview.jpg
+  url: summits/shirokij_mashak_vershina_1.jpg
+- comment: Вид с вершины 3
+  preview_url: summits/shirokij_mashak_vid_s_vershiny_3_2_preview.jpg
+  url: summits/shirokij_mashak_vid_s_vershiny_3_2.jpg
+- comment: Вид с вершины 2
+  preview_url: summits/shirokij_mashak_vid_s_vershiny_2_3_preview.jpg
+  url: summits/shirokij_mashak_vid_s_vershiny_2_3.jpg
 interpretation: <strong>Широкий</strong> в смысле обширный.
 name: Широкий Машак
 name_alt: null

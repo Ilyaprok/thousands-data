@@ -4,15 +4,15 @@ coordinates:
 description: Юго-западнее Тюлюкских болот.
 height: 1051
 images:
-- comment: Вершина с р. Тюлюк
-  preview_url: summits/1051_vershina_s_r._tjuljuk_0_preview.jpg
-  url: summits/1051_vershina_s_r._tjuljuk_0.jpg
 - comment: Панорама с вершины в сторону Иремеля
-  preview_url: summits/1051_panorama_s_vershiny_v_storonu_iremelja_1_preview.jpg
-  url: summits/1051_panorama_s_vershiny_v_storonu_iremelja_1.jpg
+  preview_url: summits/1051_panorama_s_vershiny_v_storonu_iremelja_0_preview.jpg
+  url: summits/1051_panorama_s_vershiny_v_storonu_iremelja_0.jpg
 - comment: Вершина с 1345 (Иремель)
-  preview_url: summits/1051_vershina_s_1345_(iremel')_2_preview.jpg
-  url: summits/1051_vershina_s_1345_(iremel')_2.jpg
+  preview_url: summits/1051_vershina_s_1345_(iremel')_1_preview.jpg
+  url: summits/1051_vershina_s_1345_(iremel')_1.jpg
+- comment: Вершина с р. Тюлюк
+  preview_url: summits/1051_vershina_s_r._tjuljuk_2_preview.jpg
+  url: summits/1051_vershina_s_r._tjuljuk_2.jpg
 interpretation: null
 name: null
 name_alt: null
