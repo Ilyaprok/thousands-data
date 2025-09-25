@@ -2,7 +2,7 @@ coordinates:
 - 54.8112
 - 58.8961
 description: null
-height: 1064
+height: 1069
 images:
 - comment: Вершина
   preview_url: summits/1064_vershina_0_preview.jpg
@@ -11,3 +11,5 @@ interpretation: null
 name: null
 name_alt: null
 prominence: 43
+legacy_ids:
+- "1064"

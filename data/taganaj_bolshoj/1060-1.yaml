@@ -2,7 +2,7 @@ coordinates:
 - 55.3001
 - 59.8277
 description: "Невысокие скалы в лесу\r\n"
-height: 1050
+height: 1060
 images:
 - comment: Вершина
   preview_url: summits/1050_vershina_0_preview.jpg
@@ -21,3 +21,5 @@ interpretation: null
 name: null
 name_alt: null
 prominence: 42
+legacy_ids:
+- "1050"

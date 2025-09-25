@@ -2,7 +2,7 @@ coordinates:
 - 54.5806
 - 58.5698
 description: "\r\n\r\n"
-height: 1048
+height: 1099
 images:
 - comment: Вершина на переднем плане (справа)
   preview_url: summits/1048_vershina_na_perednem_plane_(sprava)_0_preview.jpg
@@ -11,3 +11,5 @@ interpretation: <b>Пасынок</b> &mdash; неродной. Отрог хр�
 name: null
 name_alt: Пасынок
 prominence: 39
+legacy_ids:
+- "1048"

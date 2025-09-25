@@ -2,7 +2,7 @@ coordinates:
 - 54.7986
 - 58.8062
 description: "Маленький курумный купол, скальный выход\r\n"
-height: 1039
+height: 1030
 images:
 - comment: Вершина
   preview_url: summits/1039_vershina_0_preview.jpg
@@ -11,3 +11,5 @@ interpretation: null
 name: null
 name_alt: null
 prominence: 32
+legacy_ids:
+- "1039"

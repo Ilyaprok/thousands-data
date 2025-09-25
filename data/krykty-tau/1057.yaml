@@ -2,7 +2,7 @@ coordinates:
 - 53.648
 - 58.5092
 description: Лесостепь, камни, выход вулканических пород
-height: 1040
+height: 1057
 images:
 - comment: Вид с вершины
   preview_url: summits/1040_vid_s_vershiny_0_preview.jpg
@@ -11,3 +11,5 @@ interpretation: <b>Дальняя</b> &mdash; по расположению.
 name: null
 name_alt: Дальняя
 prominence: 106
+legacy_ids:
+- "1040"

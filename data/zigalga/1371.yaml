@@ -2,7 +2,7 @@ coordinates:
 - 54.6464
 - 58.6346
 description: Курумный купол
-height: 1360
+height: 1371
 images:
 - comment: Вершина
   preview_url: summits/1360_vershina_0_preview.jpg
@@ -11,3 +11,5 @@ interpretation: ''
 name: null
 name_alt: Круглая
 prominence: 77
+legacy_ids:
+- "1360"

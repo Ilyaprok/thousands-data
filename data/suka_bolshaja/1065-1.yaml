@@ -2,7 +2,7 @@ coordinates:
 - 54.7967
 - 58.8214
 description: ''
-height: 1054
+height: 1065
 images:
 - comment: Вершина
   preview_url: summits/1054-1_vershina_0_preview.jpg
@@ -11,3 +11,5 @@ interpretation: null
 name: null
 name_alt: Пески
 prominence: 92
+legacy_ids:
+- "1054-1"

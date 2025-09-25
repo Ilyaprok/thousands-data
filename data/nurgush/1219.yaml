@@ -2,7 +2,7 @@ coordinates:
 - 54.77
 - 59.0591
 description: ''
-height: 1213
+height: 1219
 images:
 - comment: Вид с вершины
   preview_url: summits/1213_vid_s_vershiny_0_preview.jpg
@@ -14,3 +14,5 @@ interpretation: null
 name: null
 name_alt: null
 prominence: 91
+legacy_ids:
+- "1213"

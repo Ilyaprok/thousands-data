@@ -3,7 +3,7 @@ coordinates:
 - 58.6836
 description: Невысокий курумный купол овальной формы с плоской вершиной и скальными
   выходами.
-height: 1310
+height: 1332
 images:
 - comment: Вершина
   preview_url: summits/1310_vershina_0_preview.jpg
@@ -19,3 +19,5 @@ interpretation: "<ol>\r\n<li><strong>Евлакта</strong> &mdash; горна�
 name: null
 name_alt: Евлахта, Евлакта
 prominence: 62
+legacy_ids:
+- "1310"
